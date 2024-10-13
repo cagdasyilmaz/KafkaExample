@@ -1,0 +1,67 @@
+{ "advanced_prepositions" : [
+     {"word" : "amid",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in the middle of, among",
+               "turkish_meaning" : "arasında",
+               "sample_sentences" : "He resigned <span style='color:red;'>amid</span> allegations of fraud."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/amid",
+     "youglish_url" : "https://youglish.com/pronounce/amid/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/amid"},     
+     
+     {"word" : "and alike",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "both ... and ...",
+               "turkish_meaning" : "hem ... hem de ...",
+               "sample_sentences" : "This book will appeal to older <span style='color:red;'>and</span> younger readers <span style='color:red;'>alike</span>. / Governments <span style='color:red;'>and</span> corporations <span style='color:red;'>alike</span> are vulnerable to the twin threats of cybercrime and cyberterror."
+          }
+          ],
+     "macmillan_url" : "https://www.wordsense.eu/and_alike/",
+     "youglish_url" : "https://youglish.com/pronounce/and%20alike/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/and+alike"},
+     
+     {"word" : "as a last resort",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "if all the other methods fail",
+               "turkish_meaning" : "son çare olarak",
+               "sample_sentences" : "War is not inevitable. Force should only be used <span style='color:red;'>as a last resort</span>."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/as-a-last-resort",
+     "youglish_url" : "https://youglish.com/pronounce/as-a-last-resort/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/as+a+last+resort"},
+     
+     {"word" : "as far as I am concerned",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "as far as someone is concerned | in my opinion, in my view, for my part",
+               "turkish_meaning" : "-e göre, bakımından, açısından",
+               "sample_sentences" : "<span style='color:red;'>As far as I am concerned</span>, there is no comprassion between amateur and professional sports."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/as-far-as-is-concerned",
+     "youglish_url" : "https://youglish.com/pronounce/as%20far%20as%20%20I%20am%20concerned/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/as+far+as+I+am+concerned"},
+     
+     {"word" : "as far as we are concerned",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "from our point of view",
+               "turkish_meaning" : "bizim açımızdan, bize göre",
+               "sample_sentences" : "<span style='color:red;'>As far as we are concerned, the diplomatic route is not closed.</span>"
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/as-far-as-is-concerned",
+     "youglish_url" : "https://youglish.com/pronounce/as%20far%20as%20%20we%20are%20concerned/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/as+far+as+we+are+concerned"}
+      ]
+}

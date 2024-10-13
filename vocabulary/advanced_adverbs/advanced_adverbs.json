@@ -1,0 +1,67 @@
+{ "advanced_adverbs" : [
+     {"word" : "admittedly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "it should be admitted that",
+               "turkish_meaning" : "kabul edilmelidir ki, kabul etmek gerekir ki",
+               "sample_sentences" : "<span style='color:red;'>Admittedly</span>, the rules are strict. / <span style='color:red;'>Admittedly</span>, I could have done better if I had tried harder."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/admittedly",
+     "youglish_url" : "https://youglish.com/pronounce/admittedly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/admittedly"},     
+     
+     {"word" : "amply",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "sufficiently, abundantly",
+               "turkish_meaning" : "yeterince, fazlasıyla",
+               "sample_sentences" : "The manager's unceasing efforts to improve productivity was <span style='color:red;'>amply</span> rewarded."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/amply",
+     "youglish_url" : "https://youglish.com/pronounce/amply/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/amply"},
+     
+     {"word" : "ardently",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "passionately, eagerly, enthusiastically, keenly, zealously",
+               "turkish_meaning" : "coşkuyla, ihtirasla, heyecanla, şiddetle",
+               "sample_sentences" : "I wish for nothing more <span style='color:red;'>ardently</span> upon earth, than to see my friends and country again. / Clarity of mind means clarity passion, too; this is why a great and clear mind loves <span style='color:red;'>ardently</span> and sees distinctly what he loves. (Blaise Pascal)"
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/ardently",
+     "youglish_url" : "https://youglish.com/pronounce/ardently/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ardently"},
+     
+     {"word" : "catastrophically",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "disastrously, calamitously, appallingly",
+               "turkish_meaning" : "felaket getirici biçimde, dehşet verici biçimde",
+               "sample_sentences" : "With world temperatures on course to rise by two to three degrees in 50 years, rainfall could be <span style='color:red;'>catastrophically</span> reduced in some of hte world's poorest countries, while others grapple with floods from meltin glaciers. / The club <span style='color:red;'>catastrophically</span> failed to fulfil/fulfill expectations on the football field."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/catastrophically",
+     "youglish_url" : "https://youglish.com/pronounce/catastrophically/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/catastrophically"},
+     
+     {"word" : "confidentially",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in secret, secretly, in confidence",
+               "turkish_meaning" : "gizlice",
+               "sample_sentences" : "She could not tell me what he said – he was speaking <span style='color:red;'>confidentially</span>. / He told me <span style='color:red;'>confidentially</span> that he would resign soon."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/confidentially",
+     "youglish_url" : "https://youglish.com/pronounce/confidentially/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/confidentially"}
+      ]
+}

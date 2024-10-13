@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+message Synonym {
+  int32 id = 1;
+  string synonym = 2;
+  string turkish_meaning = 3;
+  string sample_sentences = 4;
+}
+
+message Vocabulary {
+  string word = 1;
+  repeated Synonym synonyms_related_words = 2;
+  string macmillan_url = 3;
+  string youglish_url = 4;
+  string reverso_url = 5;
+}

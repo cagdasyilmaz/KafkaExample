@@ -1,0 +1,79 @@
+{ "advanced_verbs" : [
+     {"word" : "abate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "lessen, decrease",
+               "turkish_meaning" : "azal(t)mak",
+               "sample_sentences" : "His poor performance <span style='color:red;'>abated</span> his enthusiasm. / The steady rise in atmospheric levels of the greenhouse gases shows no signs of <span style='color:red;'>abating</span>."
+          },
+          {
+               "id": 2,
+               "synonym" : "subside, stop, terminate",
+               "turkish_meaning" : "dinmek, durmak",
+               "sample_sentences" : "When the storm <span style='color:red;'>abated</span>, we set off for our long journey."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abate",
+     "youglish_url" : "https://youglish.com/pronounce/abate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abate"},     
+     
+     {"word" : "abduct",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "kidnap",
+               "turkish_meaning" : "kaçırmak",
+               "sample_sentences" : "A wealthy businessman's son <span style='color:red;'>has been abducted</span> by some unidentified gunmen."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abduct",
+     "youglish_url" : "https://youglish.com/pronounce/abduct/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abduct"},
+     
+     {"word" : "abhor",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "hate, detest, loathe",
+               "turkish_meaning" : "nefret etmek",
+               "sample_sentences" : "He <span style='color:red;'>abhors</span> all kinds of violence."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abhor",
+     "youglish_url" : "https://youglish.com/pronounce/violence/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/violence"},
+     
+     {"word" : "abolish",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "put an end to, bring to an end, do away with, eliminate",
+               "turkish_meaning" : "sona erdirmek, ortadan kaldırmak",
+               "sample_sentences" : "According to Bertrand Russell, either man will <span style='color:red;'>abolish</span> war or war will <span style='color:red;'>abolish</span> man. / The slave trade <span style='color:red;'>was abolished</span> in Great Britain in 1807."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abolish",
+     "youglish_url" : "https://youglish.com/pronounce/abolish/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abolish"},
+     
+     {"word" : "abstain from",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "refrain from",
+               "turkish_meaning" : "uzak durmak",
+               "sample_sentences" : "The doctor told him to <span style='color:red;'>abstain from</span> alcahol."
+          },
+          {
+               "id": 2,
+               "synonym" : "decline to vote",
+               "turkish_meaning" : "çekimser kalmak",
+               "sample_sentences" : "Twenty-fice people voted for the motion, twenty-one against, and three <span style='color:red;'>abstained</span>."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/abstain-from?q=abstain+from+something",
+     "youglish_url" : "https://youglish.com/pronounce/abstain%20from/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abstain+from"}
+      ]
+}

@@ -1,0 +1,73 @@
+{ "phrasal_verbs" : [
+     {"word" : "abide by",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "stick to, conform to, adhere to",
+               "turkish_meaning" : "uymak, bağlı kalmak",
+               "sample_sentences" : "We believe that she will <span style='color:red;'>abide by</span> her promise."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abide-by",
+     "youglish_url" : "https://youglish.com/pronounce/abide%20by/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abide+by"},     
+     
+     {"word" : "abound in",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "be plentiful",
+               "turkish_meaning" : "bol olmak",
+               "sample_sentences" : "Fish <span style='color:red;'>abound in</span> this river."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/abound-in-with",
+     "youglish_url" : "https://youglish.com/pronounce/abound%20in/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abound+in"},
+
+     {"word" : "abound with",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "be full of",
+               "turkish_meaning" : "ile dolu olmak",
+               "sample_sentences" : "The Internet <span style='color:red;'>abounds with</span> valuable services for readers that are only a click away."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/abound-in-with",
+     "youglish_url" : "https://youglish.com/pronounce/abound%with/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abound+with"},
+
+     {"word" : "absorbed in",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "be engrossed",
+               "turkish_meaning" : "bir şeye dalmak",
+               "sample_sentences" : "The two boys <span style='color:red;'>were</span> <span style='color:blue;'>so</span> <span style='color:red;'>absorbed in</span> their game that they did not notice the passage of time."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/absorbed?q=absorbed+in#absorbed__3",
+     "youglish_url" : "https://youglish.com/pronounce/absorbed%20in/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/absorbed+in"},
+
+     {"word" : "abstain from",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "decline to vote",
+               "turkish_meaning" : "çekimser kalmak",
+               "sample_sentences" : "Only three MPs <span style='color:red;'>abstained from</span> voting at the end of the long debate."
+          },
+          {
+               "id": 2,
+               "synonym" : "refrain from",
+               "turkish_meaning" : "-den uzak durmak",
+               "sample_sentences" : "You must <span style='color:red;'>abstain from</span> cigarettes and alcohol."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/abstain-from",
+     "youglish_url" : "https://youglish.com/pronounce/abstain%20from/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abstain+from"}
+     ]
+}

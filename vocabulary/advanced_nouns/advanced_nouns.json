@@ -1,0 +1,67 @@
+{ "advanced_nouns" : [
+     {"word" : "abduction",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "kidnap",
+               "turkish_meaning" : "(insan) kaçırma",
+               "sample_sentences" : "Police figures indicate that child <span style='color:red;'>abductions</span> and attempted <span style='color:red;'>abductions</span> in England and Wales have risen in the past year by 45 per cent to a record 846 offences."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abduction",
+     "youglish_url" : "https://youglish.com/pronounce/abduction/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abduction"},     
+     
+     {"word" : "abolition",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "ending, eliminitation, eradication",
+               "turkish_meaning" : "sona erdirme, ortadan kaldırma",
+               "sample_sentences" : "<span style='color:red;'>Abolition</span> of war is one purpose of the United Nations. / The <span style='color:red;'>abolition</span> of capital punishment did not bring about a significant rise in violent crime."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abolition",
+     "youglish_url" : "https://youglish.com/pronounce/abolition/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abolition"},
+     
+     {"word" : "abortion",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "termination of pregnancy, miscarriage",
+               "turkish_meaning" : "kürtaj, düşük",
+               "sample_sentences" : "Nicaragua last night voted to outlaw all forms of <span style='color:red;'>abortion</span>, including operations to save a pregnant woman's life, after a campaign by the Catholic church."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abortion",
+     "youglish_url" : "https://youglish.com/pronounce/abortion/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abortion"},
+     
+     {"word" : "abstention",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "abstaining, nonparticipation",
+               "turkish_meaning" : "çekimser oy",
+               "sample_sentences" : "There were ten votes in favor, five against and four <span style='color:red;'>abstention</span>s."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abstention",
+     "youglish_url" : "https://youglish.com/pronounce/abstention/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abstention"},
+     
+     {"word" : "acceleration",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "speeding up",
+               "turkish_meaning" : "hızlanma, ivme",
+               "sample_sentences" : "<span style='color:red;'>Acceleration</span> of thooth decay is caused by lack of care."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/acceleration",
+     "youglish_url" : "https://youglish.com/pronounce/acceleration/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/acceleration"}
+      ]
+}

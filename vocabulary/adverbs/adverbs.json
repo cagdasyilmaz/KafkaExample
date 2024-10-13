@@ -1,0 +1,67 @@
+ { "adverbs" : [
+     {"word" : "accordingly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "therefore",
+               "turkish_meaning" : "bundan dolayı",
+               "sample_sentences" : "The speech was very funny. <span style='color:red;'>Accordingly</span>, the audience laughed loudly."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/accordingly",
+     "youglish_url" : "https://youglish.com/pronounce/accordingly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accordingly"},
+
+     {"word" : "accurately",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "correctly, precisely",
+               "turkish_meaning" : "doğru olarak, kesin olarak",
+               "sample_sentences" : "She has <span style='color:red;'>accurately</span> predicted the outcome of events."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/accurately",
+     "youglish_url" : "https://youglish.com/pronounce/accurately/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accurately"},
+
+     {"word" : "adequately",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "sufficiently, satisfactorily",
+               "turkish_meaning" : "yeterince, tatminkar biçimde",
+               "sample_sentences" : "A student cannot get a good grade if the given topic is not <span style='color:red;'>adequately</span> developed in his essay."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/adequately",
+     "youglish_url" : "https://youglish.com/pronounce/adequately/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adequately"},
+
+     {"word" : "adversely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unfavorably, harmfully, badly, negatively",
+               "turkish_meaning" : "elverişsiz biçimde, zararlı biçimde, kötü biçimde, olumsuz biçimde",
+               "sample_sentences" : "The peace process between two countries is important and all possible efforts should be made to see that the process is not in any way <span style='color:red;'>adversely</span> affected. / Vitamin D deficiency may <span style='color:red;'>adversely</span> impact both mood and cognitive performance in older adults, according to researchers from Washington University School of Medicine."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/adverse?q=adversely#adverse__7",
+     "youglish_url" : "https://youglish.com/pronounce/adversely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adversely"},
+
+     {"word" : "annually",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "yearly, once a year",
+               "turkish_meaning" : "yıllık olarak, yılda bir",
+               "sample_sentences" : "We pay our tax <span style='color:red;'>annually</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/annually",
+     "youglish_url" : "https://youglish.com/pronounce/annually/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/annually"}
+     ]
+ }

@@ -1,0 +1,78 @@
+{ "prepositions" : [
+     {"word" : "according to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in accordance with, in agreement with",
+               "turkish_meaning" : "...e göre",
+               "sample_sentences" : "<span style='color:red;'>According to</span> the law, you must pay a small fine."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/according-to",
+     "youglish_url" : "https://youglish.com/pronounce/according%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/according+to"
+     },
+
+     {"word" : "along with",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "together with, in company with",
+               "turkish_meaning" : "ile birlikte",
+               "sample_sentences" : "When the factory closed last year, Berrin lost her job <span style='color:red;'>along with</span> hundreds of others."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/along-with",
+     "youglish_url" : "https://youglish.com/pronounce/along%20with/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/along+with"
+     },
+
+     {"word" : "apart from",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in addition to (in sentences having a positive sense)",
+               "turkish_meaning" : "...nın yanı sıra (olumlu anlam taşıyan cümlelerde)",
+               "sample_sentences" : "<span style='color:red;'>Apart from</span> a flat in Ankara, he has a car."
+          },
+          {
+               "id": 2,
+               "synonym" : "except for (in sentences having a negative sense)",
+               "turkish_meaning" : "...nın dışında (olumsuz anlam taşıyan cümlelerde)",
+               "sample_sentences" : "<span style='color:red;'>Apart from</span> a flat in Ankara, he doesn't have any car."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/apart-from",
+     "youglish_url" : "https://youglish.com/pronounce/apart%20from/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/apart+from"
+     },
+
+     {"word" : "as a result of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in consequence of, because of, due to",
+               "turkish_meaning" : "...nın sonucunda, ...den dolayı",
+               "sample_sentences" : "The World Health Organization reports that 150,000 people die every year <span style='color:red;'>as a result of</span> climate change. / Some countries, such as Russia and Italy have a negative natural population growth <span style='color:red;'>as a result of</span> a decline in the birth rate."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/spellcheck/british/?q=as+a+result+of",
+     "youglish_url" : "https://youglish.com/pronounce/as%20a%20result%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/as+a+result+of"
+     }, 
+
+     {"word" : "as regards",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "concerning, regarding, with regard to, with reference to",
+               "turkish_meaning" : "ilgili, bakımından",
+               "sample_sentences" : "His suggestion <span style='color:red;'>as regards</span> the revision of the course material was not taken into account. / Humans and chimpanzees are alike / similar <span style='color:red;'>as regards</span> their anatomical features."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/as-regards",
+     "youglish_url" : "https://youglish.com/pronounce/as%20regards/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/as+regards"
+     }
+     ]
+}

@@ -1,0 +1,67 @@
+{ "advanced_adjectives" : [
+     {"word" : "ablaze",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "on fire, in flames, burning strongly",
+               "turkish_meaning" : "alevler içinde",
+               "sample_sentences" : "The house was <span style='color:red;'>ablaze</span>, and the flames and the smoke could be seen for miles around."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/ablaze",
+     "youglish_url" : "https://youglish.com/pronounce/abduction/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ablaze"},     
+     
+     {"word" : "accountable for",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "responsible, liable",
+               "turkish_meaning" : "sorumlu",
+               "sample_sentences" : "The treasurer is certain to be held <span style='color:red;'>accountable for</span> the missing money."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/accountable",
+     "youglish_url" : "https://youglish.com/pronounce/accountable%20for/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accountable+for"},
+     
+     {"word" : "adamant about",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "resolute, obstinate, unyielding",
+               "turkish_meaning" : "kararlı, inatçı, ısrarlı",
+               "sample_sentences" : "Mary, who is very upset about her boy friend's infidelity, is <span style='color:red;'>adamant about</span> not seeing him any longer."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/adamant",
+     "youglish_url" : "https://youglish.com/pronounce/adamant%20about/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adamant+about"},
+     
+     {"word" : "addictive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "causing addiction",
+               "turkish_meaning" : "bağımlılık yapıcı",
+               "sample_sentences" : "Tobacco is highly <span style='color:red;'>addictive</span>."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/addictive",
+     "youglish_url" : "https://youglish.com/pronounce/addictive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/addictive"},
+     
+     {"word" : "adept at",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "skillful, skilled, adroit, expert",
+               "turkish_meaning" : "becerikli, usta, uzman",
+               "sample_sentences" : "She is quite <span style='color:red;'>adept at</span> making good excuses. / My friend is an <span style='color:red;'>adept</span> guitarist."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/adept",
+     "youglish_url" : "https://youglish.com/pronounce/adept%20at/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adept+at"}
+     ]    
+}

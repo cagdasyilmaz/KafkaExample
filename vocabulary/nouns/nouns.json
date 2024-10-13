@@ -1,0 +1,67 @@
+{ "nouns" : [
+     {"word" : "ability",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "capability, gift, talent, aptitude",
+               "turkish_meaning" : "yetenek",
+               "sample_sentences" : "His <span style='color:red;'>ability</span> to organize social events is deserving of praise. He is definitely good at such activities."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/ability",
+     "youglish_url" : "https://youglish.com/pronounce/ability/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ability"},     
+     
+     {"word" : "acceleration",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "speeding up, stepping up",
+               "turkish_meaning" : "hızlanma, artma",
+               "sample_sentences" : "The  <span style='color:red;'>acceleration</span> in the incidence of obesity will lead to many thousands more people suffering from diseases such as heart disease, cancer and diabetes."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/acceleration",
+     "youglish_url" : "https://youglish.com/pronounce/acceleration/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/acceleration"},     
+	
+     {"word" : "access (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "entry, entrance, right of entry, right to use, admission",
+               "turkish_meaning" : "giriş, erişme, ulaşma, yararlanma olanağı",
+               "sample_sentences" : "The building has a side <span style='color:red;'>access</span>. / If you learn a foreign language well, you can gain <span style='color:red;'>access to</span> its literature. / We were denied <span style='color:red;'>access to</span> a telephone."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/access",
+     "youglish_url" : "https://youglish.com/pronounce/access/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/access"},     
+
+     {"word" : "accessibility (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "ease of access, convenience, ease of use",
+               "turkish_meaning" : "erişilebilirlik, ulaşılabilirlik",
+               "sample_sentences" : "<span style='color:red;'>Accessibility to</span> health care facilities has been identified as a major indicator of development."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/accessibility",
+     "youglish_url" : "https://youglish.com/pronounce/accessibility/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accessibility"},
+
+     {"word" : "accommodation",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "lodging, somewhere to stay or live, housing, room",
+               "turkish_meaning" : "kalacak yer, yatacak yer",
+               "sample_sentences" : "The <span style='color:red;'>accommodation</span> at that hotel are first-class. / Many foreign students have difficulty in finding appropriate <span style='color:red;'>accommodation</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/accommodation",
+     "youglish_url" : "https://youglish.com/pronounce/accommodation/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accommodation"}
+     ]
+}

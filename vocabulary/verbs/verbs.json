@@ -1,0 +1,79 @@
+{ "verbs" : [
+     {"word" : "abandon",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "leave",
+               "turkish_meaning" : "terketmek",
+               "sample_sentences" : "He <span style='color:red;'>abondoned</span> everyone else to their fate and fled to safety."
+          },
+          {
+               "id": 2,
+               "synonym" : "give up",
+               "turkish_meaning" : "vazgeçmek",
+               "sample_sentences" : "The project was <span style='color:red;'>abondoned</span> because of lack of funds."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abandon",
+     "youglish_url" : "https://youglish.com/pronounce/abandon/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abandon"},     
+     
+     {"word" : "abound in",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "be plentiful",
+               "turkish_meaning" : "bol olmak",
+               "sample_sentences" : "Jackals <span style='color:red;'>abound in</span> this forest."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/abound-in-with?q=abound+in",
+     "youglish_url" : "https://youglish.com/pronounce/abound%20in/english?",
+     "reverso_url": "https://context.reverso.net/translation/english-turkish/abound+in"},
+
+     {"word" : "abound with",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "be full of",
+               "turkish_meaning" : "ile dolu olmak",
+               "sample_sentences" : "The Hawaiian Islands <span style='color:red;'>abound with</span> natural beauty and wildlife, especially a number of endemic bird spices, i.e. ones that are only found in these locations."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/abound-in-with?q=abound+with",
+     "youglish_url" : "https://youglish.com/pronounce/abound%20with/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abound+with"},
+
+     {"word" : "absorb",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "suck up",
+               "turkish_meaning" : "emmek",
+               "sample_sentences" : "Ice reflects the Sun's radiation; water <span style='color:red;'>absorbs</span> it."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/absorb",
+     "youglish_url" : "https://youglish.com/pronounce/absorb/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/absorb"},
+
+     {"word" : "abuse",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "misuse",
+               "turkish_meaning" : "kötüye kullanmak, istismar etmek",
+               "sample_sentences" : "He <span style='color:red;'>abused</span> his position at the university."
+          },
+          {
+               "id": 2,
+               "synonym" : "ill-treat, mistreat, treat badly",
+               "turkish_meaning" : "kötü davranmak",
+               "sample_sentences" : "The angry man <span style='color:red;'>abused</span> his donkey by beating it badly."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abuse",
+     "youglish_url" : "https://youglish.com/pronounce/abuse/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abuse"}
+     ]
+}

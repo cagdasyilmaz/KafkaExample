@@ -1,0 +1,67 @@
+{ "adjectives" : [
+     {"word" : "accessible",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "reachable, obtainable",
+               "turkish_meaning" : "erişilebilir, ulaşılabilir",
+               "sample_sentences" : "Because of the information was easily <span style='color:red;'>accessible</span>, we found it immediately."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/accessible",
+     "youglish_url" : "https://youglish.com/pronounce/accessible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accessible"},
+
+     {"word" : "accidental",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "chance",
+               "turkish_meaning" : "kazara, tesadüfen",
+               "sample_sentences" : "Our <span style='color:red;'>accidental</span> meeting led to our becoming friends."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/accidental",
+     "youglish_url" : "https://youglish.com/pronounce/accidental/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accidental"},
+
+     {"word" : "accurate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "correct, exact, precise",
+               "turkish_meaning" : "doğru, kesin",
+               "sample_sentences" : "We need <span style='color:red;'>accurate</span> figures to make better estimate of the cost of the project." 
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/accurate",
+     "youglish_url" : "https://youglish.com/pronounce/accurate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accurate"},
+
+     {"word" : "accustomed (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "used to, familiar with",
+               "turkish_meaning" : "alışkın",
+               "sample_sentences" : "He is <span style='color:red;'>accustomed</span> to our customs."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/accustomed",
+     "youglish_url" : "https://youglish.com/pronounce/accustomed/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accustomed"},
+
+     {"word" : "acquainted (with)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "familiar with",
+               "turkish_meaning" : "tanışık, aşina",
+               "sample_sentences" : "We are <span style='color:red;'>acquainted with</span> each other, but are not friends. / I am <span style='color:red;'>acquainted with</span> the neigborhood."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/acquainted",
+     "youglish_url" : "https://youglish.com/pronounce/acquainted/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/acquainted"}
+     ]
+}
