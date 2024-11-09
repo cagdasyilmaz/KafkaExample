@@ -31,18 +31,24 @@
 #include <iomanip>
 #include <iostream>
 #include <filesystem>
+#include <fstream>
+#include <thread>
+#include <atomic>
 
 void initLogger(const std::string& name);
 
 class CustomLogSink : public google::LogSink {
 public:
+    ~CustomLogSink();
 
-    /*
-     * The following implementation is deprecated!
-     */
-    /*void send(google::LogSeverity severity, const char* full_filename, const char* base_filename,
-              int line, const struct ::tm* tm_time, const char* message, size_t message_len) override;*/
+    // Start the thread after the object is fully constructed
+    void start();
 
     void send(google::LogSeverity severity, const char* full_filename, const char* base_filename, int line,
                          const google::LogMessageTime& log_message_time, const char* message, size_t message_len) override;
+
+private:
+    std::atomic<bool> running;
+    std::thread sizeMonitorThread;
+    void checkAndCompressLog() const;
 };
