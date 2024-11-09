@@ -39,9 +39,8 @@ void stopRunning(int sig) {
     }
 }
 
-int main() {
+int main(int argc, char* argv[]) {
 
-    //initLogger("KafkaConsumer");
     initLogger("KafkaConsumer");
 
     // Use Ctrl-C to terminate the program
