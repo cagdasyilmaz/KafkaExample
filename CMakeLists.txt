@@ -25,7 +25,7 @@ pkg_check_modules(RDKAFKA REQUIRED IMPORTED_TARGET rdkafka)
 find_package(protobuf CONFIG REQUIRED)
 find_package(Threads REQUIRED)
 
-find_package(glog 0.6.0 REQUIRED)
+find_package(glog 0.7.1 REQUIRED)
 
 include_directories(/include)
 
