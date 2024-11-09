@@ -44,7 +44,7 @@
                "id": 1,
                "synonym" : "disastrously, calamitously, appallingly",
                "turkish_meaning" : "felaket getirici biçimde, dehşet verici biçimde",
-               "sample_sentences" : "With world temperatures on course to rise by two to three degrees in 50 years, rainfall could be <span style='color:red;'>catastrophically</span> reduced in some of hte world's poorest countries, while others grapple with floods from meltin glaciers. / The club <span style='color:red;'>catastrophically</span> failed to fulfil/fulfill expectations on the football field."
+               "sample_sentences" : "With world temperatures on course to rise by two to three degrees in 50 years, rainfall could be <span style='color:red;'>catastrophically</span> reduced in some of the world's poorest countries, while others grapple with floods from meltin glaciers. / The club <span style='color:red;'>catastrophically</span> failed to fulfil/fulfill expectations on the football field."
           }
           ],
      "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/catastrophically",
@@ -62,6 +62,34 @@
           ],
      "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/confidentially",
      "youglish_url" : "https://youglish.com/pronounce/confidentially/english?",
-     "reverso_url" : "https://context.reverso.net/translation/english-turkish/confidentially"}
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/confidentially"},
+
+     {"word" : "conscientiously",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "carefully, digilently",
+               "turkish_meaning" : "özenle, gayretli bir biçimde",
+               "sample_sentences" : "He works <span style='color:red;'>conscientiously</span> to produce high quality work."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/conscientiously",
+     "youglish_url" : "https://youglish.com/pronounce/conscientiously/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/conscientiously"},
+
+     {"word" : "consecutively",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "successively",
+               "turkish_meaning" : "ard arda, peş peşe, üst üste",
+               "sample_sentences" : "It rained for three days <span style='color:red;'>consecutively</span>. / It was the first time that the two events had taken place <span style='color:red;'>consecutively</span> in a single venue."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/consecutively",
+     "youglish_url" : "https://youglish.com/pronounce/consecutively/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/consecutively"}
+      
       ]
+     
 }

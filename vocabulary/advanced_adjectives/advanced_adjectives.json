@@ -62,6 +62,189 @@
           ],
      "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/adept",
      "youglish_url" : "https://youglish.com/pronounce/adept%20at/english?",
-     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adept+at"}
-     ]    
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adept+at"},
+
+     {"word" : "adjacent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "neighboring, nearby, adjoining",
+               "turkish_meaning" : "bitişik",
+               "sample_sentences" : "They began building on the land immediately <span style='color:red;'>adjacent</span> to the park."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/adjacent",
+     "youglish_url" : "https://youglish.com/pronounce/adjacent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adjacent"},
+
+     {"word" : "affluent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "rich, wealthy , well of, prosperous",
+               "turkish_meaning" : "zengin",
+               "sample_sentences" : "Massive AIDS epidemics used to be confined to extremely poor, extremely chaotic sub-Saharan Africa. Now, big epidemics are developing in more <span style='color:red;'>affluent</span>, better organized parts of the world."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/affluent",
+     "youglish_url" : "https://youglish.com/pronounce/affluent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/affluent"},
+
+     {"word" : "ailing",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "sick, ill, poorly",
+               "turkish_meaning" : "hasta",
+               "sample_sentences" : "The new government's main taks is to cure the country's <span style='color:red;'>ailing</span> economy."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/ailing",
+     "youglish_url" : "https://youglish.com/pronounce/ailing/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ailing"},
+
+     {"word" : "akin",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "to | similar, analogous",
+               "turkish_meaning" : "benzer",
+               "sample_sentences" : "The creation of a democratic Iraq in the heart of the Middle East would bring rewards <span style='color:red;'>akin to</span> those from the rebuilding of Germany and Japan after Second World War."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/akin",
+     "youglish_url" : "https://youglish.com/pronounce/akin/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/akin"},
+
+     {"word" : "alert",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "watchful, vigilant, attentive",
+               "turkish_meaning" : "dikkatli",
+               "sample_sentences" : "A good hunting dog is <span style='color:red;'>alert</span> to every sound in the area."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/alert",
+     "youglish_url" : "https://youglish.com/pronounce/alert/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/alert"},
+
+     {"word" : "alien",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "foreign, unfamiliar",
+               "turkish_meaning" : "yabancı",
+               "sample_sentences" : "This kind of life is totally <span style='color:red;'>alien</span> to us."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/alien",
+     "youglish_url" : "https://youglish.com/pronounce/alien/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/alien"},
+
+     {"word" : "alternate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "every other, alternating",
+               "turkish_meaning" : "gün/hafta/vb. aşırı, dönüşümlü",
+               "sample_sentences" : "We get milk on <span style='color:red;'>alternate</span> days because it is not delivered every day."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/alternate",
+     "youglish_url" : "https://youglish.com/pronounce/alternate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/alternate"},
+
+     {"word" : "ambiguous",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unclear, vauge, indefinite, indistinct",
+               "turkish_meaning" : "belirsiz",
+               "sample_sentences" : "The agreement is very <span style='color:red;'>ambiguous</span> and open to different interpretations."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/ambiguous",
+     "youglish_url" : "https://youglish.com/pronounce/ambiguous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ambiguous"},
+
+     {"word" : "amiable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "frienly, kind",
+               "turkish_meaning" : "samimi, içten, nazik",
+               "sample_sentences" : "The owner of this shop is always <span style='color:red;'>amiable</span> to her all his customers."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/amiable",
+     "youglish_url" : "https://youglish.com/pronounce/amiable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/amiable"},
+
+     {"word" : "ample",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "abundant, plentiful",
+               "turkish_meaning" : "bol",
+               "sample_sentences" : "We have <span style='color:red;'>ample</span> money for the journey."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/ample",
+     "youglish_url" : "https://youglish.com/pronounce/ample/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ample"},
+
+     {"word" : "antagonistic",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "hostile, opposed, aggressive",
+               "turkish_meaning" : "düşmanca",
+               "sample_sentences" : "He has an <span style='color:red;'>antagonistic</span> behavior <span style='color:blue;'>towards</span> his neighbor."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/antagonistic",
+     "youglish_url" : "https://youglish.com/pronounce/antagonistic/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/antagonistic"},
+
+     {"word" : "apathetic",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "indifferent, unconcerned",
+               "turkish_meaning" : "ilgisiz, kayıtsız",
+               "sample_sentences" : "She was <span style='color:red;'>apathetic</span> <span style='color:blue;'>to</span> her neighbor's plight."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/apathetic",
+     "youglish_url" : "https://youglish.com/pronounce/apathetic/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/apathetic"},
+
+     {"word" : "appealing",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "attractive, fascinating, alluring",
+               "turkish_meaning" : "çekici, cazip",
+               "sample_sentences" : "The Tagus Valley, which is rich in history, culture and leisure opportunities, is one of the most <span style='color:red;'>appealing</span> holiday regions in Portugal."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/appealing",
+     "youglish_url" : "https://youglish.com/pronounce/appealing/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/appealing"},
+
+     {"word" : "apprehensive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "(about, of) | worried, anxious, concerned, uneasy, fearful, frightened",
+               "turkish_meaning" : "kaygılı, korkulu biçimde",
+               "sample_sentences" : "I'am very <span style='color:red;'>apprehensive</span> <span style='color:blue;'>about</span> tomorrow's meeting. / Many young people who are unemployed are <span style='color:red;'>apprehensive</span> <span style='color:blue;'>of</span> their future."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/apprehensive",
+     "youglish_url" : "https://youglish.com/pronounce/apprehensive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/apprehensive"}
+     ]
+     
 }

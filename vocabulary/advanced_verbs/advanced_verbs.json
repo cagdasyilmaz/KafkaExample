@@ -74,6 +74,827 @@
           ],
      "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/abstain-from?q=abstain+from+something",
      "youglish_url" : "https://youglish.com/pronounce/abstain%20from/english?",
-     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abstain+from"}
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abstain+from"},
+     
+     {"word" : "abuse",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "treat badly, ill-threat, maltreat",
+               "turkish_meaning" : "kötü muamele etmek, istismar etmek",
+               "sample_sentences" : "Many domestic servants from developing countries <span style='color:red;'>are abused</span> by their employers."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/abuse",
+     "youglish_url" : "https://youglish.com/pronounce/abuse/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/abuse"},
+     
+     {"word" : "acclaim",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "praise, extol, commend",
+               "turkish_meaning" : "övmek",
+               "sample_sentences" : "He <span style='color:red;'>was acclaimed</span> for his meticulous work. / Several critics <span style='color:red;'>have acclaimed</span> his novel."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/acclaim",
+     "youglish_url" : "https://youglish.com/pronounce/acclaim/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/acclaim"},
+     
+     {"word" : "accommodate to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "get used to, adapt, adjust",
+               "turkish_meaning" : "uymak, uyum sağlamak",
+               "sample_sentences" : "The teacher needed to <span style='color:red;'>accommodate to</span> the new schedule. / It is usually very different for an industrialist to <span style='color:red;'>accommodate</span> <span style='color:blue;'>himselft</span> <span style='color:red;'>to</span> <span style='color:blue;'>being a politician</span>." 
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/accommodate?q=accommodate+to",
+     "youglish_url" : "https://youglish.com/pronounce/accommodate%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accommodate+to"},
+     
+     {"word" : "accord with",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "agree with, conform with, match, harmonize",
+               "turkish_meaning" : "uymak, uyumlu olmak",
+               "sample_sentences" : "Bill's account does not <span style='color:red;'>accord with</span> the police evidence."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/accord-with?q=accord+with+something",
+     "youglish_url" : "https://youglish.com/pronounce/accord%20with/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accord+with"},
+     
+     {"word" : "account for",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "explain",
+               "turkish_meaning" : "açıklamak, hesabını vermek",
+               "sample_sentences" : "He was always prepared to <span style='color:red;'>account for</span> his actions."
+          },
+          {
+               "id": 2,
+               "synonym" : "be responsible for",
+               "turkish_meaning" : "sorumlu olmak",
+               "sample_sentences" : "Heart disease and stroke, the main components of cardiovascular diseases, <span style='color:red;'>account for</span> nearly 40 percent of all deaths in the United States."
+          },
+          {
+               "id": 3,
+               "synonym" : "make up, form",
+               "turkish_meaning" : "oluşturmak",
+               "sample_sentences" : "Oil, which has fuelled rapid growth in some developing countries, often with disastrous results, <span style='color:red;'>accounts for</span> roughly 63% of the energy used in Africa."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/account-for",
+     "youglish_url" : "https://youglish.com/pronounce/account%20for/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/account+for"},
+     
+     {"word" : "acquit of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "find not guilty, clear",
+               "turkish_meaning" : "aklamak",
+               "sample_sentences" : "The jury <span style='color:red;'>acquitted</span> <span style='color:blue;'>him</span> <span style='color:red;'>of</span> <span style='color:blue;'>murder</span>. / He <span style='color:red;'>was acquited of</span> embezzlement and fraud."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/acquit-of?q=acquit+someone+of+something",
+     "youglish_url" : "https://youglish.com/pronounce/acquit%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/acquit+of"},
+     
+     {"word" : "accrue",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "accumulate, amass, increase, build up, acquire, add, result",
+               "turkish_meaning" : "birikmek, artmak, elde etmek, eklemek, ortaya çıkmak",
+               "sample_sentences" : "Interest will <span style='color:red;'>accrue</span> on the loan, no matter what kind of loan you have. / No shipping cost will <span style='color:red;'>accrue</span> for deliveries within Europe."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/accrue",
+     "youglish_url" : "https://youglish.com/pronounce/accrue/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/accrue"},
+     
+     {"word" : "address",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "tackle, deal with, handle",
+               "turkish_meaning" : "ele almak",
+               "sample_sentences" : "Professor Taylor said all countries -both rich and poor- had failed to <span style='color:red;'>address</span> the obesity boom. / The Prime Minister must <span style='color:red;'>address</span> real issues instead of trying to attack the opposition."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/address",
+     "youglish_url" : "https://youglish.com/pronounce/address/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/address"},
+     
+     {"word" : "adhere to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "cling to",
+               "turkish_meaning" : "yapışmak",
+               "sample_sentences" : "The mud <span style='color:red;'>adhered to</span> his feet."
+          },
+          {
+               "id": 2,
+               "synonym" : "stick to, abide by, comply with, conform to",
+               "turkish_meaning" : "bağlı kalmak, sadık kalmak, uymak",
+               "sample_sentences" : "We always <span style='color:red;'>adhere</span> <span style='color:blue;'>strictly</span> <span style='color:red;'>to</span> the guidelines. / Both countries must <span style='color:red;'>adhere to</span> the terms of the treaty for a lasting peace."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/adhere-to-sth?q=adhere+to",
+     "youglish_url" : "https://youglish.com/pronounce/adhere%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adhere+to"},
+     
+     {"word" : "adjourn",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "break off, recess, come to a close",
+               "turkish_meaning" : "ara vermek",
+               "sample_sentences" : "Senator Byrd made his comments just hours before the Senate <span style='color:red;'>adjourned</span> for a month-long recess."
+          },
+          {
+               "id": 2,
+               "synonym" : "postpone, defer, put off",
+               "turkish_meaning" : "ertelemek",
+               "sample_sentences" : "The trail of the ousted leader <span style='color:red;'>was adjourned</span> until October 9th."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/adjourn",
+     "youglish_url" : "https://youglish.com/pronounce/adjourn/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adjourn"},
+     
+     {"word" : "adopt",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "take in, rear, foster",
+               "turkish_meaning" : "evlat edinmek",
+               "sample_sentences" : "The middle-aged couple <span style='color:red;'>adopted</span> the baby when she was three months old."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/adopt",
+     "youglish_url" : "https://youglish.com/pronounce/adopt/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adopt"},
+     
+     {"word" : "advocate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "support, favor",
+               "turkish_meaning" : "savunmak, taraftar olmak",
+               "sample_sentences" : "I intend to put into practice some of the techniques <span style='color:red;'>advocated</span> in the seminar."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/advocate",
+     "youglish_url" : "https://youglish.com/pronounce/advocate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/advocate"},
+     
+     {"word" : "affiliate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "connect, associate, join",
+               "turkish_meaning" : "bağlamak, katılmak",
+               "sample_sentences" : "They <span style='color:red;'>affiliated</span> themselves with the organization."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/affiliate",
+     "youglish_url" : "https://youglish.com/pronounce/affiliate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/affiliate"},
+     
+     {"word" : "affirm",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "confirm, assert, join",
+               "turkish_meaning" : "doğrulamak, açıklamak",
+               "sample_sentences" : "The government <span style='color:red;'>affirmed</span> its commitments to equal rights."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/affirm",
+     "youglish_url" : "https://youglish.com/pronounce/affirm/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/affirm"},
+     
+     {"word" : "afflict",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "trouble, bother, badly affect, make miserable, distress",
+               "turkish_meaning" : "rahatsız etmek, acı vermek, sıkıntı vermek, üzmek",
+               "sample_sentences" : "Hot, arid wheather <span style='color:red;'>is afflicting</span> millions in America and in dozens of countries across Europe and parts of east Asia. / Rheumatoid arthritis, an inflammatory joint disease, <span style='color:red;'>afflicts</span> up to 1% of the American population."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/afflict",
+     "youglish_url" : "https://youglish.com/pronounce/afflict/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/afflict"},
+     
+     {"word" : "aggravate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "make worse, worsen, exacerbate",
+               "turkish_meaning" : "kötüye götürmek",
+               "sample_sentences" : "Attempts to restrict parking in the city center <span style='color:red;'>have aggravated</span> the problem of traffic congestion."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english/aggravate",
+     "youglish_url" : "https://youglish.com/pronounce/aggravate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/aggravate"},
+     
+     {"word" : "air",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "make public, publicize, broadcast",
+               "turkish_meaning" : "yayınlamak",
+               "sample_sentences" : "The interview will <span style='color:red;'>be aired</span> in its entirety on Wednesday."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/air",
+     "youglish_url" : "https://youglish.com/pronounce/air/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/air"},
+     
+     {"word" : "alienate from",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "separate, estrange, isolate",
+               "turkish_meaning" : "uzaklaştırmak, yabancılaştırmak",
+               "sample_sentences" : "All these changes to the newspaper <span style='color:red;'>have alienated</span> its traditional readers."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/alienate",
+     "youglish_url" : "https://youglish.com/pronounce/alienate%20from/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/alienate+from"},
+     
+     {"word" : "allay",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "dispel, alleviate, relieve",
+               "turkish_meaning" : "gidermek, azaltmak, hafifletmek",
+               "sample_sentences" : "The latest news had done nothing to <span style='color:red;'>allay</span> his anxiety."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/allay",
+     "youglish_url" : "https://youglish.com/pronounce/allay/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/allay"},
+     
+     {"word" : "allege",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "claim, assert, contend",
+               "turkish_meaning" : "iddia etmek, ileri sürmek, suçlamak",
+               "sample_sentences" : "The prisoner <span style='color:red;'>alleges</span> that he was at home on the night of crime."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/allege",
+     "youglish_url" : "https://youglish.com/pronounce/allege/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/allege"},
+     
+     {"word" : "alleviate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "ease, relieve, lessen",
+               "turkish_meaning" : "hafifletmek, azaltmak, dindirmek",
+               "sample_sentences" : "This money should <span style='color:red;'>alleviate</span> our financial problems."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/alleviate",
+     "youglish_url" : "https://youglish.com/pronounce/alleviate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/alleviate"},
+     
+     {"word" : "allocate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "allot, assign",
+               "turkish_meaning" : "ayırmak, tahsis etmek",
+               "sample_sentences" : "The government <span style='color:red;'>has allocated</span> $100 million for health education."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/allocate",
+     "youglish_url" : "https://youglish.com/pronounce/allocate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/allocate"},
+     
+     {"word" : "allot",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "assign, allocate, give, designate",
+               "turkish_meaning" : "ayırmak, tahsis etmek",
+               "sample_sentences" : "Three hours <span style='color:red;'>have been allotted</span> <span style='color:blue;'>to/for</span> this task."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/allot",
+     "youglish_url" : "https://youglish.com/pronounce/allot/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/allot"},
+     
+     {"word" : "allude to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "refer to",
+               "turkish_meaning" : "değinmek, ...den söz etmek",
+               "sample_sentences" : "Necla <span style='color:red;'>alluded to</span> her birthday, hoping I would buy her a present."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/allude-to-sb-sth?q=allude+to+sb%2Fsth",
+     "youglish_url" : "https://youglish.com/pronounce/allude%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/allude+to"},
+     
+     {"word" : "allure by",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "attract, tempt",
+               "turkish_meaning" : "çekmek, cezbetmek, kandırmak",
+               "sample_sentences" : "The young man <span style='color:red;'>was allured by</span> the hope of making a lot of money easily."
+          }
+          ],
+     "macmillan_url" : "https://www.ldoceonline.com/dictionary/allure",
+     "youglish_url" : "https://youglish.com/pronounce/allure%20by/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/allure+by"},
+     
+     {"word" : "alternate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "interchange",
+               "turkish_meaning" : "birbirini izlemek",
+               "sample_sentences" : "Good times seem to <span style='color:red;'>alternate</span> with bads."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/alternate",
+     "youglish_url" : "https://youglish.com/pronounce/alternate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/alternate"},
+     
+     {"word" : "amass",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "collect, accumulate, build up",
+               "turkish_meaning" : "toplamak, yığmak, biriktirmek",
+               "sample_sentences" : "He <span style='color:red;'>amassed</span> great wealth through entrepreneurial endeavors."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/amass",
+     "youglish_url" : "https://youglish.com/pronounce/amass/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/amass"},
+     
+     {"word" : "amend",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "alter, modify, make changes",
+               "turkish_meaning" : "değiştirmek",
+               "sample_sentences" : "The constitution <span style='color:red;'>has been amended</span> to lower the voting age to 18."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/amend",
+     "youglish_url" : "https://youglish.com/pronounce/amend/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/amend"},
+     
+     {"word" : "annul",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "cancel",
+               "turkish_meaning" : "iptal etmek",
+               "sample_sentences" : "The marriage <span style='color:red;'>was annulled</span> with a joint legal document."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/annul",
+     "youglish_url" : "https://youglish.com/pronounce/annul/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/annul"},
+     
+     {"word" : "antagonize",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "annoy, irritate, provoke",
+               "turkish_meaning" : "kızdırmak,  düşman etmek",
+               "sample_sentences" : "He'<span style='color:red;'>s antagonized</span> colleagues by making changes without discussing them."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/antagonize",
+     "youglish_url" : "https://youglish.com/pronounce/antagonize/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/antagonize"},
+     
+     {"word" : "appeal against",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "make or apply for an appeal",
+               "turkish_meaning" : "temyiz etmek",
+               "sample_sentences" : "He <span style='color:red;'>appealed against</span> the verdict."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/appeal",
+     "youglish_url" : "https://youglish.com/pronounce/appeal%20against/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/appeal+against"},
+     
+     {"word" : "appeal for",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "call for",
+               "turkish_meaning" : "çağrıda bulunmak",
+               "sample_sentences" : "The Pope <span style='color:red;'>appeled for</span> peace in the Middle East. / Ethiopia <span style='color:red;'>appealed for</span> international help as the death toll from recent flooding rose to 870."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/appeal",
+     "youglish_url" : "https://youglish.com/pronounce/appeal%20for/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/appeal for"},
+     
+     {"word" : "appeal to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "interest",
+               "turkish_meaning" : "ilgisini çekmek",
+               "sample_sentences" : "Detective novels <span style='color:red;'>appeal to</span> a great many young people."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/appeal",
+     "youglish_url" : "https://youglish.com/pronounce/appeal%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/appeal+to"},
+     
+     {"word" : "apprehend",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "catch",
+               "turkish_meaning" : "yakalamak, tutaklamak",
+               "sample_sentences" : "The police intensified their efforts to <span style='color:red;'>apprehend</span> criminals who are still at large."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/apprehend",
+     "youglish_url" : "https://youglish.com/pronounce/apprehend/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/apprehend"},
+     
+     {"word" : "articulate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "express clearly in words",
+               "turkish_meaning" : "dile getirmek, düşünce ve duygularını rahatça ifade etmek",
+               "sample_sentences" : "The President has been accused of failing to <span style='color:red;'>articulate</span> an overall vision in foreign affairs."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/articulate",
+     "youglish_url" : "https://youglish.com/pronounce/articulate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/articulate"},
+     
+     {"word" : "ascend",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "climb, go up",
+               "turkish_meaning" : "tırmanmak, çıkmak",
+               "sample_sentences" : "The path started to <span style='color:red;'>ascend</span> more steeply at this point."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/ascend",
+     "youglish_url" : "https://youglish.com/pronounce/ascend/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ascend"},
+     
+     {"word" : "ascertain",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "determine, establish",
+               "turkish_meaning" : "belirlemek",
+               "sample_sentences" : "The time when each of these poems was written cannot <span style='color:red;'>be ascertained</span> with any exactness. / Right now <span style='color:red;'>ascertaining</span> whether a flue is of the lethal A(H5N1) strain requires that a sample be frozen and shipped to a highly secure laboratory."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/ascertain",
+     "youglish_url" : "https://youglish.com/pronounce/ascertain/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ascertain"},
+     
+     {"word" : "ascribe",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "to| attribute to",
+               "turkish_meaning" : "bağlamak, atfetmek",
+               "sample_sentences" : "He <span style='color:red;'>ascribes</span> the country's difficulties <span style='color:red;'>to</span> the last governments  policies."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/ascribe-sth-to-sth?q=ascribe+to",
+     "youglish_url" : "https://youglish.com/pronounce/ascribe%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ascribe+to"},
+     
+     {"word" : "aspire",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "desire, want, wish",
+               "turkish_meaning" : "arzu etmek, istemek",
+               "sample_sentences" : "Even as a child she <span style='color:red;'>aspired to</span> have a big family."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/aspire",
+     "youglish_url" : "https://youglish.com/pronounce/aspire/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/aspire"},
+     
+     {"word" : "assassinate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "kill, murder",
+               "turkish_meaning" : "öldürmek, suikast yapmak",
+               "sample_sentences" : "The prime minister <span style='color:red;'>was assassinated</span> during the revolt. / John F. Kennedy <span style='color:red;'>was assassinated</span> in Dallas, Texas on November 23, 1963."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/assassinate",
+     "youglish_url" : "https://youglish.com/pronounce/assassinate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/assassinate"},
+     
+     {"word" : "assert",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "claim, state, allege, stress",
+               "turkish_meaning" : "ileri sürmek, iddia etmek, ısrar etmek",
+               "sample_sentences" : "It is nonsense to <span style='color:red;'>assert</span> that smoking does not damage people's health."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/assert",
+     "youglish_url" : "https://youglish.com/pronounce/assert/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/assert"},
+     
+     {"word" : "assess",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "determine the price, appraise",
+               "turkish_meaning" : "değer biçmek",
+               "sample_sentences" : "They <span style='color:red;'>assessed</span> the value of the house at over $50,000."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/assess",
+     "youglish_url" : "https://youglish.com/pronounce/assess/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/assess"},
+     
+     {"word" : "associate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "with| connect, relate, link",
+               "turkish_meaning" : "ilişkilendirmek, çağrıştırmak, bağlantı kurmak, birleştirmek",
+               "sample_sentences" : "People usually <span style='color:red;'>associate</span> Japan <span style='color:blue;'>with</span> high tech consumer goods."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/associate",
+     "youglish_url" : "https://youglish.com/pronounce/associate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/associate"},
+     
+     {"word" : "assume",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "to think that something is likely to be true, although you have no proof",
+               "turkish_meaning" : "farzetmek, varsaymak, üstlenmek",
+               "sample_sentences" : "Everything was quiet when I got home so I <span style='color:red;'>assumed</span> that you had gone out."
+          },
+          {
+               "id": 2,
+               "synonym" : "control/power/responsibility, etc | to take a position of control/power/responsibility, etc",
+               "turkish_meaning" : "sorumluluğu, kontrolü üstlenmek, üzerine almak",
+               "sample_sentences" : "He <span style='color:red;'>has assumed</span> the role of spokesman for the group."
+          },
+          {
+               "id": 3,
+               "synonym" : "an air/expression, etc  | to pretend to have a feeling that you do not have",
+               "turkish_meaning" : "bir havaya girmek, gibi davranmak, olduğundan farklı davranmak",
+               "sample_sentences" : "Andy <span style='color:red;'>assumed an air of</span> indifference whenever her name was mentioned."
+          },
+          {
+               "id": 4,
+               "synonym" : "a false identity/name, etc | to pretend to be someone else",
+               "turkish_meaning" : "başkası gibi davranmak, kendini birinin yerine koyarak davranmak",
+               "sample_sentences" : "an <span style='color:red;'>assumed</span> name."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/assume",
+     "youglish_url" : "https://youglish.com/pronounce/assume/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/assume"},
+     
+     {"word" : "attain",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "reach, achieve",
+               "turkish_meaning" : "ulaşmak, erişmek, elde etmek, kazanmak",
+               "sample_sentences" : "He <span style='color:red;'>attained</span> his goal thanks to his persistance."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/attain",
+     "youglish_url" : "https://youglish.com/pronounce/attain/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/attain"},
+     
+     {"word" : "attend to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "sb/sth | deal with, see to",
+               "turkish_meaning" : "bir şeyle ilgilenmek, birine yardım etmek",
+               "sample_sentences" : "Mary <span style='color:red;'>has attended to</span> her ailing grandmother for years."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/attend-to-sb-sth?q=attend+to",
+     "youglish_url" : "https://youglish.com/pronounce/attend%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/attend+to"},
+     
+     {"word" : "attest",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "to | göstermek, kanıtlamak",
+               "turkish_meaning" : "show, demonstrate, confirm, prove",
+               "sample_sentences" : "Luxurious furnishings <span style='color:red;'>attested to</span> the wealth of the owner."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/attest",
+     "youglish_url" : "https://youglish.com/pronounce/attest/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/attest"},
+     
+     {"word" : "attribute",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "to sb/sth | ascribe to, attach",
+               "turkish_meaning" : "bağlamak, atfetmek",
+               "sample_sentences" : "We <span style='color:red;'>attribute</span> young people's mistakes <span style='color:red;'>to</span> their ignorance and youth."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/attribute",
+     "youglish_url" : "https://youglish.com/pronounce/attribute/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/attribute+to"},
+     
+     {"word" : "avert",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "avoid, prevent, ward off",
+               "turkish_meaning" : "önlemek, kaçınmak",
+               "sample_sentences" : "To <span style='color:red;'>avert</span> a veto from China, the resolution does not mention Chapter Seven of the UN Charter, which is legally binding and can authorize sanctions or military action."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/avert",
+     "youglish_url" : "https://youglish.com/pronounce/avert/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/avert"},
+     
+     {"word" : "battle",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "combat, fight",
+               "turkish_meaning" : "savaşmak",
+               "sample_sentences" : "Firefighters <span style='color:red;'>have been battling</span> the blazes."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/battle",
+     "youglish_url" : "https://youglish.com/pronounce/battle/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/battle"},
+     
+     {"word" : "bequeath",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "leave, donate, leave to by will, give, bestow",
+               "turkish_meaning" : "bırakmak, miras bırakmak, vermek, bağışlamak",
+               "sample_sentences" : "In his will, he <span style='color:red;'>bequeathed</span> $10 million to his university for the education of poor and deserving children."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/bequeath",
+     "youglish_url" : "https://youglish.com/pronounce/bequeath/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/bequeath"},
+
+     {"word" : "bind",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "tie, oblige, require, constrain",
+               "turkish_meaning" : "bağlamak, zorunda bırakmak",
+               "sample_sentences" : "A contract is an agreement that legally <span style='color:red;'>bind</span>s all parties involved. / If you sign a written contract then generally you <span style='color:red;'>are bound</span> by all of its term even if you did not read or understand them."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/bind",
+     "youglish_url" : "https://youglish.com/pronounce/bind/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/bind"},
+
+     {"word" : "board",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "get on, embark, go on board",
+               "turkish_meaning" : "binmek",
+               "sample_sentences" : "He took a taxi to Pendik and <span style='color:red;'>boarded</span> a train there."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/board",
+     "youglish_url" : "https://youglish.com/pronounce/board/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/board"},
+
+     {"word" : "boast",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "about | brag, show off",
+               "turkish_meaning" : "böbürlenmek, övünmek",
+               "sample_sentences" : "I wish she would stop <span style='color:red;'>boasting about</span> her exam results."
+          },
+          {
+               "id": 2,
+               "synonym" : "possess, have, enjoy",
+               "turkish_meaning" : "sahip olmak",
+               "sample_sentences" : "The Botanical Gardens of Rio <span style='color:red;'>boasts</span> some 12,000 native and exotic plants."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/boast",
+     "youglish_url" : "https://youglish.com/pronounce/boast/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/boast"},
+
+     {"word" : "bolster",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "strengthen, support, boost",
+               "turkish_meaning" : "güçlendirmek, destek olmak",
+               "sample_sentences" : "African grandmothers are rallying at a Toronto conference to <span style='color:red;'>bolster</span> their efforts to raise a generation of AIDS orphans."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/bolster",
+     "youglish_url" : "https://youglish.com/pronounce/bolster/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/bolster"},
+
+     {"word" : "book",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "reserve",
+               "turkish_meaning" : "rezervasyon yapmak, (yer) ayırtmak",
+               "sample_sentences" : "I'<span style='color:red;'>ve booked</span> four seats for Friday's concert."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/book",
+     "youglish_url" : "https://youglish.com/pronounce/book/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/book"},
+
+     {"word" : "boost",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "increase, enhance, advance, further",
+               "turkish_meaning" : "artırmak",
+               "sample_sentences" : "OPEC oil ministers agreed to <span style='color:red;'>boost</span> oil output 1,500,000 per day to ease pressure on oil prices brought by the general strike in Venezuela."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/boost",
+     "youglish_url" : "https://youglish.com/pronounce/boost/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/boost"},
+
+     {"word" : "bow",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "bend over",
+               "turkish_meaning" : "boyun eğmek",
+               "sample_sentences" : "The Prime Minister is expected to <span style='color:red;'>bow</span> to pressure to recall Parliament from its three-month summer break to discuss the developments in international politics."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/bow",
+     "youglish_url" : "https://youglish.com/pronounce/bow/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/bow"},
+
+     {"word" : "breed",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "produce, reproduce, multiply, create",
+               "turkish_meaning" : "üre(t)mek, yaratmak",
+               "sample_sentences" : "Many animals <span style='color:red;'>breed</span> in the spring. / Frogs <span style='color:red;'>breed</span> in ponds. / Violence <span style='color:red;'>breed</span>s violence."
+          },
+          {
+               "id": 2,
+               "synonym" : "raise",
+               "turkish_meaning" : "yetiştirmek",
+               "sample_sentences" : "His main income comes from <span style='color:red;'>breeding</span> sheep and goats.."
+          }
+          ],
+     "macmillan_url" : "https://dictionary.cambridge.org/dictionary/english-turkish/breed",
+     "youglish_url" : "https://youglish.com/pronounce/breed/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/breed"}
       ]
 }

@@ -62,6 +62,3252 @@
           ],
      "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/acquainted",
      "youglish_url" : "https://youglish.com/pronounce/acquainted/english?",
-     "reverso_url" : "https://context.reverso.net/translation/english-turkish/acquainted"}
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/acquainted"},
+
+     {"word" : "acute",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "severe",
+               "turkish_meaning" : "ciddi",
+               "sample_sentences" : "Shortages of organic milk, beef, and apples in the UK are <span style='color:red;'>acute</span>."
+          },
+          {
+               "id": 2,
+               "synonym" : "intense, sharp",
+               "turkish_meaning" : "akut, şiddetli",
+               "sample_sentences" : "Modern medicine has developed techniques for relieving <span style='color:red;'>acute</span> physical pain."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/acute",
+     "youglish_url" : "https://youglish.com/pronounce/acute/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/acute"},
+
+     {"word" : "additional",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "extra, further",
+               "turkish_meaning" : "ek, ilave",
+               "sample_sentences" : "There is room for an <span style='color:red;'>additional</span> person on this bus."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/additional",
+     "youglish_url" : "https://youglish.com/pronounce/additional/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/additional"},
+
+     {"word" : "adequate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "enough, sufficient",
+               "turkish_meaning" : "yeterli",
+               "sample_sentences" : "Our food supplies are <span style='color:red;'>adequate</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/adequate",
+     "youglish_url" : "https://youglish.com/pronounce/adequate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adequate"},
+
+     {"word" : "admirable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "marvelous, excellent, commendable",
+               "turkish_meaning" : "mükemmel, takdire şayan",
+               "sample_sentences" : "Bill did an <span style='color:red;'>admirable</span> job in organizing the team. / He showed <span style='color:red;'>admirable</span> courage in the war."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/admirable",
+     "youglish_url" : "https://youglish.com/pronounce/admirable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/admirable"},
+
+     {"word" : "advanced",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "higher",
+               "turkish_meaning" : "ileri",
+               "sample_sentences" : "Meral is taking an <span style='color:red;'>advanced</span> German course."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/advanced",
+     "youglish_url" : "https://youglish.com/pronounce/advanced/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/advanced"}, 
+
+     {"word" : "adventurous",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "daring",
+               "turkish_meaning" : "maceraperest",
+               "sample_sentences" : "The traveller had an <span style='color:red;'>adventurous</span> spirit."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/adventurous",
+     "youglish_url" : "https://youglish.com/pronounce/adventurous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adventurous"},
+
+     {"word" : "adverse",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unfavorable, bad, negative, unpleasant, harmful",
+               "turkish_meaning" : "elverişsiz, kötü, olumsuz, zararlı",
+               "sample_sentences" : "<span style='color:red;'>Adverse</span> weather conditions may increase the risk of accidents. / Too much stress can have an <span style='color:red;'>adverse</span> impact on one's health. / <span style='color:red;'>Adverse</span> drug reactions are sometimes unavoidable."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/adverse",
+     "youglish_url" : "https://youglish.com/pronounce/adverse/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/adverse"},
+
+     {"word" : "affordable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "reasonably priced, reasonable, inexpensive",
+               "turkish_meaning" : "hesaplı, ucuz",
+               "sample_sentences" : "<span style='color:red;'>Affordable</span> homes are available for low income families."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/affordable",
+     "youglish_url" : "https://youglish.com/pronounce/affordable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/affordable"},
+
+     {"word" : "agreeable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "pleasant, pleasing, friendly",
+               "turkish_meaning" : "hoş, uyumlu",
+               "sample_sentences" : "Mine is quite an <span style='color:red;'>agreeable</span> person."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/agreeable",
+     "youglish_url" : "https://youglish.com/pronounce/agreeable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/agreeable"},
+
+     {"word" : "amazed",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "astonished, astounded, startled",
+               "turkish_meaning" : "şaşırmış",
+               "sample_sentences" : "She was <span style='color:red;'>amazed</span> at her own stupidity."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/amazed",
+     "youglish_url" : "https://youglish.com/pronounce/amazed/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/amazed"},
+
+     {"word" : "ancient",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "early, very old",
+               "turkish_meaning" : "eski çağlara ait, çok eski",
+               "sample_sentences" : "Because Neanderthal DNA is so scare, Dr. Paabo and the 454 life science researchers developed their methods on <span style='color:red;'>ancient</span> DNA from cave bears and mammoth."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/ancient",
+     "youglish_url" : "https://youglish.com/pronounce/ancient/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ancient"},
+
+     {"word" : "animate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "living, alive",
+               "turkish_meaning" : "canlı",
+               "sample_sentences" : "Human beings are <span style='color:red;'>animate</span>, but tables and chairs are not."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/animate",
+     "youglish_url" : "https://youglish.com/pronounce/animate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/animate"},
+
+     {"word" : "annual",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "yearly",
+               "turkish_meaning" : "yıllık",
+               "sample_sentences" : "Our <span style='color:red;'>annual</span> leave is thirty days."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/annual",
+     "youglish_url" : "https://youglish.com/pronounce/annual/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/annual"},
+
+     {"word" : "anxious",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "worried, concerned, uneasy",
+               "turkish_meaning" : "kaygılı, endişeli",
+               "sample_sentences" : "(about) | We are <span style='color:red;'>anxious about</span> the safety of the threee missing mountaineers."
+          },
+          {
+               "id": 2,
+               "synonym" : "eager, keen",
+               "turkish_meaning" : "istekli, hevesli",
+               "sample_sentences" : "(~for / to-inf) | He continued to be <span style='color:red;'>anxious for</span> success as a dramatist. / There is no doubt that the Americans, who are <span style='color:red;'>anxious</span> <span style='color:blue;'>to maintain</span> the support of the one Secular Muslim state in the Middle east, are eager for Turkey to join E.U."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/anxious",
+     "youglish_url" : "https://youglish.com/pronounce/anxious/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/anxious"},
+
+     {"word" : "apparent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "obvious, clear, evident",
+               "turkish_meaning" : "açık, aşikar",
+               "sample_sentences" : "His <span style='color:red;'>apparent</span> lack of concern for basic human rights is rather annoying."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/apparent",
+     "youglish_url" : "https://youglish.com/pronounce/apparent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/apparent"},
+
+     {"word" : "appropriate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "suitable, fitting, proper",
+               "turkish_meaning" : "uygun",
+               "sample_sentences" : "Plain, simple clothes are <span style='color:red;'>appropriate</span> for school wear."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/appropriate",
+     "youglish_url" : "https://youglish.com/pronounce/appropriate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/appropriate"},
+
+     {"word" : "arid",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "dry, waterless, barren, infertile",
+               "turkish_meaning" : "çorak, verimsiz",
+               "sample_sentences" : "One in five Brazillians born in the <span style='color:red;'>arid</span> north-east of the country are moving to aviod drought."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/arid",
+     "youglish_url" : "https://youglish.com/pronounce/arid/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/arid"},
+
+     {"word" : "artificial",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unnatural, synthetic",
+               "turkish_meaning" : "yapay",
+               "sample_sentences" : "<span style='color:red;'>Artificial</span> trans fats are very toxic, and they almost surely cause tens of thousands of premature deaths each year."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/artificial",
+     "youglish_url" : "https://youglish.com/pronounce/artificial/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/artificial"},
+
+     {"word" : "available",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "obtainable, existing, accessible",
+               "turkish_meaning" : "mevcut, elde edilebilir, bulunabilir, erişilebilir",
+               "sample_sentences" : "I'm afraid the material is no longer <span style='color:red;'>available</span>. / The government will make new funds <span style='color:red;'>available</span> for the completion of the project."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/available",
+     "youglish_url" : "https://youglish.com/pronounce/available/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/available"},
+
+     {"word" : "awful",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "dreadful, terrible, bad",
+               "turkish_meaning" : "korkunç, berbat, kötü",
+               "sample_sentences" : "The road is <span style='color:red;'>awful</span>: narrow and bumpy."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/awful",
+     "youglish_url" : "https://youglish.com/pronounce/awful/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/awful"},
+
+     {"word" : "bare",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "naked, uncovered",
+               "turkish_meaning" : "çıplak",
+               "sample_sentences" : "You mustn't walk around outside in your <span style='color:red;'>bare</span> feet."
+          },
+          {
+               "id": 2,
+               "synonym" : "empty, open, without vegetation",
+               "turkish_meaning" : "açık, çıplak",
+               "sample_sentences" : "From this point on, the landscape becomes increasingly <span style='color:red;'>bare</span>, until rocky slopes give way to the rolling dunes of the desert."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/bare",
+     "youglish_url" : "https://youglish.com/pronounce/bare/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/bare"},
+
+     {"word" : "barren",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "infertile, unproductive, arid",
+               "turkish_meaning" : "verimsiz, çorak",
+               "sample_sentences" : "The farmer has converted his 5-hectare <span style='color:red;'>barren</span> land into a bamboo plantation."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/barren",
+     "youglish_url" : "https://youglish.com/pronounce/barren/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/barren"},
+
+     {"word" : "based on",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "founded on, derived from",
+               "turkish_meaning" : "dayalı olmak",
+               "sample_sentences" : "The figures are <span style='color:red;'>based on</span> the last census taken two years ago."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/base-on?q=based+on",
+     "youglish_url" : "https://youglish.com/pronounce/based%20on/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/based+on"},
+
+     {"word" : "biased (against)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "prejudiced",
+               "turkish_meaning" : "ön yargılı",
+               "sample_sentences" : "The police should not be <span style='color:red;'>biased</span> in any way. / He is <span style='color:red;'>biased against</span> foreigners."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/biased",
+     "youglish_url" : "https://youglish.com/pronounce/biased/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/biased"},
+
+     {"word" : "breathtaking",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "spectacular, magnificent",
+               "turkish_meaning" : "nefes kesici",
+               "sample_sentences" : "The artists' painting was simply <span style='color:red;'>breathtaking</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/breathtaking",
+     "youglish_url" : "https://youglish.com/pronounce/breathtaking/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/breathtaking"}, 
+
+     {"word" : "brief",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "short, concise",
+               "turkish_meaning" : "kısa, özet",
+               "sample_sentences" : "We will have a <span style='color:red;'>brief</span> meeting this afternoon."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/brief",
+     "youglish_url" : "https://youglish.com/pronounce/brief/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/brief"},
+
+     {"word" : "brilliant",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "bright, intelligent, talented",
+               "turkish_meaning" : "zeki, parlak, yetenekli",
+               "sample_sentences" : "Alper is a <span style='color:red;'>brilliant</span> engineer. He is also quite imaginative."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/brilliant",
+     "youglish_url" : "https://youglish.com/pronounce/brilliant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/brilliant"},
+
+     {"word" : "bruised",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "black-and-blue",
+               "turkish_meaning" : "morarmış",
+               "sample_sentences" : "He showed everyone his <span style='color:red;'>bruised</span> arm."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/bruised",
+     "youglish_url" : "https://youglish.com/pronounce/bruised/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/bruised"},
+
+     {"word" : "capable (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "able, competent",
+               "turkish_meaning" : "yetenekli",
+               "sample_sentences" : "He is <span style='color:red;'>capable of</span> making his own choice."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/capable",
+     "youglish_url" : "https://youglish.com/pronounce/capable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/capable"},
+
+     {"word" : "casual",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "informal, sporty",
+               "turkish_meaning" : "rahat, resmi olmayan, günlük",
+               "sample_sentences" : "He likes to wear <span style='color:red;'>casual</span> clothes, such as a T-shirt and blue jeans."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/casual",
+     "youglish_url" : "https://youglish.com/pronounce/casual/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/casual"},
+
+     {"word" : "catastrophic",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "disastrous, ruinous",
+               "turkish_meaning" : "felaket getirici, tahrip edici",
+               "sample_sentences" : "The world's poor must be helped to face and adapt to the threat of climate change. It is essential to act now to prevent <span style='color:red;'>catastrophic</span> impacts, rather than face terrible consequences later."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/catastrophic",
+     "youglish_url" : "https://youglish.com/pronounce/catastrophic/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/catastrophic"},
+
+     {"word" : "certain (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "sure, confident, convinced",
+               "turkish_meaning" : "emin, kesin",
+               "sample_sentences" : "They seem absolutely <span style='color:red;'>certain of</span> the outcome of the elections. / She is <span style='color:red;'>certain</span> that she will get what she wants."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/certain",
+     "youglish_url" : "https://youglish.com/pronounce/certain/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/certain"},
+
+     {"word" : "chance",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "accidental, coincidental",
+               "turkish_meaning" : "tesadüfi",
+               "sample_sentences" : "Their <span style='color:red;'>chance</span> meeting brought them back together after seven years apart."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/chance",
+     "youglish_url" : "https://youglish.com/pronounce/chance/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/chance"},
+
+     {"word" : "charming",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "attractive, pleasant",
+               "turkish_meaning" : "çekici, cazibeli, hoş",
+               "sample_sentences" : "She is a <span style='color:red;'>charming</span> and reliable person."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/charming",
+     "youglish_url" : "https://youglish.com/pronounce/charming/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/charming"},
+
+     {"word" : "chief",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "main, principal, leading",
+               "turkish_meaning" : "başlıca",
+               "sample_sentences" : "The <span style='color:red;'>chief</span> reason for his rejection of the job offer is that it requires working overtime."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/chief",
+     "youglish_url" : "https://youglish.com/pronounce/chief/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/chief"},
+
+     {"word" : "commercial",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "profit-making, trade, mercantile",
+               "turkish_meaning" : "ticari",
+               "sample_sentences" : "Current solar cells are too costly for <span style='color:red;'>commercial</span> use."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/commercial",
+     "youglish_url" : "https://youglish.com/pronounce/commercial/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/commercial"}, 
+
+     {"word" : "compatible (with)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "harmonious, matching",
+               "turkish_meaning" : "uyumlu",
+               "sample_sentences" : "The company's activities were no longer <span style='color:red;'>compatible with</span> WWF-UK's socially responsible investment policy. / Many new printers are <span style='color:red;'>compatible with</span> both PCs and Macs."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/compatible",
+     "youglish_url" : "https://youglish.com/pronounce/compatible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/compatible"},
+
+     {"word" : "competent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "capable, able, skilled",
+               "turkish_meaning" : "yetenekli",
+               "sample_sentences" : "My neighbor is very <span style='color:red;'>competent</span>, he will repair the roof himself."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/competent",
+     "youglish_url" : "https://youglish.com/pronounce/competent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/competent"},
+
+     {"word" : "competitive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "competing, aggressive, based on competition",
+               "turkish_meaning" : "rekabetçi",
+               "sample_sentences" : "Fishing is not a <span style='color:red;'>competitive</span> sport."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/competitive",
+     "youglish_url" : "https://youglish.com/pronounce/competitive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/competitive"},
+
+     {"word" : "compliant",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "conforming, in compliance",
+               "turkish_meaning" : "uyumlu",
+               "sample_sentences" : "He was <span style='color:red;'>compliant</span> and ready to conform to the pattern set by his friends."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/compliant",
+     "youglish_url" : "https://youglish.com/pronounce/compliant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/compliant"},    
+
+     {"word" : "comprehensive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "wide-ranging",
+               "turkish_meaning" : "kapsamlı",
+               "sample_sentences" : "The two countries are due to sign a <span style='color:red;'>comprehensive</span> trade agreement."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/comprehensive",
+     "youglish_url" : "https://youglish.com/pronounce/comprehensive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/comprehensive"},
+
+     {"word" : "compulsory",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "mandatory, obligatory",
+               "turkish_meaning" : "zorunlu",
+               "sample_sentences" : "Attendance in the public schools is <span style='color:red;'>compulsory</span> until age sixteen."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/compulsory",
+     "youglish_url" : "https://youglish.com/pronounce/compulsory/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/compulsory"},
+
+     {"word" : "conclusive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "decisive, final, ultimate",
+               "turkish_meaning" : "kesin, son",
+               "sample_sentences" : "Researchers say that a Europe-wide study has provided '<span style='color:red;'>conclusive</span> proof' that climate change is responsible for spring arriving earlier each year."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/conclusive",
+     "youglish_url" : "https://youglish.com/pronounce/conclusive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/conclusive"},
+
+     {"word" : "conductive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "transmitting, able to transmit energy",
+               "turkish_meaning" : "iletken",
+               "sample_sentences" : "A material that conducts electricity is <span style='color:red;'>conductive</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/conductive",
+     "youglish_url" : "https://youglish.com/pronounce/conductive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/conductive"},
+
+     {"word" : "confident",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "sure, certain, convinced, positive",
+               "turkish_meaning" : "emin",
+               "sample_sentences" : "I am absolutely <span style='color:red;'>confident</span> that I will win the race."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/confident",
+     "youglish_url" : "https://youglish.com/pronounce/confident/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/confident"},
+
+     {"word" : "conscious (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "aware",
+               "turkish_meaning" : "farkında, bilincinde",
+               "sample_sentences" : "I was <span style='color:red;'>conscious</span> that he had changed his tactics."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/conscious",
+     "youglish_url" : "https://youglish.com/pronounce/conscious/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/conscious"},
+
+     {"word" : "considerable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "great, substantial, significant",
+               "turkish_meaning" : "büyük, önemli",
+               "sample_sentences" : "Researchers have almost universally found that obese people have <span style='color:red;'>considerable</span> health risk."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/considerable",
+     "youglish_url" : "https://youglish.com/pronounce/considerable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/considerable"},
+
+     {"word" : "contagious",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "infectious, communicable, transmittable",
+               "turkish_meaning" : "bulaşıcı",
+               "sample_sentences" : "Influenza is an acute viral disease of the respiratory tract that is extremely <span style='color:red;'>contagious</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/contagious",
+     "youglish_url" : "https://youglish.com/pronounce/contagious/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/contagious"},
+
+     {"word" : "contemporary",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "modern, current",
+               "turkish_meaning" : "çağdaş",
+               "sample_sentences" : "You must read books written by <span style='color:red;'>contemporary</span> authors if you are to improve your English."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/contemporary",
+     "youglish_url" : "https://youglish.com/pronounce/contemporary/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/contemporary"},
+
+     {"word" : "continual",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "constant, persistent",
+               "turkish_meaning" : "sürekli",
+               "sample_sentences" : "Life is a <span style='color:red;'>continual</span> struggle."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/continual",
+     "youglish_url" : "https://youglish.com/pronounce/continual/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/continual"},
+
+     {"word" : "convinced (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "certain, sure, confident",
+               "turkish_meaning" : "emin, kesin",
+               "sample_sentences" : "We are <span style='color:red;'>convinced of</span> her innocence."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/convinced",
+     "youglish_url" : "https://youglish.com/pronounce/convinced/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/convinced"},
+
+     {"word" : "cooperative / co-operative",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "helpful, supportive",
+               "turkish_meaning" : "yardımcı, işbirliğine açık",
+               "sample_sentences" : "They have become more <span style='color:red;'>cooperative</span> more out of necessity than choice."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/cooperative",
+     "youglish_url" : "https://youglish.com/pronounce/cooperative/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/cooperative"},
+
+     {"word" : "credible",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "believable, convincing, reliable",
+               "turkish_meaning" : "inandırıcı",
+               "sample_sentences" : "There is a <span style='color:red;'>credible</span> evidence that Chinese security forces have used excessive force in dealing with demonstrations."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/credible",
+     "youglish_url" : "https://youglish.com/pronounce/credible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/credible"},
+
+     {"word" : "crucial (to, for)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "vital, critical, very important, central",
+               "turkish_meaning" : "yaşamsal, çok önemli",
+               "sample_sentences" : "Reading extensively is <span style='color:red;'>crucial to</span> language development. / The professional freedom of teachers is of <span style='color:red;'>crucial</span> importance in developing quality in education. / Proteins are the 'machines' of the body, so understanding their structures and roles is <span style='color:red;'>crucial</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/crucial",
+     "youglish_url" : "https://youglish.com/pronounce/crucial/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/crucial"},
+
+     {"word" : "delicious",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "tasty",
+               "turkish_meaning" : "lezzetli",
+               "sample_sentences" : "The food that we ate at the restaurant was <span style='color:red;'>delicious</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/delicious",
+     "youglish_url" : "https://youglish.com/pronounce/delicious/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/delicious"},
+
+     {"word" : "delighted",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "pleased, happy",
+               "turkish_meaning" : "memnun",
+               "sample_sentences" : "The Prime Minister was <span style='color:red;'>delighted</span> with the public response to the vaccination campaign."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/delighted",
+     "youglish_url" : "https://youglish.com/pronounce/delighted/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/delighted"},   
+
+     {"word" : "dependable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "reliable, trustworthy",
+               "turkish_meaning" : "güvenilir",
+               "sample_sentences" : "You can rely on Ali. He is a highly <span style='color:red;'>dependable</span> person."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/dependable",
+     "youglish_url" : "https://youglish.com/pronounce/dependable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/dependable"},
+
+     {"word" : "dependent (on, upon)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "reliant",
+               "turkish_meaning" : "bağımlı",
+               "sample_sentences" : "She is <span style='color:red;'>dependent on</span> her family economically."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/dependent",
+     "youglish_url" : "https://youglish.com/pronounce/dependent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/dependent"}, 
+
+     {"word" : "destructive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "devastating, damaging, harmful",
+               "turkish_meaning" : "yıkıcı, zarar verici",
+               "sample_sentences" : "An atomic bomb, also known as an atom bomb, is a very <span style='color:red;'>destructive</span> weapon."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/destructive",
+     "youglish_url" : "https://youglish.com/pronounce/destructive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/destructive"},
+
+     {"word" : "devastating",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "destructive, damaging, harmful, ruinous",
+               "turkish_meaning" : "yıkıcı, tahrip edici",
+               "sample_sentences" : "A <span style='color:red;'>devastating</span> earthquake hit Western Turkey in 1999, killing more than 15,000 people."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/devastating",
+     "youglish_url" : "https://youglish.com/pronounce/devastating/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/devastating"},
+
+     {"word" : "diminishing",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "decreasing, dwindling",
+               "turkish_meaning" : "azalan",
+               "sample_sentences" : "In a world with rapidly <span style='color:red;'>diminishing</span> resources, new conflicts over resources such as water and oil are emerging based on factors such as ethnicity, nationalism, and class."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/diminishing",
+     "youglish_url" : "https://youglish.com/pronounce/diminishing/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/diminishing"},
+
+     {"word" : "disputable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "arguable, debatable, questionable",
+               "turkish_meaning" : "tartışılabilir",
+               "sample_sentences" : "Whether this change was an improvement is <span style='color:red;'>disputable</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/disputable",
+     "youglish_url" : "https://youglish.com/pronounce/disputable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/disputable"},
+
+     {"word" : "diversed",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "varied, various, different",
+               "turkish_meaning" : "çeşitli, farklı",
+               "sample_sentences" : "Scientists want to know more about the <span style='color:red;'>diversed</span> roles of marine microbes, which are living descendants of the most ancient forms of life on earth."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/diversed",
+     "youglish_url" : "https://youglish.com/pronounce/diversed/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/diversed"}, 
+
+     {"word" : "eligible (for)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "qualified, entitled, suitable, appropriate",
+               "turkish_meaning" : "hakkı olan, elverişli, uygun",
+               "sample_sentences" : "Because of his medical problems, Ali is not <span style='color:red;'>eligible</span> to join the army. / She is <span style='color:red;'>eligible for</span> a green card since she has been living in the United States for five years."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/eligible",
+     "youglish_url" : "https://youglish.com/pronounce/eligible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/eligible"},
+
+     {"word" : "enormous",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "huge, massive, vast, gigantic, very large",
+               "turkish_meaning" : "büyük",
+               "sample_sentences" : "The mammoth, an extinct animal which lived in Siberia, was an <span style='color:red;'>enormous</span> creature that looked like an elephant."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/enormous",
+     "youglish_url" : "https://youglish.com/pronounce/enormous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/enormous"},
+
+     {"word" : "enthusiastic (about)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "eager, keen, excited",
+               "turkish_meaning" : "hevesli, istekli, coşkun",
+               "sample_sentences" : "Aylin is <span style='color:red;'>enthusiastic about</span> beginning her new job."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/enthusiastic",
+     "youglish_url" : "https://youglish.com/pronounce/enthusiastic/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/enthusiastic"},
+
+     {"word" : "estimated",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "projected, probable",
+               "turkish_meaning" : "tahmini",
+               "sample_sentences" : "An <span style='color:red;'>estimated</span> 25 million people worldwide have Alzheimer's disease."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/estimated",
+     "youglish_url" : "https://youglish.com/pronounce/estimated/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/estimated"},
+
+     {"word" : "eventual",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "final, ultimate",
+               "turkish_meaning" : "son",
+               "sample_sentences" : "Every extra year of education boosts a girl's <span style='color:red;'>eventual</span> wages by at least 10 per cent."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/eventual",
+     "youglish_url" : "https://youglish.com/pronounce/eventual/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/eventual"},
+
+     {"word" : "excess",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "extra",
+               "turkish_meaning" : "fazla",
+               "sample_sentences" : "Don't bring any <span style='color:red;'>excess</span> baggage on this trip."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/excess",
+     "youglish_url" : "https://youglish.com/pronounce/excess/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/excess"},
+
+     {"word" : "extensive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "widespread, wide",
+               "turkish_meaning" : "yaygın, geniş",
+               "sample_sentences" : "<span style='color:red;'>Extensive</span> use is made of computer-based technology in factories and offices. / The President's historic speech gets <span style='color:red;'>extensive</span> coverage in the media."
+          },
+          {
+               "id": 2,
+               "synonym" : "big, large, massive, huge",
+               "turkish_meaning" : "büyük",
+               "sample_sentences" : "The powerful bomb caused <span style='color:red;'>extensive</span> damage."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/extensive",
+     "youglish_url" : "https://youglish.com/pronounce/extensive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/extensive"},
+
+     {"word" : "extinct",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "vanished",
+               "turkish_meaning" : "nesli tükenmiş",
+               "sample_sentences" : "Scientists found the prints of several <span style='color:red;'>extinct</span> species in the cave."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/extinct",
+     "youglish_url" : "https://youglish.com/pronounce/extinct/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/extinct"},
+
+     {"word" : "extravagant",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "wasteful",
+               "turkish_meaning" : "müsrif",
+               "sample_sentences" : "He is so <span style='color:red;'>extravagant</span> that he spends thousands of dollars on things that he scarcely used."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/extravagant",
+     "youglish_url" : "https://youglish.com/pronounce/extravagant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/extravagant"},
+
+     {"word" : "fair",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "just",
+               "turkish_meaning" : "adil",
+               "sample_sentences" : "The government should ensure a <span style='color:red;'>fair</span> distribution of income."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/fair",
+     "youglish_url" : "https://youglish.com/pronounce/fair/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/fair"},
+
+     {"word" : "faithful",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "loyal",
+               "turkish_meaning" : "sadık",
+               "sample_sentences" : "Her <span style='color:red;'>faithful</span> old dog accompanied her everywhere she went."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/faithful",
+     "youglish_url" : "https://youglish.com/pronounce/faithful/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/faithful"},
+
+     {"word" : "fascinating",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "charming, attractive",
+               "turkish_meaning" : "büyüleyici, çekici",
+               "sample_sentences" : "She is a <span style='color:red;'>fascinating</span> woman. You can't help admiring her."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/fascinating",
+     "youglish_url" : "https://youglish.com/pronounce/fascinating/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/fascinating"},
+
+     {"word" : "fatal",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "deadly, lethal, mortal",
+               "turkish_meaning" : "ölümcül",
+               "sample_sentences" : "A heart attack is a very serious condition that can be <span style='color:red;'>fatal</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/fatal",
+     "youglish_url" : "https://youglish.com/pronounce/fatal/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/fatal"},
+
+     {"word" : "fearful",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "afraid, scared, frightened",
+               "turkish_meaning" : "korku içinde",
+               "sample_sentences" : "Alper was <span style='color:red;'>fearful</span> when he got lost in the forest after dark."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/fearful",
+     "youglish_url" : "https://youglish.com/pronounce/fearful/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/fearful"},
+
+     {"word" : "fertile",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "productive",
+               "turkish_meaning" : "verimli, mümbit",
+               "sample_sentences" : "The land around the river is very <span style='color:red;'>fertile</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/fertile",
+     "youglish_url" : "https://youglish.com/pronounce/fertile/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/fertile"},
+
+     {"word" : "finite",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "limited, restricted",
+               "turkish_meaning" : "kısıtlı, sınırlı",
+               "sample_sentences" : "The funds available for this project are <span style='color:red;'>finite</span> and we cannot afford to waste money."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/finite",
+     "youglish_url" : "https://youglish.com/pronounce/finite/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/finite"},
+
+     {"word" : "firm",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "resolute, inflexible",
+               "turkish_meaning" : "kararlı, katı",
+               "sample_sentences" : "He was quite <span style='color:red;'>firm</span> that he did not want to come with us."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/firm_2",
+     "youglish_url" : "https://youglish.com/pronounce/firm/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/firm"},
+
+     {"word" : "fiscal",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "financial, monetary",
+               "turkish_meaning" : "mali",
+               "sample_sentences" : "A <span style='color:red;'>fiscal</span> year is a period of twelve months at the end of which the accounts of a government business or the like are balanced."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/fiscal",
+     "youglish_url" : "https://youglish.com/pronounce/fiscal/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/fiscal"},
+
+     {"word" : "foolish",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "stupid, silly, unwise",
+               "turkish_meaning" : "aptal",
+               "sample_sentences" : "The <span style='color:red;'>foolish</span> student tried to cheat while the teacher was watching."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/foolish",
+     "youglish_url" : "https://youglish.com/pronounce/foolish/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/foolish"},
+
+     {"word" : "frightful",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "appalling, fearsome, dreadful",
+               "turkish_meaning" : "dehşet verici, korkutucu, korkunç",
+               "sample_sentences" : "The boat trip in the storm was <span style='color:red;'>frightful</span>. / His behavior towards us was <span style='color:red;'>frightful</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/frightful",
+     "youglish_url" : "https://youglish.com/pronounce/frightful/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/frightful"},
+
+     {"word" : "given",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "specified, particular, certain",
+               "turkish_meaning" : "belirli",
+               "sample_sentences" : "To maintain the population at a <span style='color:red;'>given</span> level we must have a population growth rate 0%, commonly called Zero Population Growth (ZPG). / Gravity has a unique property; the acceleration due to gravity at a <span style='color:red;'>given</span> place and time is independent of the nature of the body."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/given",
+     "youglish_url" : "https://youglish.com/pronounce/given/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/given"},
+
+     {"word" : "governing",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "ruling",
+               "turkish_meaning" : "iktidardaki",
+               "sample_sentences" : "The <span style='color:red;'>governing</span> party has a two-thirds majority in the national assembly."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/governing",
+     "youglish_url" : "https://youglish.com/pronounce/governing/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/governing"},
+
+     {"word" : "gradual",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "slow, steady, regular",
+               "turkish_meaning" : "yavaş, yavaş yavaş olan, derece derece olan, düzenli",
+               "sample_sentences" : "There is a <span style='color:red;'>gradual</span> increase in the number of people who quit smoking."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/gradual",
+     "youglish_url" : "https://youglish.com/pronounce/gradual/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/gradual"},
+
+     {"word" : "grateful",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "thankful, indebted",
+               "turkish_meaning" : "müteşekkir",
+               "sample_sentences" : "I am <span style='color:red;'>grateful</span> to him for his help."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/grateful",
+     "youglish_url" : "https://youglish.com/pronounce/grateful/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/grateful"},
+
+     {"word" : "guilty (of / about)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "responsible for breaking a law, criminal, accusable, blameworthy, at fault",
+               "turkish_meaning" : "suçlu",
+               "sample_sentences" : "He is <span style='color:red;'>guilty of</span> murderer. / A person who is charged with a crime is presumed innocent until proven <span style='color:red;'>guilty</span>. / I feel <span style='color:red;'>guilty about</span> misleading him."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/guilty",
+     "youglish_url" : "https://youglish.com/pronounce/guilty/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/guilty"},
+
+     {"word" : "habitable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "livable, inhabitable, fit for human habitation",
+               "turkish_meaning" : "yaşanabilir",
+               "sample_sentences" : "Antarctica is likely to be the world's only <span style='color:red;'>habitable</span> continent by the end of this century if global warming remains unchecked."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/habitable",
+     "youglish_url" : "https://youglish.com/pronounce/habitable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/habitable"},
+
+     {"word" : "haphazard",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "disorganized, messy, random",
+               "turkish_meaning" : "düzensiz, gelişigüzel",
+               "sample_sentences" : "Their plans to develop their own business seemed a bit <span style='color:red;'>haphazard</span> to me."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/haphazard",
+     "youglish_url" : "https://youglish.com/pronounce/haphazard/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/haphazard"},
+
+     {"word" : "harmful",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "damaging, injurious, detrimental",
+               "turkish_meaning" : "zararlı",
+               "sample_sentences" : "Smoking is <span style='color:red;'>harmful</span> to human health."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/harmful",
+     "youglish_url" : "https://youglish.com/pronounce/harmful/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/harmful"},
+
+     {"word" : "hazardous",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "dangerous, risky, unsafe",
+               "turkish_meaning" : "tehlikeli",
+               "sample_sentences" : "<span style='color:red;'>Hazardous</span> and toxic substances are defined as those chemicals which are capable of causing harm."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/hazardous",
+     "youglish_url" : "https://youglish.com/pronounce/hazardous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/hazardous"},
+
+     {"word" : "hesitant",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "uncertain, cautious",
+               "turkish_meaning" : "tereddütlü",
+               "sample_sentences" : "She is <span style='color:red;'>hesitant</span> about whether to accept his proposal."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/hesitant",
+     "youglish_url" : "https://youglish.com/pronounce/hesitant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/hesitant"},
+
+     {"word" : "huge",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "enormous, massive, very big",
+               "turkish_meaning" : "çok büyük",
+               "sample_sentences" : "He has made <span style='color:red;'>huge</span> profits in this business. / The Memorial Hospital is a <span style='color:red;'>huge</span> building."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/huge",
+     "youglish_url" : "https://youglish.com/pronounce/huge/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/huge"},
+
+     {"word" : "ignorant (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unaware, uninformed",
+               "turkish_meaning" : "habersiz",
+               "sample_sentences" : "Violators who are <span style='color:red;'>ignorant of</span> the parking laws must still pay their fines."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/ignorant",
+     "youglish_url" : "https://youglish.com/pronounce/ignorant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ignorant"},
+
+     {"word" : "immense",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "huge, enormous, massive, great",
+               "turkish_meaning" : "büyük",
+               "sample_sentences" : "She gets <span style='color:red;'>immense</span> satisfaction from her job."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/immense",
+     "youglish_url" : "https://youglish.com/pronounce/immense/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/immense"},
+
+     {"word" : "imperative",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "urgent, very important, essential, vital",
+               "turkish_meaning" : "acil, gerekli, çok önemli",
+               "sample_sentences" : "It is <span style='color:red;'>imperative</span> that we contact them tomorrow at the latest."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/imperative",
+     "youglish_url" : "https://youglish.com/pronounce/imperative/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/imperative"},
+
+     {"word" : "impracticable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unworkable, impractical, unfeasible, that cannot be used",
+               "turkish_meaning" : "işlemez, işe yaramaz",
+               "sample_sentences" : "Owing to slight miscalculation, the invention proved to be <span style='color:red;'>impracticable</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/impracticable",
+     "youglish_url" : "https://youglish.com/pronounce/impracticable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/impracticable"},
+
+     {"word" : "impure",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "not pure, dirty, unclean",
+               "turkish_meaning" : "kirli",
+               "sample_sentences" : "The air in big cities is often <span style='color:red;'>impure</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/impure",
+     "youglish_url" : "https://youglish.com/pronounce/impure/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/impure"},
+
+     {"word" : "inaccessible",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unreachable, unapproachable",
+               "turkish_meaning" : "ulaşılmaz, erişilmez",
+               "sample_sentences" : "The villages in the mountains are quite <span style='color:red;'>inaccessible</span> during winter."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/inaccessible",
+     "youglish_url" : "https://youglish.com/pronounce/inaccessible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/inaccessible"},
+
+     {"word" : "inanimate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "lifeless, not alive",
+               "turkish_meaning" : "cansız",
+               "sample_sentences" : "Stones are <span style='color:red;'>inanimate</span> objects."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/inanimate",
+     "youglish_url" : "https://youglish.com/pronounce/inanimate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/inanimate"},
+
+     {"word" : "incapable (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unable, incompetent, helpless",
+               "turkish_meaning" : "yeteneksiz, kabiliyetsiz, yapamaz, aciz",
+               "sample_sentences" : "She is totaly <span style='color:red;'>incapable of</span> caring for her baby. / He was <span style='color:red;'>incapable of</span> of enjoying himself."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/incapable",
+     "youglish_url" : "https://youglish.com/pronounce/incapable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/incapable"},
+
+     {"word" : "inclined",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "tending, prone",
+               "turkish_meaning" : "eğilimli",
+               "sample_sentences" : "He is <span style='color:red;'>inclined</span> to agree with you."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/inclined",
+     "youglish_url" : "https://youglish.com/pronounce/inclined/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/inclined"},
+
+     {"word" : "incomparable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "matchless, unrivaled, unmatched",
+               "turkish_meaning" : "eşsiz, rakipsiz",
+               "sample_sentences" : "Marylyn Monroe had <span style='color:red;'>incomparable</span> beauty."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/incomparable",
+     "youglish_url" : "https://youglish.com/pronounce/incomparable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/incomparable"},
+
+     {"word" : "inconvenient",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "not convenient",
+               "turkish_meaning" : "elverişsiz",
+               "sample_sentences" : "Shelves which are too high to reach are <span style='color:red;'>inconvenient</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/inconvenient",
+     "youglish_url" : "https://youglish.com/pronounce/inconvenient/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/inconvenient"},
+
+     {"word" : "incredible",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unbelievable, hard to believe, astonishing, amazing",
+               "turkish_meaning" : "inanılmaz, hayret verici, şaşırtıcı",
+               "sample_sentences" : "Medical science has made <span style='color:red;'>incredible</span> progress over the last century in helping us understand, curing, and eliminating the causes of many diseases including mental illness."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/incredible",
+     "youglish_url" : "https://youglish.com/pronounce/incredible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/incredible"},
+
+     {"word" : "increasing",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "rising, growing",
+               "turkish_meaning" : "artan",
+               "sample_sentences" : "<span style='color:red;'>Increasing</span> incomes enable more people to buy cars and travel more."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/increasing",
+     "youglish_url" : "https://youglish.com/pronounce/increasing/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/increasing"},
+
+     {"word" : "independent (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "free from the authority control or domination of somebody or something else",
+               "turkish_meaning" : "... den bağımsız",
+               "sample_sentences" : "Industry is <span style='color:red;'>independent of</span> natural conditions, while agriculture is continually dependent on the fluctations of nature."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/independent",
+     "youglish_url" : "https://youglish.com/pronounce/independent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/independent"},
+
+     {"word" : "indisputable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unquestionable, undeniable",
+               "turkish_meaning" : "tartışılmaz",
+               "sample_sentences" : "His qualifications for this kind of job are <span style='color:red;'>indisputable</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/indisputable",
+     "youglish_url" : "https://youglish.com/pronounce/indisputable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/indisputable"},
+
+     {"word" : "inevitable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unavoidable",
+               "turkish_meaning" : "kaçınılmaz",
+               "sample_sentences" : "Death is the <span style='color:red;'>inevitable</span> ending of live."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/inevitable",
+     "youglish_url" : "https://youglish.com/pronounce/inevitable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/inevitable"},
+
+     {"word" : "inferior",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "lower, substandard, poorer",
+               "turkish_meaning" : "düşük",
+               "sample_sentences" : "The <span style='color:red;'>inferior</span> quality of the metal makes it unsuitable for use in building construction."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/inferior",
+     "youglish_url" : "https://youglish.com/pronounce/inferior/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/inferior"},
+
+     {"word" : "infertile",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unproductive, barren, arid",
+               "turkish_meaning" : "verimsiz",
+               "sample_sentences" : "The <span style='color:red;'>infertile</span> soil yielded no crops."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/infertile",
+     "youglish_url" : "https://youglish.com/pronounce/infertile/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/infertile"},
+
+     {"word" : "infinite",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "endless, limitless",
+               "turkish_meaning" : "sonsuz, sınırsız",
+               "sample_sentences" : "Time and space are <span style='color:red;'>infinite</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/infinite",
+     "youglish_url" : "https://youglish.com/pronounce/infinite/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/infinite"},
+
+     {"word" : "inhabitable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "habitable, livable, fit for human habitation",
+               "turkish_meaning" : "yaşanabilir",
+               "sample_sentences" : "After the fire, the house was no longer <span style='color:red;'>inhabitable</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/inhabitable",
+     "youglish_url" : "https://youglish.com/pronounce/inhabitable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/inhabitable"},
+
+     {"word" : "initial",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "first, early, preliminary",
+               "turkish_meaning" : "ilk",
+               "sample_sentences" : "<span style='color:red;'>Initial</span> results give him a lead."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/initial",
+     "youglish_url" : "https://youglish.com/pronounce/initial/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/initial"},
+
+     {"word" : "innocent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "not guilty, guiltless",
+               "turkish_meaning" : "masum, suçsuz",
+               "sample_sentences" : "The defendant was found to be <span style='color:red;'>innocent</span> and was set free."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/innocent",
+     "youglish_url" : "https://youglish.com/pronounce/innocent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/innocent"},
+
+     {"word" : "innumerable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "countless, numerous, incalculable",
+               "turkish_meaning" : "sayısız",
+               "sample_sentences" : "The stars in space are <span style='color:red;'>innumerable</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/innumerable",
+     "youglish_url" : "https://youglish.com/pronounce/innumerable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/innumerable"},
+
+     {"word" : "insufficient",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "inadequate, not enough",
+               "turkish_meaning" : "yetersiz",
+               "sample_sentences" : "The prisoner was released because the police had <span style='color:red;'>insufficient</span> proof of his guilt."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/insufficient",
+     "youglish_url" : "https://youglish.com/pronounce/insufficient/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/insufficient"},
+
+     {"word" : "intense",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "strong, powerful, very great",
+               "turkish_meaning" : "güçlü, çok büyük",
+               "sample_sentences" : "There is <span style='color:red;'>intense</span> pressure at the bottom of the ocean."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/intense",
+     "youglish_url" : "https://youglish.com/pronounce/intense/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/intense"},
+
+     {"word" : "intensive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "concentrated",
+               "turkish_meaning" : "yoğun",
+               "sample_sentences" : "Tourism is astonishingly labor-<span style='color:red;'>intensive</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/intensive",
+     "youglish_url" : "https://youglish.com/pronounce/intensive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/intensive"},
+
+     {"word" : "invalid",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "not valid, unacceptable",
+               "turkish_meaning" : "geçersiz",
+               "sample_sentences" : "This ticket is <span style='color:red;'>invalid</span>. You haven't stamped it in the machine."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/invalid",
+     "youglish_url" : "https://youglish.com/pronounce/invalid/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/invalid"},
+
+     {"word" : "invaluable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "precious, important",
+               "turkish_meaning" : "çok değerli, önemli",
+               "sample_sentences" : "Your friendship is <span style='color:red;'>invaluable</span> to me."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/invaluable",
+     "youglish_url" : "https://youglish.com/pronounce/invaluable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/invaluable"},
+
+     {"word" : "invigorating",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "revitalizing, energizing, reviving",
+               "turkish_meaning" : "canlandırıcı",
+               "sample_sentences" : "Swimming is an <span style='color:red;'>invigorating</span> sport."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/invigorating",
+     "youglish_url" : "https://youglish.com/pronounce/invigorating/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/invigorating"},
+
+     {"word" : "involuntary",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "spontaneous, instinctive, automatic",
+               "turkish_meaning" : "doğal, kendiliğinden olan, içgüdüsel",
+               "sample_sentences" : "Breathing is an <span style='color:red;'>involuntary</span> body function."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/involuntary",
+     "youglish_url" : "https://youglish.com/pronounce/involuntary/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/involuntary"},
+
+     {"word" : "irrelevant (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unrelated, not connected with something",
+               "turkish_meaning" : "ilgisiz",
+               "sample_sentences" : "What you have just said is completely <span style='color:red;'>irrelevant to</span> the subject under discussion."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/irrelevant",
+     "youglish_url" : "https://youglish.com/pronounce/irrelevant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/irrelevant"},
+
+     {"word" : "jealous (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "envious, covetous",
+               "turkish_meaning" : "kıskanç",
+               "sample_sentences" : "Helen and Mary were <span style='color:red;'>jealous of</span> each other."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/jealous",
+     "youglish_url" : "https://youglish.com/pronounce/jealous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/jealous"},
+
+     {"word" : "justifiable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "justified, right",
+               "turkish_meaning" : "haklı",
+               "sample_sentences" : "His action was entirely <span style='color:red;'>justifiable</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/justifiable",
+     "youglish_url" : "https://youglish.com/pronounce/justifiable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/justifiable"},
+
+     {"word" : "keen (on)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "eager for, interested in",
+               "turkish_meaning" : "hevesli, istekli",
+               "sample_sentences" : "He is very <span style='color:red;'>keen on</span> rock music."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/keen",
+     "youglish_url" : "https://youglish.com/pronounce/keen/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/keen"},
+
+     {"word" : "knowledgeable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "well-informed",
+               "turkish_meaning" : "bilgili",
+               "sample_sentences" : "If you are <span style='color:red;'>knowledgeable</span>, you know how to behave."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/knowledgeable",
+     "youglish_url" : "https://youglish.com/pronounce/knowledgeable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/knowledgeable"},
+
+     {"word" : "latter",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "last, later, final",
+               "turkish_meaning" : "sonraki, son",
+               "sample_sentences" : "Canada and the United States are in north America. The <span style='color:red;'>latter</span> is south of the former."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/latter",
+     "youglish_url" : "https://youglish.com/pronounce/latter/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/latter"},
+
+     {"word" : "leading",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "chief, foremost, principal, main",
+               "turkish_meaning" : "önde gelen",
+               "sample_sentences" : "Insect pests are among the <span style='color:red;'>leading</span> causes of crop failure."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/leading",
+     "youglish_url" : "https://youglish.com/pronounce/leading/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/leading"},
+
+     {"word" : "legal",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "lawful",
+               "turkish_meaning" : "yasal",
+               "sample_sentences" : "Hunting is <span style='color:red;'>legal</span> only during certain seasons."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/legal",
+     "youglish_url" : "https://youglish.com/pronounce/legal/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/legal"},
+
+     {"word" : "leisurely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unhurried, relaxed",
+               "turkish_meaning" : "acelesiz, yavaş tempolu, rahatça",
+               "sample_sentences" : "We took a <span style='color:red;'>leisurely</span> stroll through the park."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/leisurely",
+     "youglish_url" : "https://youglish.com/pronounce/leisurely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/leisurely"},
+
+     {"word" : "lengthy",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "long, long-lasting, prolonged",
+               "turkish_meaning" : "uzun",
+               "sample_sentences" : "His directions were so <span style='color:red;'>lengthy</span> that everybody lost interest."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/lengthy",
+     "youglish_url" : "https://youglish.com/pronounce/lengthy/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/lengthy"},
+
+     {"word" : "lethal",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "deadly, fatal, mortal",
+               "turkish_meaning" : "öldürücü, ölümcül",
+               "sample_sentences" : "He died after taking a <span style='color:red;'>lethal</span> dose of heroin."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/lethal",
+     "youglish_url" : "https://youglish.com/pronounce/lethal/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/lethal"},
+
+     {"word" : "level",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "flat, straight",
+               "turkish_meaning" : "düz",
+               "sample_sentences" : "Tigers prefer to stay on <span style='color:red;'>level</span> ground rather than rugged terrain. / The bathroom floor is not completely <span style='color:red;'>level</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/level",
+     "youglish_url" : "https://youglish.com/pronounce/level/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/level"},
+
+     {"word" : "liable (for)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "responsible (for)",
+               "turkish_meaning" : "sorumlu olma",
+               "sample_sentences" : "You are <span style='color:red;'>liable for</span> your son's debts as he is under age."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/liable",
+     "youglish_url" : "https://youglish.com/pronounce/liable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/liable"},
+
+     {"word" : "liable (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "prone (to), likely (to)",
+               "turkish_meaning" : "eğilimli",
+               "sample_sentences" : "He is <span style='color:red;'>liable to</span> get moody at times. / Snow on steep hills is <span style='color:red;'>liable to</span> an avalanche."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/",
+     "youglish_url" : "https://youglish.com/pronounce//english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/"},
+
+     {"word" : "likely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "probable, possible",
+               "turkish_meaning" : "olası",
+               "sample_sentences" : "It is <span style='color:red;'>likely</span> that the bus will be late today because of the bad weather. (= The bus is <span style='color:red;'>likely</span> to be late today because of the bad weather.) / It is hard to predict the <span style='color:red;'>likely</span> outcome of the elections which will be held next year."          },
+          {
+               "id": 2,
+               "synonym" : "liable, apt, prone",
+               "turkish_meaning" : "eğilimli",
+               "sample_sentences" : "When he finds out what you said, he is <span style='color:red;'>likely to</span> lose his temper."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/likely",
+     "youglish_url" : "https://youglish.com/pronounce/likely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/likely"},
+
+     {"word" : "literary",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "relating to literature writing or the study of literature",
+               "turkish_meaning" : "edebi, yazınsal",
+               "sample_sentences" : "<span style='color:red;'>Literary</span> magazines have few readers compared to news magazines."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/literary",
+     "youglish_url" : "https://youglish.com/pronounce/literary/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/literary"},
+
+     {"word" : "literate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "able to read and write, educated",
+               "turkish_meaning" : "okur yazar",
+               "sample_sentences" : "Over 90 percent of these villagers who were previously illiterate are <span style='color:red;'>literate</span> now thanks to the evening courses."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/literate",
+     "youglish_url" : "https://youglish.com/pronounce/literate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/literate"},
+
+     {"word" : "lone",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "single, solitary",
+               "turkish_meaning" : "tek",
+               "sample_sentences" : "A <span style='color:red;'>lone</span> gunman killed six people in Australia."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/lone",
+     "youglish_url" : "https://youglish.com/pronounce/lone/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/lone"},
+
+     {"word" : "magnificent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "wonderful, glorious, marvelous",
+               "turkish_meaning" : "muhteşem, şahane",
+               "sample_sentences" : "The Taj Mahal in India is a <span style='color:red;'>magnificent</span> building."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/magnificent",
+     "youglish_url" : "https://youglish.com/pronounce/magnificent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/magnificent"},
+
+     {"word" : "massive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "enormous, immense, huge",
+               "turkish_meaning" : "büyük",
+               "sample_sentences" : "A <span style='color:red;'>massive</span> effort is underway in China to avert disaster because of widespread flooding."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/massive",
+     "youglish_url" : "https://youglish.com/pronounce/massive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/massive"},
+
+     {"word" : "mature",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "grown-up",
+               "turkish_meaning" : "olgun",
+               "sample_sentences" : "She was quite <span style='color:red;'>mature</span> for a girl of fifteen."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/mature",
+     "youglish_url" : "https://youglish.com/pronounce/mature/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/mature"},
+
+     {"word" : "medium",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "average, middle",
+               "turkish_meaning" : "orta, ortalama",
+               "sample_sentences" : "She was of <span style='color:red;'>medium</span> height and weight."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/medium",
+     "youglish_url" : "https://youglish.com/pronounce/medium/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/medium"},
+
+     {"word" : "minimal",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "minimum, negligible",
+               "turkish_meaning" : "az, asgari",
+               "sample_sentences" : "The lazy student did a only a <span style='color:red;'>minimal</span> amount of studying."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/minimal",
+     "youglish_url" : "https://youglish.com/pronounce/minimal/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/minimal"},
+
+     {"word" : "miserable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unhappy, sad, gloomy",
+               "turkish_meaning" : "mutsuz, üzüntülü, karamsar",
+               "sample_sentences" : "She's had a <span style='color:red;'>miserable</span> life. I hope she finds happiness in the future."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/miserable",
+     "youglish_url" : "https://youglish.com/pronounce/miserable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/miserable"},
+
+     {"word" : "modest",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "humble, unassuming",
+               "turkish_meaning" : "mütevazı",
+               "sample_sentences" : "He's very <span style='color:red;'>modest</span> about his achievements."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/modest",
+     "youglish_url" : "https://youglish.com/pronounce/modest/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/modest"},
+
+     {"word" : "moral",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "ethical, good",
+               "turkish_meaning" : "ahlaki",
+               "sample_sentences" : "I have noticed a fall in <span style='color:red;'>moral</span> standards."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/moral",
+     "youglish_url" : "https://youglish.com/pronounce/moral/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/moral"},
+
+     {"word" : "neglectful (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "negligent, careless",
+               "turkish_meaning" : "ihmalkar",
+               "sample_sentences" : "He is <span style='color:red;'>neglectful</span> of his children."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/neglectful",
+     "youglish_url" : "https://youglish.com/pronounce/neglectful/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/neglectful"},
+
+     {"word" : "negligent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "neglectful, careless, inattentive",
+               "turkish_meaning" : "ihmalkar",
+               "sample_sentences" : "The report said that the doctor had been <span style='color:red;'>negligent</span> in not giving the woman a full examination."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/negligent",
+     "youglish_url" : "https://youglish.com/pronounce/negligent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/negligent"},
+
+     {"word" : "nomadic",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "traveling, wandering, roaming",
+               "turkish_meaning" : "göçebe",
+               "sample_sentences" : "The geography of Asia and of Africa necessitates a <span style='color:red;'>nomadic</span> life in some countries."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/nomadic",
+     "youglish_url" : "https://youglish.com/pronounce/nomadic/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/nomadic"},
+
+     {"word" : "notable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "remarkable, noteworthy, outstanding",
+               "turkish_meaning" : "göze çarpan, kayda değer",
+               "sample_sentences" : "The store was known for its very <span style='color:red;'>notable</span> objects."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/notable",
+     "youglish_url" : "https://youglish.com/pronounce/notable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/notable"},
+
+     {"word" : "noticeable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "visible, perceptible",
+               "turkish_meaning" : "farkedilebilir",
+               "sample_sentences" : "I experienced no <span style='color:red;'>noticeable</span> ill effects."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/noticeable",
+     "youglish_url" : "https://youglish.com/pronounce/noticeable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/noticeable"},
+
+     {"word" : "nutritional (value)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "dietary, dietetic",
+               "turkish_meaning" : "besin (değeri)",
+               "sample_sentences" : "Trans fats (partially hydrogenated vegetable oils) have no <span style='color:red;'>nutritional</span> benefit."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/nutritional",
+     "youglish_url" : "https://youglish.com/pronounce/nutritional/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/nutritional"},
+
+     {"word" : "nutritious",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "nourishing, wholesome, healthful",
+               "turkish_meaning" : "besleyici, sağlıklı",
+               "sample_sentences" : "Brown bread is more <span style='color:red;'>nutritious</span> than white bread."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/nutritious",
+     "youglish_url" : "https://youglish.com/pronounce/nutritious/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/nutritious"},
+
+     {"word" : "obedient",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "dutiful, compliant, respectful",
+               "turkish_meaning" : "itaatkar",
+               "sample_sentences" : "Everybody ought to do military training - it would do them good and make them <span style='color:red;'>obedient</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/obedient",
+     "youglish_url" : "https://youglish.com/pronounce/obedient/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/obedient"},
+
+     {"word" : "odd",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "strange, peculiar, unusual",
+               "turkish_meaning" : "tuhaf, acayip",
+               "sample_sentences" : "His father was an <span style='color:red;'>odd</span> man. / She had <span style='color:red;'>odd</span> habits."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/odd",
+     "youglish_url" : "https://youglish.com/pronounce/odd/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/odd"},
+
+     {"word" : "optimistic",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "hopeful",
+               "turkish_meaning" : "iyimser",
+               "sample_sentences" : "She's not <span style='color:red;'>optimistic</span> about the outcome."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/optimistic",
+     "youglish_url" : "https://youglish.com/pronounce/optimistic/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/optimistic"},
+
+     {"word" : "ordinary",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "normal, commonplace, usual",
+               "turkish_meaning" : "normal, olağan",
+               "sample_sentences" : "These children should be educated in an <span style='color:red;'>ordinary</span> school."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/ordinary",
+     "youglish_url" : "https://youglish.com/pronounce/ordinary/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ordinary"},
+
+     {"word" : "outstanding",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "remarkable, exceptional, excellent, notable",
+               "turkish_meaning" : "kayda değer, mükemmel",
+               "sample_sentences" : "The principal congratulated the student on his <span style='color:red;'>outstanding</span> display of leadership."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/outstanding",
+     "youglish_url" : "https://youglish.com/pronounce/outstanding/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/outstanding"},
+
+     {"word" : "overall",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "general, total, whole",
+               "turkish_meaning" : "genel, toplam",
+               "sample_sentences" : "It is more than likely that <span style='color:red;'>overall</span> methane levels in the atmosphere will increase in the future, due to increasing demands for energy."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/overall",
+     "youglish_url" : "https://youglish.com/pronounce/overall/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/overall"},
+
+     {"word" : "overweight",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "fat, plump, heavy, obese",
+               "turkish_meaning" : "kilolu, şişman",
+               "sample_sentences" : "<span style='color:red;'>Overweight</span> people run a slightly higher risk of cancer than people of average weight."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/overweight",
+     "youglish_url" : "https://youglish.com/pronounce/overweight/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/overweight"},
+
+     {"word" : "persistent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "constant, relentless, continual",
+               "turkish_meaning" : "sürekli",
+               "sample_sentences" : "Anyone who experiences <span style='color:red;'>persistent</span> weight loss with night sweats, tiredness, and a cough should seek medical attention as it is just possible they might have tuberculosis."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/persistent",
+     "youglish_url" : "https://youglish.com/pronounce/persistent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/persistent"},
+
+     {"word" : "persuasive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "convincing, credible, believable",
+               "turkish_meaning" : "ikna edici",
+               "sample_sentences" : "The candidate's <span style='color:red;'>persuasive</span> speech convinced me to vote for him."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/persuasive",
+     "youglish_url" : "https://youglish.com/pronounce/persuasive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/persuasive"},
+
+     {"word" : "phenomenal",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "extraordinary, exceptional, unusual",
+               "turkish_meaning" : "olağanüstü",
+               "sample_sentences" : "South Korea has achieved <span style='color:red;'>phenomenal</span> success in industrialization and economic development."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/phenomenal",
+     "youglish_url" : "https://youglish.com/pronounce/phenomenal/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/phenomenal"},
+
+     {"word" : "plain",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "clear, evident, obvious",
+               "turkish_meaning" : "açık",
+               "sample_sentences" : "I've made it <span style='color:red;'>plain</span> to him that I need his support."
+          },
+          {
+               "id": 2,
+               "synonym" : "simple",
+               "turkish_meaning" : "basit",
+               "sample_sentences" : "I've told him in <span style='color:red;'>plain</span> terms that I do not want him here."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/plain",
+     "youglish_url" : "https://youglish.com/pronounce/plain/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/plain"},
+
+     {"word" : "possible",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "likely, probable, potential",
+               "turkish_meaning" : "olası",
+               "sample_sentences" : "It's <span style='color:red;'>possible</span> that he will come back tomorrow."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/possible",
+     "youglish_url" : "https://youglish.com/pronounce/possible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/possible"},
+
+     {"word" : "potential",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "possible, likely, probable",
+               "turkish_meaning" : "olası",
+               "sample_sentences" : "Novartis said the drug's benefits far outweighed the <span style='color:red;'>potential</span> risks."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/potential",
+     "youglish_url" : "https://youglish.com/pronounce/potential/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/potential"},     
+
+     {"word" : "preceding",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "previous, earlier",
+               "turkish_meaning" : "önceki",
+               "sample_sentences" : "The <span style='color:red;'>preceding</span> summer had been a lot warmer than the current one."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/preceding",
+     "youglish_url" : "https://youglish.com/pronounce/preceding/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/preceding"},
+
+     {"word" : "precise",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "exact, accurate",
+               "turkish_meaning" : "kesin",
+               "sample_sentences" : "It's difficult to make a <span style='color:red;'>precise</span> prediction about the inflation rate because of the economic instability in the country."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/precise",
+     "youglish_url" : "https://youglish.com/pronounce/precise/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/precise"},
+
+     {"word" : "predatory",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "relating to animals that kill and eat other animals",
+               "turkish_meaning" : "yırtıcı, yiyici, avlayan",
+               "sample_sentences" : "The relative number of <span style='color:red;'>predatory</span> fish increased significantly compared to their prey."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/predatory",
+     "youglish_url" : "https://youglish.com/pronounce/predatory/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/predatory"},
+
+     {"word" : "preferential",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "favored, privileged",
+               "turkish_meaning" : "tercihli, ayrıcalıklı",
+               "sample_sentences" : "The elderly usually get <span style='color:red;'>preferential</span> treatment on public transport."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/preferential",
+     "youglish_url" : "https://youglish.com/pronounce/preferential/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/preferential"},
+
+     {"word" : "pregnat",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "with child expectant",
+               "turkish_meaning" : "hamile",
+               "sample_sentences" : "She is <span style='color:red;'>pregnat</span> with her second child."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/pregnat",
+     "youglish_url" : "https://youglish.com/pronounce/pregnat/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/pregnat"},
+
+     {"word" : "prejudiced (against)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "biased",
+               "turkish_meaning" : "ön yargılı",
+               "sample_sentences" : "Ali has extreme views and is <span style='color:red;'>prejudiced against</span> all foreigners."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/prejudiced",
+     "youglish_url" : "https://youglish.com/pronounce/prejudiced/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/prejudiced"},
+
+     {"word" : "preliminary",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "first, initial, opening, early",
+               "turkish_meaning" : "ilk",
+               "sample_sentences" : "The <span style='color:red;'>preliminary</span> results show that the socialist are heading for a decisive victory."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/preliminary",
+     "youglish_url" : "https://youglish.com/pronounce/preliminary/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/preliminary"},
+
+     {"word" : "present",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "existing",
+               "turkish_meaning" : "mecvut",
+               "sample_sentences" : "Economic planning cannot succeed in <span style='color:red;'>present</span> conditions."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/present",
+     "youglish_url" : "https://youglish.com/pronounce/present/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/present"},
+
+     {"word" : "previous",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "preceding, earlier, prior",
+               "turkish_meaning" : "önceki",
+               "sample_sentences" : "Her <span style='color:red;'>previous</span> essays are much better than her last one."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/previous",
+     "youglish_url" : "https://youglish.com/pronounce/previous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/previous"},
+
+     {"word" : "primary",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "main, chief, most important, basic, prime",
+               "turkish_meaning" : "başlıca, temel",
+               "sample_sentences" : "Her <span style='color:red;'>primary</span> aim in life is to become a famous film star. / Many of the villagers rely on farming as their <span style='color:red;'>primary</span> source of income."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/primary",
+     "youglish_url" : "https://youglish.com/pronounce/primary/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/primary"},
+
+     {"word" : "primitive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "simple",
+               "turkish_meaning" : "ilkel",
+               "sample_sentences" : "Prehistoic man farmed the land by using <span style='color:red;'>primitive</span> tools fashined out of rock and wood."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/primitive",
+     "youglish_url" : "https://youglish.com/pronounce/primitive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/primitive"},
+
+     {"word" : "principal",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "main, chief, primary, major",
+               "turkish_meaning" : "başlıca",
+               "sample_sentences" : "The <span style='color:red;'>principal</span> exports of that country are coffee and rubber."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/principal",
+     "youglish_url" : "https://youglish.com/pronounce/principal/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/principal"},
+
+     {"word" : "prior",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "previous, preceding, earlier",
+               "turkish_meaning" : "daha önceden",
+               "sample_sentences" : "Since this book requires no <span style='color:red;'>prior</span> knowledge of economics, even a layman can understand it with relative ease."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/prior",
+     "youglish_url" : "https://youglish.com/pronounce/prior/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/prior"},
+
+     {"word" : "privileged",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "advantaged, fortune, preferential, favored",
+               "turkish_meaning" : "ayrıcalıklı",
+               "sample_sentences" : "The aged are not <span style='color:red;'>privileged</span> in America; they often suffer social and economic hardships."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/privileged",
+     "youglish_url" : "https://youglish.com/pronounce/privileged/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/privileged"},
+
+     {"word" : "productive",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "fertile, creative, prolific",
+               "turkish_meaning" : "üretken, verimli",
+               "sample_sentences" : "The soil on our farm is no longer <span style='color:red;'>productive</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/productive",
+     "youglish_url" : "https://youglish.com/pronounce/productive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/productive"},
+
+     {"word" : "profound",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "deep, intense, acute",
+               "turkish_meaning" : "derin, yoğun, ciddi",
+               "sample_sentences" : "Emotional distress can lead to <span style='color:red;'>profound</span> physical effects."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/profound",
+     "youglish_url" : "https://youglish.com/pronounce/profound/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/profound"},
+
+     {"word" : "proper",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "correct, appropriate, suitable",
+               "turkish_meaning" : "doğru, uygun",
+               "sample_sentences" : "This question does not have a <span style='color:red;'>proper</span> answer."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/proper",
+     "youglish_url" : "https://youglish.com/pronounce/proper/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/proper"},
+
+     {"word" : "proportional (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "relative, comparative",
+               "turkish_meaning" : "orantılı, göreceli",
+               "sample_sentences" : "The number of MPs from each province is <span style='color:red;'>proportional to</span> the population of the province."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/proportional",
+     "youglish_url" : "https://youglish.com/pronounce/proportional/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/proportional"},
+
+     {"word" : "prosperous",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "wealthy, rich, affluent, well-to-do",
+               "turkish_meaning" : "zengin",
+               "sample_sentences" : "By her clothes one could see that she was quite <span style='color:red;'>prosperous</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/prosperous",
+     "youglish_url" : "https://youglish.com/pronounce/prosperous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/prosperous"},
+
+     {"word" : "rebellious",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "disobedient, defiant",
+               "turkish_meaning" : "isyankar",
+               "sample_sentences" : "Now that his parents are divorced, the child is growing increasingly <span style='color:red;'>rebellious</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/rebellious",
+     "youglish_url" : "https://youglish.com/pronounce/rebellious/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/rebellious"},
+
+     {"word" : "related (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "linked to, connected with",
+               "turkish_meaning" : "ilişkili, ilgili",
+               "sample_sentences" : "Physics is closely <span style='color:red;'>related to</span> mathematics."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/related",
+     "youglish_url" : "https://youglish.com/pronounce/related/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/related"},
+
+     {"word" : "relevant (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "related, pertinent",
+               "turkish_meaning" : "ilişkili",
+               "sample_sentences" : "Our computers can give you all the <span style='color:red;'>relevant</span> details."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/relevant",
+     "youglish_url" : "https://youglish.com/pronounce/relevant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/relevant"},
+
+     {"word" : "reliable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "dependable, trustworthy",
+               "turkish_meaning" : "güvenilir",
+               "sample_sentences" : "Ayfer can look after the children, she is very <span style='color:red;'>reliable</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/reliable",
+     "youglish_url" : "https://youglish.com/pronounce/reliable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/reliable"},
+
+     {"word" : "reluctant",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unwilling, unenthusiastic",
+               "turkish_meaning" : "isteksiz, gönülsüz",
+               "sample_sentences" : "Ayfer was <span style='color:red;'>reluctant</span> to go the party because she did not know any of the guests."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/reluctant",
+     "youglish_url" : "https://youglish.com/pronounce/reluctant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/reluctant"},
+
+     {"word" : "remarkable (for)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "notable, outstanding, noteworthy",
+               "turkish_meaning" : "kayda değer",
+               "sample_sentences" : "These forests are <span style='color:red;'>remarkable for</span> beautifully colored birds."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/remarkable",
+     "youglish_url" : "https://youglish.com/pronounce/remarkable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/remarkable"},
+
+     {"word" : "resentful (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "angry, indignant, bitter",
+               "turkish_meaning" : "kızgın, içerlemiş, kırgın",
+               "sample_sentences" : "A <span style='color:red;'>resentful</span> worker damaged the office equipment."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/resentful",
+     "youglish_url" : "https://youglish.com/pronounce/resentful/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/resentful"},
+
+     {"word" : "resistant (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unaffected by, insusceptible to",
+               "turkish_meaning" : "dirençli",
+               "sample_sentences" : "Some pests are <span style='color:red;'>resistant to</span> insecticide."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/resistant",
+     "youglish_url" : "https://youglish.com/pronounce/resistant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/resistant"},
+
+     {"word" : "respectable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "highly regarded",
+               "turkish_meaning" : "saygı değer",
+               "sample_sentences" : "The teacher was a <span style='color:red;'>respectable</span> man who did his best."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/respectable",
+     "youglish_url" : "https://youglish.com/pronounce/respectable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/respectable"},
+
+     {"word" : "responsible (for)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "accountable for, in charge of",
+               "turkish_meaning" : "sorumlu",
+               "sample_sentences" : "They were charged with being <span style='color:red;'>responsible for</span> the death of two policemen."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/responsible",
+     "youglish_url" : "https://youglish.com/pronounce/responsible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/responsible"},
+
+     {"word" : "resultant",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "resulting, consequential",
+               "turkish_meaning" : "...nın sonucu olan",
+               "sample_sentences" : "Increasing levels of obesity and <span style='color:red;'>resultant</span> health problems reduce the number of young people able to join the services."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/resultant",
+     "youglish_url" : "https://youglish.com/pronounce/resultant/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/resultant"},
+
+     {"word" : "ridiculous",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "absurd, nonsensical, silly",
+               "turkish_meaning" : "saçma, aptalca",
+               "sample_sentences" : "Stupid, foolish: he often has <span style='color:red;'>ridiculous</span> ideas."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/ridiculous",
+     "youglish_url" : "https://youglish.com/pronounce/ridiculous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ridiculous"},
+
+     {"word" : "rival",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "competing, contending",
+               "turkish_meaning" : "rakip",
+               "sample_sentences" : "Fighting has continued unabated between two <span style='color:red;'>rival</span> factions in Rwanda."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/rival",
+     "youglish_url" : "https://youglish.com/pronounce/rival/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/rival"},
+
+     {"word" : "rude",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "impolite, abusive, discourteous",
+               "turkish_meaning" : "kaba",
+               "sample_sentences" : "He's a very <span style='color:red;'>rude</span> man. / He is <span style='color:red;'>rude to</span> everybody."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/rude",
+     "youglish_url" : "https://youglish.com/pronounce/rude/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/rude"},
+
+     {"word" : "satisfied (with)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "pleased",
+               "turkish_meaning" : "memnun",
+               "sample_sentences" : "She is <span style='color:red;'>satisfied with</span> her grade."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/satisfied",
+     "youglish_url" : "https://youglish.com/pronounce/satisfied/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/satisfied"},
+
+     {"word" : "saturated",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "packed, satiated, satisfied, stocked",
+               "turkish_meaning" : "doymuş",
+               "sample_sentences" : "Since the U.S. Market is <span style='color:red;'>saturated</span>, the drug dealers are looking to Europe."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/saturated",
+     "youglish_url" : "https://youglish.com/pronounce/saturated/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/saturated"},
+
+     {"word" : "scarce",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "rare, in short supply",
+               "turkish_meaning" : "kıt",
+               "sample_sentences" : "Very old stamps are <span style='color:red;'>scarce</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/scarce",
+     "youglish_url" : "https://youglish.com/pronounce/scarce/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/scarce"},
+
+     {"word" : "scared (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "afraid, fearful, frightened",
+               "turkish_meaning" : "korkmuş",
+               "sample_sentences" : "She was <span style='color:red;'>scared of</span> slipping on the ice and breaking in limb. / Don't be <span style='color:red;'>scared of</span> the dog. It won't bite you."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/scared",
+     "youglish_url" : "https://youglish.com/pronounce/scared/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/scared"},
+
+     {"word" : "scientific",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "systematic, experimental",
+               "turkish_meaning" : "bilimsel",
+               "sample_sentences" : "He proved the theorem, using <span style='color:red;'>scientific</span> methods."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/scientific",
+     "youglish_url" : "https://youglish.com/pronounce/scientific/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/scientific"},
+
+     {"word" : "scholarly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "academic",
+               "turkish_meaning" : "akademik, bilimsel",
+               "sample_sentences" : "Scientists devote most of their time to <span style='color:red;'>scholarly</span> research."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/scholarly",
+     "youglish_url" : "https://youglish.com/pronounce/scholarly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/scholarly"},
+
+     {"word" : "sensible",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "rational, reasonable",
+               "turkish_meaning" : "mantıklı",
+               "sample_sentences" : "He is <span style='color:red;'>sensible</span> enough to acknowledge the fact that he has no chance of winning the elections under the circumstances."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/sensible",
+     "youglish_url" : "https://youglish.com/pronounce/sensible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/sensible"},
+
+     {"word" : "sensitive (to, about)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "easily upset, easily hurt, touchy",
+               "turkish_meaning" : "hassas, duyarlı",
+               "sample_sentences" : "Marry is a very <span style='color:red;'>sensitive</span> girl. / Abortion is a <span style='color:red;'>sensitive</span> topic in many countries. / Some people, particularly some girls, are very <span style='color:red;'>sensitive</span> about their appearance."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/sensitive",
+     "youglish_url" : "https://youglish.com/pronounce/sensitive/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/sensitive"},
+
+     {"word" : "short (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "not have enough",
+               "turkish_meaning" : "darlık çekmek, darda olmak",
+               "sample_sentences" : "We are <span style='color:red;'>short of</span> books. / I am <span style='color:red;'>short of</span> money."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/short",
+     "youglish_url" : "https://youglish.com/pronounce/short/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/short"},
+
+     {"word" : "sincere",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "frank, honest, real, true",
+               "turkish_meaning" : "içten, samimi",
+               "sample_sentences" : "Please accept my <span style='color:red;'>sincere</span> gratitude for your help."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/sincere",
+     "youglish_url" : "https://youglish.com/pronounce/sincere/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/sincere"},
+
+     {"word" : "skilled",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "capable, trained",
+               "turkish_meaning" : "kafiyeli, nitelikli",
+               "sample_sentences" : "We need <span style='color:red;'>skilled</span> workers, not unskilled ones."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/skilled",
+     "youglish_url" : "https://youglish.com/pronounce/skilled/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/skilled"},
+
+     {"word" : "slippery",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "tending to cause slipping or sliding",
+               "turkish_meaning" : "kaygan",
+               "sample_sentences" : "The road was wet and <span style='color:red;'>slippery</span>, so I slowed down the car."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/slippery",
+     "youglish_url" : "https://youglish.com/pronounce/slippery/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/slippery"},
+
+     {"word" : "smart",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "clever, bright, brainy, intelligent",
+               "turkish_meaning" : "akıllı, zeki",
+               "sample_sentences" : "He's a <span style='color:red;'>smart</span> boy who can solve such problems easily."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/smart",
+     "youglish_url" : "https://youglish.com/pronounce/smart/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/smart"},
+
+     {"word" : "sole",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "only, one and only",
+               "turkish_meaning" : "tek",
+               "sample_sentences" : "She was the <span style='color:red;'>sole</span> survivor of the air crash which happened yesterday."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/sole",
+     "youglish_url" : "https://youglish.com/pronounce/sole/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/sole"},
+
+     {"word" : "spectacular",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "magnificent, marvelous, wonderful, breathtaking",
+               "turkish_meaning" : "şahane, mükemmel, muhteşem",
+               "sample_sentences" : "We saw a <span style='color:red;'>spectacular</span> sunrise on the top of Mt. Nemrut."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/spectacular",
+     "youglish_url" : "https://youglish.com/pronounce/spectacular/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/spectacular"},
+
+     {"word" : "stable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "steady, fixed",
+               "turkish_meaning" : "sabit, istikrarlı",
+               "sample_sentences" : "Prices generally remain <span style='color:red;'>stable</span> when demand and supply are balanced."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/stable",
+     "youglish_url" : "https://youglish.com/pronounce/stable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/stable"},
+
+     {"word" : "steady",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "constant, stable, fixed",
+               "turkish_meaning" : "sürekli, sabit",
+               "sample_sentences" : "My son has at last found himself a <span style='color:red;'>steady</span> job."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/steady",
+     "youglish_url" : "https://youglish.com/pronounce/steady/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/steady"},
+
+     {"word" : "strange",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "odd",
+               "turkish_meaning" : "tuhaf",
+               "sample_sentences" : "I woke up when I heard a <span style='color:red;'>strange</span> noise in the house."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/strange",
+     "youglish_url" : "https://youglish.com/pronounce/strange/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/strange"},
+
+     {"word" : "subordinate (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "inferior, lower, substandard",
+               "turkish_meaning" : "aşağı",
+               "sample_sentences" : "In some countries women are still regarded as <span style='color:red;'>subordinate</span> to men."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/subordinate",
+     "youglish_url" : "https://youglish.com/pronounce/subordinate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/subordinate"},
+
+     {"word" : "substantial",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "considerable, significant, large, important",
+               "turkish_meaning" : "büyük ölçüde, önemli ölçüde",
+               "sample_sentences" : "He paid a <span style='color:red;'>substantial</span> sum to get his son released on bail."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/substantial",
+     "youglish_url" : "https://youglish.com/pronounce/substantial/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/substantial"},
+
+     {"word" : "superior (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "excellent, better than",
+               "turkish_meaning" : "mükemmel, ...den üstün",
+               "sample_sentences" : "I think this book is <span style='color:red;'>superior to</span> that one."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/superior",
+     "youglish_url" : "https://youglish.com/pronounce/superior/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/superior"},
+
+     {"word" : "sure (of)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "certain, confident, convinced",
+               "turkish_meaning" : "emin",
+               "sample_sentences" : "I'm <span style='color:red;'>sure</span> he will be successful. / She is <span style='color:red;'>sure of</span> success."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/sure",
+     "youglish_url" : "https://youglish.com/pronounce/sure/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/sure"},
+
+     {"word" : "talented",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "gifted, able, capable",
+               "turkish_meaning" : "yetenekli",
+               "sample_sentences" : "She is a <span style='color:red;'>talented</span> artist."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/talented",
+     "youglish_url" : "https://youglish.com/pronounce/talented/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/talented"},
+
+     {"word" : "tense",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "nervous, jumpy",
+               "turkish_meaning" : "gergin",
+               "sample_sentences" : "Apparently, she is very <span style='color:red;'>tense</span> and irritable from too much work."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/tense",
+     "youglish_url" : "https://youglish.com/pronounce/tense/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/tense"},
+
+     {"word" : "tiny",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "small, minute",
+               "turkish_meaning" : "küçük",
+               "sample_sentences" : "His handwriting is so <span style='color:red;'>tiny</span> you can hardly read it."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/tiny",
+     "youglish_url" : "https://youglish.com/pronounce/tiny/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/tiny"},
+
+     {"word" : "traditional",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "customary, conventional",
+               "turkish_meaning" : "geleneksel",
+               "sample_sentences" : "It's <span style='color:red;'>traditional</span> for the bride to feed the groom the first piece of wedding cake."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/traditional",
+     "youglish_url" : "https://youglish.com/pronounce/traditional/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/traditional"},
+
+     {"word" : "tremendous",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "great, huge, enormous",
+               "turkish_meaning" : "büyük",
+               "sample_sentences" : "We have a <span style='color:red;'>tremendous</span> amount of work to do."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/tremendous",
+     "youglish_url" : "https://youglish.com/pronounce/tremendous/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/tremendous"},
+
+     {"word" : "trendy",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "fashionable",
+               "turkish_meaning" : "modaya uygun",
+               "sample_sentences" : "She wears <span style='color:red;'>trendy</span> clothes."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/trendy",
+     "youglish_url" : "https://youglish.com/pronounce/trendy/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/trendy"},
+
+     {"word" : "trustworthy",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "reliable, dependable",
+               "turkish_meaning" : "güvenilir",
+               "sample_sentences" : "I can assure that Berkan is a <span style='color:red;'>trustworthy</span> person that you can have complete confidence in."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/trustworthy",
+     "youglish_url" : "https://youglish.com/pronounce/trustworthy/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/trustworthy"},
+
+     {"word" : "ultimate",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "final, last, eventual",
+               "turkish_meaning" : "son, kesin",
+               "sample_sentences" : "The <span style='color:red;'>ultimate</span> decision in hiring is made by the company president himself."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/ultimate",
+     "youglish_url" : "https://youglish.com/pronounce/ultimate/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ultimate"},
+
+     {"word" : "unaccustomed (to)",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unused to",
+               "turkish_meaning" : "alışık olmayan",
+               "sample_sentences" : "If you have never visited a foreign country, you may be <span style='color:red;'>unaccustomed to</span> eating unfamiliar foods."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unaccustomed",
+     "youglish_url" : "https://youglish.com/pronounce/unaccustomed/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unaccustomed"},
+
+     {"word" : "unaltered",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unchanged",
+               "turkish_meaning" : "değişmeden",
+               "sample_sentences" : "The building remains relatively <span style='color:red;'>unaltered</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unaltered",
+     "youglish_url" : "https://youglish.com/pronounce/unaltered/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unaltered"},
+
+     {"word" : "unavoidable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "inevitable, inescapable",
+               "turkish_meaning" : "kaçınılmaz",
+               "sample_sentences" : "He is trying to cope with <span style='color:red;'>unavoidable</span> consequences of ageing."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unavoidable",
+     "youglish_url" : "https://youglish.com/pronounce/unavoidable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unavoidable"},
+
+     {"word" : "unemployed",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "jobless",
+               "turkish_meaning" : "işsiz",
+               "sample_sentences" : "A large number of people are <span style='color:red;'>unemployed</span>. What's worse, the rate of <span style='color:red;'>unemployed</span> is steadiliy rising."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unemployed",
+     "youglish_url" : "https://youglish.com/pronounce/unemployed/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unemployed"},
+
+     {"word" : "unique",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "matchless, exclusive, exceptional",
+               "turkish_meaning" : "eşsiz, benzersiz",
+               "sample_sentences" : "Shakespeare made a <span style='color:red;'>unique</span> contribution to the world literature."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unique",
+     "youglish_url" : "https://youglish.com/pronounce/unique/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unique"},
+
+     {"word" : "unlikely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "improbable",
+               "turkish_meaning" : "olası değil, olasılık dışı, muhtemel olmayan, olası olmayan",
+               "sample_sentences" : "It is <span style='color:red;'>unlikely</span> that she will accept the offer. / She is <span style='color:red;'>unlikely</span> to accept the offer. / He may come, but it is very <span style='color:red;'>unlikely</span>. / Puerto Rico has found an <span style='color:red;'>unlikely</span> solution to ease it surplus of pesky wild monkeys: ship them to Iraq."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unlikely",
+     "youglish_url" : "https://youglish.com/pronounce/unlikely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unlikely"},
+
+     {"word" : "unusual",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "extraordinary",
+               "turkish_meaning" : "olağan dışı, alışılmadık",
+               "sample_sentences" : "I searched and searched, but everything appeared ordinary. I found nothing <span style='color:red;'>unusual</span> to buy."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unusual",
+     "youglish_url" : "https://youglish.com/pronounce/unusual/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unusual"},
+
+     {"word" : "valuable",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "precious, important",
+               "turkish_meaning" : "değerli",
+               "sample_sentences" : "The nation of Gabon has some of the most <span style='color:red;'>valuable</span> natural resources in Africa."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/valuable",
+     "youglish_url" : "https://youglish.com/pronounce/valuable/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/valuable"},
+
+     {"word" : "victorious",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "winning, triumphant",
+               "turkish_meaning" : "muzaffer",
+               "sample_sentences" : "Our nation emerged <span style='color:red;'>victorious</span> in the battle that lasted for a week."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/victorious",
+     "youglish_url" : "https://youglish.com/pronounce/victorious/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/victorious"},
+
+     {"word" : "violent",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "fierce, powerful, brutal",
+               "turkish_meaning" : "şiddetli",
+               "sample_sentences" : "There was a <span style='color:red;'>violent</span> storm last Sunday. / <span style='color:red;'>Violent</span> crimes are on the increase."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/violent",
+     "youglish_url" : "https://youglish.com/pronounce/violent/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/violent"},
+
+     {"word" : "visible",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "able to be seen, noticeable, perceptible",
+               "turkish_meaning" : "görülebilir",
+               "sample_sentences" : "There is no <span style='color:red;'>visible</span> tendency for interest rates to decline."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/visible",
+     "youglish_url" : "https://youglish.com/pronounce/visible/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/visible"},
+
+     {"word" : "vital",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "very important, essential, critical",
+               "turkish_meaning" : "çok önemli, yaşamsal",
+               "sample_sentences" : "Getting the injured person to the hospital quickly is a <span style='color:red;'>vital</span> matter."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/vital",
+     "youglish_url" : "https://youglish.com/pronounce/vital/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/vital"},
+
+     {"word" : "wide-ranging",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "comprehensive, extensive",
+               "turkish_meaning" : "kapsamlı",
+               "sample_sentences" : "The new government plans to implement a package of <span style='color:red;'>wide-ranging</span> economic reforms."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/wide-ranging",
+     "youglish_url" : "https://youglish.com/pronounce/wide-ranging/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/wide-ranging"},
+
+     {"word" : "wise",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "clever, sensible, judicious",
+               "turkish_meaning" : "akıllı",
+               "sample_sentences" : "He has made a <span style='color:red;'>wise</span> choice."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/wise",
+     "youglish_url" : "https://youglish.com/pronounce/wise/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/wise"}
      ]
 }

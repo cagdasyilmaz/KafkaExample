@@ -73,6 +73,480 @@
      "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/as-regards",
      "youglish_url" : "https://youglish.com/pronounce/as%20regards/english?",
      "reverso_url" : "https://context.reverso.net/translation/english-turkish/as+regards"
+     },    
+
+     {"word" : "as to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "about, as regards, regarding",
+               "turkish_meaning" : "ilgili, hakkında",
+               "sample_sentences" : "Scientists disagree <span style='color:red;'>as to</span> what causes the disease. / No referendum has ever been <span style='color:red;'>as to</span> whether the UK should retain its membership in the EU."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/as-to",
+     "youglish_url" : "https://youglish.com/pronounce/as%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/as+to"
+     },
+
+     {"word" : "as well as",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in addition to",
+               "turkish_meaning" : "...nın yanı sıra",
+               "sample_sentences" : "<span style='color:red;'>As well as</span> new life and growth, the rains also bring death. / <span style='color:red;'>As well as</span> devising the theory of relativity, Albert Einstein was also responsible for a less celebrated discovery - a fridge."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/as-well?q=as+well+as#as-well__3",
+     "youglish_url" : "https://youglish.com/pronounce/as%20well%20as/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/as+well+as"
+     },
+
+     {"word" : "below",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "under, beneath, lower than",
+               "turkish_meaning" : "altında",
+               "sample_sentences" : "The temperature is generally <span style='color:red;'>below</span> zero during winter months."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/below",
+     "youglish_url" : "https://youglish.com/pronounce/below/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/below"
+     },
+
+     {"word" : "besides",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in addition to",
+               "turkish_meaning" : "... ek olarak, ...nin yanısıra, ...den başka",
+               "sample_sentences" : "There'll be five of us for dinner, <span style='color:red;'>besides</span> Bill."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/besides",
+     "youglish_url" : "https://youglish.com/pronounce/besides/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/besides"
+     }, 
+
+     {"word" : "beyond",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "further than, past",
+               "turkish_meaning" : "ötesinde",
+               "sample_sentences" : "Her cakes are <span style='color:red;'>beyond</span> compare."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/beyond",
+     "youglish_url" : "https://youglish.com/pronounce/beyond/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/beyond"
+     },
+
+     {"word" : "beyond recognition",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "beyond belief",
+               "turkish_meaning" : "...mayacak ölçüde",
+               "sample_sentences" : "She got burned <span style='color:red;'>beyond recognition</span> in a fire that broke out at the hotel where she was staying."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/beyond-belief-recognition?q=beyond+recognition",
+     "youglish_url" : "https://youglish.com/pronounce/beyond%20recognition/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/beyond+recognition"
+     },
+
+     {"word" : "but",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "except",
+               "turkish_meaning" : "...nın dışında",
+               "sample_sentences" : "We have no choice <span style='color:red;'>but</span> to accept the decision. / All day long he does nothing <span style='color:red;'>but</span> play computer games."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/but",
+     "youglish_url" : "https://youglish.com/pronounce/but/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/but"
+     },
+
+     {"word" : "by means of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "through",
+               "turkish_meaning" : "vasıtasıyla",
+               "sample_sentences" : "This is a one-year course taught <span style='color:red;'>by means of</span> lectures and seminars."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/means?q=means+of#means__4",
+     "youglish_url" : "https://youglish.com/pronounce/by%20means%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/by+means+of"
+     },
+
+     {"word" : "concerning",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "about, regarding",
+               "turkish_meaning" : "ilgili",
+               "sample_sentences" : "If you have any information <span style='color:red;'>concerning</span> the recent incidents, contact the police. / The inquiry <span style='color:red;'>concerning</span> the accident was handled by the chief of the police."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/concerning_1",
+     "youglish_url" : "https://youglish.com/pronounce/concerning/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/concerning"
+     }, 
+
+     {"word" : "contrary to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in opposition to",
+               "turkish_meaning" : "tersine, aksine",
+               "sample_sentences" : "<span style='color:red;'>Contrary to</span> popular opinion, Einstein did not invent relativity, Galileo preceded him. / <span style='color:red;'>Contrary to</span> popular belief, eating garlic - either raw or as a supplement - does not lower cholesterol levels."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/contrary?q=contrary+to#contrary__3",
+     "youglish_url" : "https://youglish.com/pronounce/contrary%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/contrary+to"
+     },
+
+     {"word" : "despite",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in spite of",
+               "turkish_meaning" : "rağmen",
+               "sample_sentences" : "<span style='color:red;'>Despite</span> its economic might, Germany is often criticized for the way business is conducted there."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/despite",
+     "youglish_url" : "https://youglish.com/pronounce/despite/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/despite"
+     },
+
+     {"word" : "due to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "because of, owing to, on account of",
+               "turkish_meaning" : "...den dolayı",
+               "sample_sentences" : "There are clear signs that interest rates could carry on rising to much higher levels <span style='color:red;'>due to</span> rising inflation."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/due-to?q=due+to+",
+     "youglish_url" : "https://youglish.com/pronounce/due%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/due+to"
+     },
+
+     {"word" : "given",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "considering, taking into account",
+               "turkish_meaning" : "göz önüne alınırsa, göz önüne alındığında",
+               "sample_sentences" : "<span style='color:red;'>Given</span> Erdem's experince in this area and his excellent qualifications, I'm sure they will give him the job."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/given_1",
+     "youglish_url" : "https://youglish.com/pronounce/given/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/given"
+     }, 
+
+     {"word" : "in contrast to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unlike, as opposed to",
+               "turkish_meaning" : "...nın tersine, ...den farklı olarak",
+               "sample_sentences" : "<span style='color:red;'>In contrast to</span> Saudi Arabia, which is a kingdom, Turkey is a republic."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/stand-be-in-contrast-to?q=in+contrast+to",
+     "youglish_url" : "https://youglish.com/pronounce/in%20contrast%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+contrast+to"
+     },
+
+     {"word" : "in exchange for",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in return for",
+               "turkish_meaning" : "karşılığında",
+               "sample_sentences" : "The two young men were given food and shelter <span style='color:red;'>in exchange for</span> work."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/in-exchange",
+     "youglish_url" : "https://youglish.com/pronounce/in%20exchange%20for/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+exchange+for"
+     },
+
+     {"word" : "in excess of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "more than, over and above",
+               "turkish_meaning" : "...den fazla, ...nin üstünde",
+               "sample_sentences" : "Our top agents earn <span style='color:red;'>in excess of</span> £7000 per month."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/in-excess-of-something",
+     "youglish_url" : "https://youglish.com/pronounce/in%20excess%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+excess+of"
+     },
+
+     {"word" : "in favour of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in support of",
+               "turkish_meaning" : "lehinde",
+               "sample_sentences" : "In the referendum, the majority of the people voted <span style='color:red;'>in favour of</span> the constitutional amendments."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/in-favour-of",
+     "youglish_url" : "https://youglish.com/pronounce/in%20favour%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+favour+of"
+     },
+
+     {"word" : "in proportion to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in relation to, in comparison with",
+               "turkish_meaning" : "oranla, kıyasla",
+               "sample_sentences" : "<span style='color:red;'>In proportion to</span> its population, Switzerland has the highest number of Nobel Laureates (Nobel Prize Winners). / You spend far too much time on that work <span style='color:red;'>in proportion to</span> its importance."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/proportion?q=in+proportion#proportion__8",
+     "youglish_url" : "https://youglish.com/pronounce/in%20proportion%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+proportion+to"
+     }, 
+
+     {"word" : "in spite of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "despite",
+               "turkish_meaning" : "rağmen",
+               "sample_sentences" : "They decided to get married <span style='color:red;'>in spite of</span> the huge differences in their ages."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/in-spite-of-something?q=in+spite+of",
+     "youglish_url" : "https://youglish.com/pronounce/in%20spite%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+spite+of"
+     },
+
+     {"word" : "in terms of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "with regard to, regarding, with respect to, as regards",
+               "turkish_meaning" : "bakımından, açısından, ilgili olarak",
+               "sample_sentences" : "The value of the knowledge is measured <span style='color:red;'>in terms of</span> its objectives and its usefulness."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/term_1?q=in+terms+of#term_1__12",
+     "youglish_url" : "https://youglish.com/pronounce/in%20terms%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+terms+of"
+     },  
+
+     {"word" : "in view of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "considering, taking into consideration, taking into account",
+               "turkish_meaning" : "göz önüne alarak, göz önüne alındığında",
+               "sample_sentences" : "<span style='color:red;'>In view of</span> globalization and the new high-tech economy, economic freedom cannot exist in an authoritarian political system. / <span style='color:red;'>In view of</span> the reluctance, or inability of the refugees to return their home countries, care and maintenance programs in refugee camps will have to be continued."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/in-view-of-something",
+     "youglish_url" : "https://youglish.com/pronounce/in%20view%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+view+of"
+     },  
+
+     {"word" : "irrespective of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "regardless of, no matter, despite, notwithstanding",
+               "turkish_meaning" : "bakmaksızın, dikkate almaksızın, ... olursa olsun, rağmen",
+               "sample_sentences" : "The law demands that workers be treated the same, <span style='color:red;'>irrespective of</span> sex or age. / According to the special theory of relativity, the velocity of light is the same for all observers, <span style='color:red;'>irrespective of</span> their own velocities."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/irrespective?q=irrespective+of#irrespective__2",
+     "youglish_url" : "https://youglish.com/pronounce/irrespective%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/irrespective+of"
+     },
+
+     {"word" : "notwithstanding",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in spite of, despite",
+               "turkish_meaning" : "rağmen",
+               "sample_sentences" : "Computing remains a growth area and one in which, <span style='color:red;'>notwithstanding</span> economic recessions, the outlook looks bright. / <span style='color:red;'>Notwithstanding</span> its shortcomings, the United Nations has played a pivotal role in preventing conflicts and promoting peace around the world."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/notwithstanding",
+     "youglish_url" : "https://youglish.com/pronounce/notwithstanding/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/notwithstanding"
+     },
+
+     {"word" : "on account of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "owing to, because of, due to, through",
+               "turkish_meaning" : "...den dolayı, ...den yüzünden",
+               "sample_sentences" : "The Amazon rain forest is an area of great scientific interest <span style='color:red;'>on account of</span> its unique plant and animal species."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/on-account-of",
+     "youglish_url" : "https://youglish.com/pronounce/on%20account%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/on+account+of"
+     },
+
+     {"word" : "owing to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "because of, due to, on account of, in consequence of",
+               "turkish_meaning" : "...den dolayı",
+               "sample_sentences" : "<span style='color:red;'>Owing to</span> the heavy rain, we had to give up the idea of a boat trip."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/owing-to",
+     "youglish_url" : "https://youglish.com/pronounce/owing%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/owing+to"
+     },
+
+     {"word" : "prior to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "before",
+               "turkish_meaning" : "... den önce",
+               "sample_sentences" : "The book was edited by Professor Wang <span style='color:red;'>prior to</span> publication."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/prior-to-something",
+     "youglish_url" : "https://youglish.com/pronounce/prior%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/prior+to"
+     },
+
+     {"word" : "regarding ",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "about, concerning, as regards",
+               "turkish_meaning" : "ilgili, bakımından",
+               "sample_sentences" : "None of us has any doubt <span style='color:red;'>regarding</span> your ability to do the work."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/regarding",
+     "youglish_url" : "https://youglish.com/pronounce/regarding%20/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/regarding"
+     },
+
+     {"word" : "regardless of",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "irrespective of, despite, notwithstanding, no matter",
+               "turkish_meaning" : "bakmaksızın, dikkate almaksızın, ... olursa olsun, rağmen",
+               "sample_sentences" : "Staying active helps more than just the mind, and it's a good idea for every one 65 and older, <span style='color:red;'>regardless of</span> their genetic makeup. / A recent study of more than 5,000 men and women found that being overweight does indeed affect your health, <span style='color:red;'>regardless of</span> how much time you spend at the gym. / <span style='color:red;'>Regardless of</span> how the developed world responds to the emerging giants, notably India and China, their economic power will go on growing."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/regardless-of",
+     "youglish_url" : "https://youglish.com/pronounce/regardless%20of/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/regardless+of"
+     },  
+
+     {"word" : "subsequent to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "after, following",
+               "turkish_meaning" : "... den sonra, sonrası",
+               "sample_sentences" : "The events I'm speaking of were <span style='color:red;'>subsequent to</span> the war."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/subsequent?q=subsequent+to#subsequent__3",
+     "youglish_url" : "https://youglish.com/pronounce/subsequent%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/subsequent+to"
+     },
+
+     {"word" : "such as",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "for example, for instance",
+               "turkish_meaning" : "gibi, örneğin",
+               "sample_sentences" : "The obese are at greater risk of heart attacks when they are exposed to pollution from sources <span style='color:red;'>such as</span> diesel exhaust or power plant emissions."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/such-as_1",
+     "youglish_url" : "https://youglish.com/pronounce/subsequent%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/subsequent+to"
+     },
+
+     {"word" : "thanks to",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "because of, on account of, due to",
+               "turkish_meaning" : "sayesinde",
+               "sample_sentences" : "<span style='color:red;'>Thanks to</span> information technology, many once non-tradable services, such as accounting, can be provided from afar."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/thanks-to",
+     "youglish_url" : "https://youglish.com/pronounce/thanks%20to/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/thanks+to"
+     },
+
+     {"word" : "through",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "by means of",
+               "turkish_meaning" : "vasıtasıyla",
+               "sample_sentences" : "Although polio has no cure, it is easily preventable <span style='color:red;'>through</span> vaccine."
+          },
+          {
+               "id": 2,
+               "synonym" : "until",
+               "turkish_meaning" : "... kadar",
+               "sample_sentences" : "The dentist works in his clinic from 4 o'clock <span style='color:red;'>through</span> 7 o'clock."
+          },
+          {
+               "id": 3,
+               "synonym" : "from side to side",
+               "turkish_meaning" : "içinden, arasından, ...den, ...dan ",
+               "sample_sentences" : "We walked <span style='color:red;'>through</span> the park. / The burglars entered the house <span style='color:red;'>through</span> the open window."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/through",
+     "youglish_url" : "https://youglish.com/pronounce/through/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/through"
+     },
+
+     {"word" : "via",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "by way of",
+               "turkish_meaning" : "yoluyla, vasıtasıyla",
+               "sample_sentences" : "Thousands of illegal migrants try to enter Italy each year <span style='color:red;'>via</span> Lampedusa, many in rickety boats. / Maternal depression can be transmitted from mother to child <span style='color:red;'>via</span> genetics, environment or through learned behavior - or more likely a combination of all three things."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/via",
+     "youglish_url" : "https://youglish.com/pronounce/via/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/via"
      }
      ]
 }

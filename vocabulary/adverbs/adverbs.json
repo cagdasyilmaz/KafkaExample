@@ -62,6 +62,1090 @@
           ],
      "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/annually",
      "youglish_url" : "https://youglish.com/pronounce/annually/english?",
-     "reverso_url" : "https://context.reverso.net/translation/english-turkish/annually"}
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/annually"},
+
+     {"word" : "anxiously",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "worriedly, uneasily, restlessly",
+               "turkish_meaning" : "kaygılı biçimde, huzursuz biçimde",
+               "sample_sentences" : "The relatives of the severely injured man waited <span style='color:red;'>anxiously</span> in the hall outside the operating theater."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/anxious?q=anxiously#anxious__11",
+     "youglish_url" : "https://youglish.com/pronounce/anxiously/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/anxiously"},
+
+     {"word" : "apparently",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "it seems that, seemingly",
+               "turkish_meaning" : "öyle görünüyor ki, görünürde",
+               "sample_sentences" : "A doctor who <span style='color:red;'>apparently</span> blew up his house to prevent his ex-wife benefiting from its sale died of his injuries. / Bill smiled, <span style='color:red;'>apparently</span> content with the promise."
+          },
+          {
+               "id": 2,
+               "synonym" : "evidently, obviously",
+               "turkish_meaning" : "her halde, besbelli ki",
+               "sample_sentences" : "<span style='color:red;'>Apparently</span>, she is quite enthusiastic about her evening classes."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/apparently",
+     "youglish_url" : "https://youglish.com/pronounce/apparently/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/apparently"},
+
+     {"word" : "appropriately",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "suitably, properly, correctly",
+               "turkish_meaning" : "uygun biçimde, doğru biçimde",
+               "sample_sentences" : "The issue was not dealt with <span style='color:red;'>appropriately</span>. / She was not dressed <span style='color:red;'>appropriately</span> for the occassion."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/appropriately",
+     "youglish_url" : "https://youglish.com/pronounce/appropriately/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/appropriately"},
+
+     {"word" : "astoundingly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "surprisingly",
+               "turkish_meaning" : "şaşırtıcı biçimde",
+               "sample_sentences" : "Football is <span style='color:red;'>astoundingly</span> popular in England."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/astounding?q=astoundingly#astounding__2",
+     "youglish_url" : "https://youglish.com/pronounce/astoundingly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/astoundingly"},
+
+     {"word" : "attentively",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "carefully",
+               "turkish_meaning" : "dikkatli biçimde",
+               "sample_sentences" : "The students listened to the teacher quite <span style='color:red;'>attentively</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/attentive?q=attentively#attentive__6",
+     "youglish_url" : "https://youglish.com/pronounce/attentively/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/attentively"},
+
+     {"word" : "barely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "hardly, scarcely, almost not",
+               "turkish_meaning" : "zar zor, güçlükle, hemen hemen hiç",
+               "sample_sentences" : "He was so drunk he could <span style='color:red;'>barely</span> stand. / There was so much noise in the classroom that the teacher's voice could <span style='color:red;'>barely</span> be heard."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/barely",
+     "youglish_url" : "https://youglish.com/pronounce/barely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/barely"},
+
+     {"word" : "bravely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "courageously, daringly",
+               "turkish_meaning" : "cesurca, cesaretle",
+               "sample_sentences" : "Our soldiers fought <span style='color:red;'>bravely</span> against the well-armed enemy."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/brave_1?q=bravely#brave_1__11",
+     "youglish_url" : "https://youglish.com/pronounce/bravely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/bravely"},
+
+     {"word" : "certainly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "definitely, surely",
+               "turkish_meaning" : "definitely, surely",
+               "sample_sentences" : "If nothing is done, there will <span style='color:red;'>certainly</span> be an economic crisis."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/certainly",
+     "youglish_url" : "https://youglish.com/pronounce/certainly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/certainly"},
+
+     {"word" : "comparatively",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "relatively",
+               "turkish_meaning" : "göreceli olarak",
+               "sample_sentences" : "The study of genetics dates only from the beginning of the present century and is, therefore, a <span style='color:red;'>comparatively</span> recent branch of science."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/comparatively",
+     "youglish_url" : "https://youglish.com/pronounce/comparatively/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/comparatively"},
+
+     {"word" : "considerably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "greatly, significantly, very much, to a large extent, substantially",
+               "turkish_meaning" : "büyük ölçüde, önemli ölçüde, çok, oldukça, epeyce",
+               "sample_sentences" : "Desert plants differ <span style='color:red;'>considerably</span> from one part of the world to another. / Painting the room white made it seem <span style='color:red;'>considerably</span> larger."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/considerably",
+     "youglish_url" : "https://youglish.com/pronounce/considerably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/considerably"},
+
+     {"word" : "conveniently",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "suitably, handily",
+               "turkish_meaning" : "uygun biçimde, elverişli biçimde",
+               "sample_sentences" : "The hotel is <span style='color:red;'>conveniently</span> located-within walking distance to the city center."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/conveniently",
+     "youglish_url" : "https://youglish.com/pronounce/conveniently/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/conveniently"},
+
+     {"word" : "courageously",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "bravely, daringly, boldly",
+               "turkish_meaning" : "cesurca, cesaretle",
+               "sample_sentences" : "The inhabitants of the town defended their town <span style='color:red;'>courageously</span> against the invading enemy troops."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/courageous?q=courageously#courageous__4",
+     "youglish_url" : "https://youglish.com/pronounce/courageously/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/courageously"},
+
+     {"word" : "determinedly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "resolutely, firmly",
+               "turkish_meaning" : "kararlı biçimde",
+               "sample_sentences" : "He was <span style='color:red;'>determinedly</span> opposed to changing the plan."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/determined?q=determinedly#determined__9",
+     "youglish_url" : "https://youglish.com/pronounce/determinedly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/determinedly"},
+
+     {"word" : "dramatically",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "considerably, significantly",
+               "turkish_meaning" : "önemli ölçüde",
+               "sample_sentences" : "The imperative for us as individuals is to <span style='color:red;'>dramatically</span> reduce our production of rubbish."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/dramatically",
+     "youglish_url" : "https://youglish.com/pronounce/dramatically/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/dramatically"},
+
+     {"word" : "eagerly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "keenly, enthusiastically, willingly, excitedly",
+               "turkish_meaning" : "istekle, hevesle, heyecanla",
+               "sample_sentences" : "She practiced the piano <span style='color:red;'>eagerly</span>. / We <span style='color:red;'>eagerly</span> awaited the announcement of the exam results."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/eagerly",
+     "youglish_url" : "https://youglish.com/pronounce/eagerly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/eagerly"},
+
+     {"word" : "enormously",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "extremely, tremendously, very much",
+               "turkish_meaning" : "çok, oldukça",
+               "sample_sentences" : "We are <span style='color:red;'>enormously</span> excited about your promotion."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/enormously",
+     "youglish_url" : "https://youglish.com/pronounce/enormously/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/enormously"},
+
+     {"word" : "evidently",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "clearly, obviously, plainly",
+               "turkish_meaning" : "açık bir biçimde, aşikar olarak, besbelli",
+               "sample_sentences" : "<span style='color:red;'>Evidently</span>, he has opposed to the plan."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/evidently",
+     "youglish_url" : "https://youglish.com/pronounce/evidently/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/evidently"},
+
+     {"word" : "exceedingly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "very, exceptionally, extremely",
+               "turkish_meaning" : "çok, oldukça, aşırı ölçüde",
+               "sample_sentences" : "The students have been <span style='color:red;'>exceedingly</span> helpful to the exchange student."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/exceedingly",
+     "youglish_url" : "https://youglish.com/pronounce/exceedingly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/exceedingly"},
+
+     {"word" : "exceptionally",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "extraordinarily, extremely, remarkably, very",
+               "turkish_meaning" : "olağanüstü, kayda değer ölçüde, çok",
+               "sample_sentences" : "His performance was <span style='color:red;'>exceptionally</span> good. / There must be special schools for <span style='color:red;'>exceptionally</span> gifted children."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/exceptionally",
+     "youglish_url" : "https://youglish.com/pronounce/exceptionally/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/exceptionally"},
+
+     {"word" : "extravagantly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "wastefully, excessively",
+               "turkish_meaning" : "müsrifçe, aşırı biçimde",
+               "sample_sentences" : "He spends his money <span style='color:red;'>extravagantly</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/extravagant?q=extravagantly#extravagant__9",
+     "youglish_url" : "https://youglish.com/pronounce/extravagantly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/extravagantly"},
+
+     {"word" : "extremely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "very, tremendously, enormously, exceptionally, exceedingly",
+               "turkish_meaning" : "çok, oldukça, aşırı",
+               "sample_sentences" : "We have an <span style='color:red;'>extremely</span> reliable operating system. / This book is <span style='color:red;'>extremely</span> useful for our students."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/extremely",
+     "youglish_url" : "https://youglish.com/pronounce/extremely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/extremely"},
+
+     {"word" : "frankly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "honestly",
+               "turkish_meaning" : "dürüstçe / içtenlikle söylemek gerekirse",
+               "sample_sentences" : "<span style='color:red;'>Frankly</span>, I didn't like the book that you recommended."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/frankly",
+     "youglish_url" : "https://youglish.com/pronounce/frankly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/frankly"},
+
+     {"word" : "frequently",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "often",
+               "turkish_meaning" : "sık sık",
+               "sample_sentences" : "We are flying more <span style='color:red;'>frequently</span> and further than ever before."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/frequently",
+     "youglish_url" : "https://youglish.com/pronounce/frequently/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/frequently"},
+
+     {"word" : "gradually",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "slowly, progressively, step by step",
+               "turkish_meaning" : "yavaş yavaş, adım adım",
+               "sample_sentences" : "Ali <span style='color:red;'>gradually</span> came to realize that his life would change."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/gradually",
+     "youglish_url" : "https://youglish.com/pronounce/gradually/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/gradually"},
+
+     {"word" : "haphazardly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "randomly, messily, irregularly",
+               "turkish_meaning" : "düzensiz biçimde, gelişi güzel",
+               "sample_sentences" : "Since the paragraph contained ideas listed <span style='color:red;'>haphazardly</span>, it lacked unity and coherence."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/haphazard?q=haphazardly#haphazard__2",
+     "youglish_url" : "https://youglish.com/pronounce/haphazardly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/haphazardly"},
+
+     {"word" : "immediately",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "right away, straight away, at once, instantly",
+               "turkish_meaning" : "hemen, derhal",
+               "sample_sentences" : "You must hand in your resignation <span style='color:red;'>immediately</span>. / She <span style='color:red;'>immediately</span> left the room."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/immediately",
+     "youglish_url" : "https://youglish.com/pronounce/immediately/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/immediately"},
+
+     {"word" : "increasingly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "more and more, progressively more",
+               "turkish_meaning" : "giderek artan biçimde",
+               "sample_sentences" : "<span style='color:red;'>Increasingly</span>, Afghans speak English. / Students are <span style='color:red;'>increasingly</span> forced to find part-time work during their holidays. / China is <span style='color:red;'>increasingly</span> eager to demonstrate its scientific prowess."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/increasingly",
+     "youglish_url" : "https://youglish.com/pronounce/increasingly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/increasingly"},
+
+     {"word" : "incredibly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unbelievably, amazingly, astoundingly",
+               "turkish_meaning" : "inanılmaz ölçüde, hayrete düşürecek biçimde",
+               "sample_sentences" : "All mountain activities are available in the <span style='color:red;'>incredibly</span> beautiful scenery of the Rocky Mountains."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/incredibly",
+     "youglish_url" : "https://youglish.com/pronounce/incredibly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/incredibly"},
+
+     {"word" : "invariably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "always, perpetually, consistently, constantly, continually, regularly",
+               "turkish_meaning" : "daima, sürekli biçimde",
+               "sample_sentences" : "<span style='color:red;'>Invariably</span>, strong periods in an economy give way to recession. / She almost <span style='color:red;'>invariably</span> gets her foodstuff from the supermarket in her neigborhood."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/invariably",
+     "youglish_url" : "https://youglish.com/pronounce/invariably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/invariably"},
+
+     {"word" : "indefinitely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "for a indefinite period, for ever",
+               "turkish_meaning" : "süresiz olarak",
+               "sample_sentences" : "Plans for a new high-speed link between London and the North drawn up by Britain's rail chief have been postponed <span style='color:red;'>indefinitely</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/indefinitely",
+     "youglish_url" : "https://youglish.com/pronounce/indefinitely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/indefinitely"},
+
+     {"word" : "initially",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "at first",
+               "turkish_meaning" : "başlangıçta",
+               "sample_sentences" : "I <span style='color:red;'>initially</span> liked the job, but it soon got boring."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/initially",
+     "youglish_url" : "https://youglish.com/pronounce/initially/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/initially"},
+
+     {"word" : "intensely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "very much",
+               "turkish_meaning" : "çok",
+               "sample_sentences" : "They obviously dislike each other <span style='color:red;'>intensely</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/intensely",
+     "youglish_url" : "https://youglish.com/pronounce/intensely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/intensely"},
+
+     {"word" : "intensively",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "exhaustively, intensely, intently, steadily, thoroughly",
+               "turkish_meaning" : "yoğun biçimde",
+               "sample_sentences" : "Most of lowland Britain is <span style='color:red;'>intensively</span> cultivated. / Tigers in India face a danger of extinction as they have been <span style='color:red;'>intensively</span> hunted over the past three decades."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/intensive?q=intensively#intensive__9",
+     "youglish_url" : "https://youglish.com/pronounce/intensively/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/intensively"},
+
+     {"word" : "intentionally",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "deliberately, purposely, on purpose",
+               "turkish_meaning" : "kasıtlı olarak",
+               "sample_sentences" : "He didn't ignore her <span style='color:red;'>intentionally</span>-he just didn't recognize her."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/intentional?q=intentionally#intentional__3",
+     "youglish_url" : "https://youglish.com/pronounce/intentionally/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/intentionally"},
+
+     {"word" : "in the meantime",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "meanwhile",
+               "turkish_meaning" : "bu arada",
+               "sample_sentences" : "The government waits for an economic miracle while, <span style='color:red;'>in the meantime</span>, whole industries collapse. / The movie start at 7.30. <span style='color:red;'>In the meantime</span>, let's eat dinner."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/meantime_1?q=in+the+meantime#meantime_1__4",
+     "youglish_url" : "https://youglish.com/pronounce/in%20the%20meantime/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/in+the+meantime"},
+     
+     {"word" : "merely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "just, only, simply",
+               "turkish_meaning" : "sadece",
+               "sample_sentences" : "Top professionals do not achieve success by <span style='color:red;'>merely</span> keeping up with new trends-they work to make them happen."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/merely",
+     "youglish_url" : "https://youglish.com/pronounce/merely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/merely"},
+
+     {"word" : "necessarily",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "always, unavoidably, inevitably, automatically",
+               "turkish_meaning" : "her zaman, kaçınılmaz olarak",
+               "sample_sentences" : "What is good for Google is not <span style='color:red;'>necessarily</span> good for the rest of the WEB. / Capitalism does not <span style='color:red;'>necessarily</span> lead to democracy."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/necessarily",
+     "youglish_url" : "https://youglish.com/pronounce/necessarily/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/necessarily"},
+
+     {"word" : "notably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "particularly, especially, markedly",
+               "turkish_meaning" : "özellikle, belirgin biçimde",
+               "sample_sentences" : "China has the highest number of coal miners with chest problems-most <span style='color:red;'>notably</span>, black lung disease."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/notably",
+     "youglish_url" : "https://youglish.com/pronounce/notably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/notably"},
+
+     {"word" : "obviously",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "clearly, evidently, apparently",
+               "turkish_meaning" : "besbelli, belli ki, aşikar olarak",
+               "sample_sentences" : "She was <span style='color:red;'>obviously</span> hesitant about whether to accept the job offer."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/obviously",
+     "youglish_url" : "https://youglish.com/pronounce/obviously/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/obviously"},
+
+     {"word" : "ordinarily",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "normally, generally, usually",
+               "turkish_meaning" : "normal olarak, genellikle",
+               "sample_sentences" : "It is <span style='color:red;'>ordinarily</span> warmer in the summer than in the spring. / He is <span style='color:red;'>ordinarily</span> a very quiet person."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/ordinarily",
+     "youglish_url" : "https://youglish.com/pronounce/ordinarily/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ordinarily"},
+
+     {"word" : "particularly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "exceptionally, specifically, remarkably",
+               "turkish_meaning" : "özellikle, göze çarpar biçimde",
+               "sample_sentences" : "The inhabitants of the Island are mixed, <span style='color:red;'>particularly</span> along the coast where there have been Malayan, Polynesian, Chinese and Arab influences."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/particularly",
+     "youglish_url" : "https://youglish.com/pronounce/particularly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/particularly"},
+
+     {"word" : "permanently",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "everlastingly, always, endlessly, eternaly, for good, lastingly, perpetually, unchangingly",
+               "turkish_meaning" : "daima, devamlı, sürekli olara",
+               "sample_sentences" : "The immigrant visas granted by the U.S. government are for people who want to live <span style='color:red;'>permanently</span> in the United States. / Every year thousands of innocent people are killed, maimed or <span style='color:red;'>permanently</span> disfigured by carelessly discarded cigarettes."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/permanently",
+     "youglish_url" : "https://youglish.com/pronounce/permanently/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/permanently"},
+
+     {"word" : "potentially",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "possibly but not yet, actually",
+               "turkish_meaning" : "muhtemelen, potansiyel olarak",
+               "sample_sentences" : "If an older people develops flu before they can get their jabs, the consequences could be <span style='color:red;'>potentially</span> life-threatening. / The information have gave could be <span style='color:red;'>potentially</span> useful."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/",
+     "youglish_url" : "https://youglish.com/pronounce/potentially/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/potentially"},
+
+     {"word" : "practically",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "almost, nearly, virtually",
+               "turkish_meaning" : "hemen hemen",
+               "sample_sentences" : "It is <span style='color:red;'>practically</span> impossible to eradicate some infectous diseases. / <span style='color:red;'>Practically</span> every school in this town has a gymnasium."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/practically",
+     "youglish_url" : "https://youglish.com/pronounce/practically/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/practically"},
+
+     {"word" : "precisely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "accurately, correctly, exactly, specifically",
+               "turkish_meaning" : "tam, kesin olarak, doğru biçimde, belirgin biçimde",
+               "sample_sentences" : "It was <span style='color:red;'>precisely</span> 5 o'clock when I left the office. / Values shold be <span style='color:red;'>precisely</span> indicated."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/precisely",
+     "youglish_url" : "https://youglish.com/pronounce/precisely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/precisely"},
+
+     {"word" : "presumably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "most probably, in all probability, apparently, seemingly",
+               "turkish_meaning" : "belkide, büyük olasılıkla, öyle görünüyor ki",
+               "sample_sentences" : "They are students, so <span style='color:red;'>presumably</span> they won’t have a lot of money. / <span style='color:red;'>Presumably</span>, she was right. / She was <span style='color:red;'>presumably</span> in her twenties. / He was <span style='color:red;'>presumably</span> illiterate."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/presumably",
+     "youglish_url" : "https://youglish.com/pronounce/presumably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/presumably"},
+
+     {"word" : "previously",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "formerly, earlier, in the past",
+               "turkish_meaning" : "eskiden, geçmişte",
+               "sample_sentences" : "The CAT scan allows a safe, painless, and rapid diagnosis of <span style='color:red;'>previously</span> inaccessible areas of the body."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/previously",
+     "youglish_url" : "https://youglish.com/pronounce/previously/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/previously"},
+
+     {"word" : "principally",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "mainly, predominantly, mostly, chiefly, primarily, largely",
+               "turkish_meaning" : "esas olarak, özellikle, çoğunlukla, genellikle",
+               "sample_sentences" : "Education, <span style='color:red;'>principally</span> for boys, flourished almost from the outset. / Vitamin A deficiency, often in association with protein-energy malnutration, <span style='color:red;'>principally</span> affects preschool children."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/principally",
+     "youglish_url" : "https://youglish.com/pronounce/principally/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/principally"},
+
+     {"word" : "prematurely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "ahead of time, too early, too soon",
+               "turkish_meaning" : "zamanından önce, çok erkenden",
+               "sample_sentences" : "The baby was born <span style='color:red;'>prematurely</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/premature?q=prematurely#premature__7",
+     "youglish_url" : "https://youglish.com/pronounce/prematurely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/prematurely"},
+
+     {"word" : "probably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "most likely, in all probability, perhaps",
+               "turkish_meaning" : "büyük olasılıkla, belkide",
+               "sample_sentences" : "You're <span style='color:red;'>probably</span> right. Next year I shall <span style='color:red;'>probably</span> be looking for a job."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/probably",
+     "youglish_url" : "https://youglish.com/pronounce/probably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/probably"},
+
+     {"word" : "profoundly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "greatly, intensely",
+               "turkish_meaning" : "büyük ölçüde, ciddi biçimde",
+               "sample_sentences" : "According to a report, significant warming will <span style='color:red;'>profoundly</span> change our planet."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/profound?q=profoundly#profound__15",
+     "youglish_url" : "https://youglish.com/pronounce//english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/"},
+
+     {"word" : "properly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "appropriately, correctly",
+               "turkish_meaning" : "uygun biçimde, doğru biçimde",
+               "sample_sentences" : "The investigation was not conducted <span style='color:red;'>properly</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/properly",
+     "youglish_url" : "https://youglish.com/pronounce/properly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/properly"},
+
+     {"word" : "relatively",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "comparatively",
+               "turkish_meaning" : "göreceli olarak, nispeten",
+               "sample_sentences" : "This book is rather difficult, but that one is <span style='color:red;'>relatively</span> easy."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/relatively",
+     "youglish_url" : "https://youglish.com/pronounce/relatively/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/relatively"},
+
+     {"word" : "reluctantly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unwillingly",
+               "turkish_meaning" : "isteksiz biçimde, gönülsüz olarak",
+               "sample_sentences" : "They walked out of the room <span style='color:red;'>reluctantly</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/reluctant?q=reluctantly#reluctant__7",
+     "youglish_url" : "https://youglish.com/pronounce/reluctantly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/reluctantly"},
+
+     {"word" : "remarkably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "amazingly, extremely, outstandingly",
+               "turkish_meaning" : "şaşırtıcı biçimde, çok göze batan ölçüde",
+               "sample_sentences" : "She seemed <span style='color:red;'>remarkably</span> self-confident for her age. / Given her lack of experience in this kind of job, she did <span style='color:red;'>remarkably</span> well."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/remarkably",
+     "youglish_url" : "https://youglish.com/pronounce/remarkably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/remarkably"},
+
+     {"word" : "respectively",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "in that order",
+               "turkish_meaning" : "sırasıyla",
+               "sample_sentences" : "Bob and Bill play for the Arsenal and Chelsea <span style='color:red;'>respectively</span>. / Hans and David come from Germany and England, <span style='color:red;'>respectively</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/respectively",
+     "youglish_url" : "https://youglish.com/pronounce/respectively/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/respectively"},
+
+     {"word" : "right away",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "immediately, at once, right now, straight away",
+               "turkish_meaning" : "hemen, derhal",
+               "sample_sentences" : "I want to start doing my homework <span style='color:red;'>right away</span>. / Our boss wants to see you <span style='color:red;'>right away</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/right-away",
+     "youglish_url" : "https://youglish.com/pronounce/right%20away/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/right+away"},
+
+     {"word" : "roughly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "approximately, about, around",
+               "turkish_meaning" : "yaklaşık, kabaca",
+               "sample_sentences" : "Galaxies consist of <span style='color:red;'>roughly</span> a hundred million stars."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/roughly",
+     "youglish_url" : "https://youglish.com/pronounce/roughly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/roughly"},
+
+     {"word" : "routinely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "regularly, habitually",
+               "turkish_meaning" : "düzenli olarak, sürekli biçimde",
+               "sample_sentences" : "The prisoners were <span style='color:red;'>routinely</span> tortured."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/routinely",
+     "youglish_url" : "https://youglish.com/pronounce/routinely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/routinely"},
+
+     {"word" : "rudely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "impolitely, disrespectfully",
+               "turkish_meaning" : "kabalık eder biçimde, saygısızca",
+               "sample_sentences" : "The police shouted neither <span style='color:red;'>rudely</span> nor unnecessarily. / He behaved <span style='color:red;'>rudely</span> towards her."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/rude?q=rudely#rude__12",
+     "youglish_url" : "https://youglish.com/pronounce/rudely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/rudely"},
+
+     {"word" : "scarcely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "barely, hardly, almost not, only just",
+               "turkish_meaning" : "hemen hemen hiç, güçlükle, zar zor",
+               "sample_sentences" : "She could <span style='color:red;'>scarcely</span> conceal her pleasure at his resignation."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/scarcely",
+     "youglish_url" : "https://youglish.com/pronounce/scarcely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/scarcely"},
+
+     {"word" : "selfishly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "egoistically, inconsiderately",
+               "turkish_meaning" : "bencil biçimde",
+               "sample_sentences" : "She behaves <span style='color:red;'>selfishly</span>. That's why she is not popular among her classmates."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/selfish?q=selfishly#selfish__4",
+     "youglish_url" : "https://youglish.com/pronounce/selfishly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/selfishly"},
+
+     {"word" : "severely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "seriously",
+               "turkish_meaning" : "ciddi biçimde",
+               "sample_sentences" : "A government report has warned that Britain's water supplies, health, ecosystem, planning system and tourist industry are likely to be <span style='color:red;'>severely</span> hit by climate change."
+          },
+          {
+               "id": 2,
+               "synonym" : "harshly, sternly",
+               "turkish_meaning" : "sert biçimde",
+               "sample_sentences" : "The police officers who staged an unauthorized protest march were <span style='color:red;'>severely</span> punished."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/severely",
+     "youglish_url" : "https://youglish.com/pronounce/severely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/severely"},
+
+     {"word" : "significantly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "considerably, drastically",
+               "turkish_meaning" : "önemli ölçüde",
+               "sample_sentences" : "By reducing car use, we can cut our transport emissions <span style='color:red;'>significantly</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/significantly",
+     "youglish_url" : "https://youglish.com/pronounce/significantly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/significantly"},
+
+     {"word" : "sincerely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "honestly, really, genuinely",
+               "turkish_meaning" : "içtenlikle, gerçekten",
+               "sample_sentences" : "I <span style='color:red;'>sincerely</span> wish the best for you in the future. / We <span style='color:red;'>sincerely</span> hope that you will be successful."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/sincerely",
+     "youglish_url" : "https://youglish.com/pronounce/sincerely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/sincerely"},
+
+     {"word" : "solely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "only, exclusively",
+               "turkish_meaning" : "sadece",
+               "sample_sentences" : "Experimental psychologists do not limit themselves <span style='color:red;'>solely</span> to experimental methods. / You are <span style='color:red;'>solely</span> responsible for maintaining the confidentially of your password and account."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/solely",
+     "youglish_url" : "https://youglish.com/pronounce/solely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/solely"},
+
+     {"word" : "specifically",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "specially, exclusively, distinctively",
+               "turkish_meaning" : "özellikle, belirgin biçimde",
+               "sample_sentences" : "The course was <span style='color:red;'>specifically</span> designed for false beginners."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/specifically",
+     "youglish_url" : "https://youglish.com/pronounce/specifically/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/specifically"},
+
+     {"word" : "strictly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "severely, harshly, rigidly",
+               "turkish_meaning" : "sıkı biçimde, katı biçimde",
+               "sample_sentences" : "The two boys were <span style='color:red;'>strictly</span> brought up by their parents."
+          },
+          {
+               "id": 2,
+               "synonym" : "exactly, accurately",
+               "turkish_meaning" : "tam anlamıyla, kesin olarak",
+               "sample_sentences" : "What your saying is not <span style='color:red;'>strictly</span> true."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/strictly",
+     "youglish_url" : "https://youglish.com/pronounce/strictly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/strictly"},
+
+     {"word" : "strongly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "intensely, vehemently",
+               "turkish_meaning" : "şiddetle",
+               "sample_sentences" : "He remains <span style='color:red;'>strongly</span> opposed yp nuclear power stations."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/strongly",
+     "youglish_url" : "https://youglish.com/pronounce/strongly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/strongly"},
+
+     {"word" : "sufficiently",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "adequately",
+               "turkish_meaning" : "yeterince",
+               "sample_sentences" : "The message is <span style='color:red;'>sufficiently</span> clear."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/sufficiently",
+     "youglish_url" : "https://youglish.com/pronounce/sufficiently/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/sufficiently"},
+
+     {"word" : "surely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "certainly, definitely, of course",
+               "turkish_meaning" : "kesin olarak",
+               "sample_sentences" : "Academics tend to use journalism as a dirty word, but <span style='color:red;'>surely</span> some of the best writers have been journalists."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/surely",
+     "youglish_url" : "https://youglish.com/pronounce/surely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/surely"},
+
+     {"word" : "thoroughly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "completely",
+               "turkish_meaning" : "tümüyle",
+               "sample_sentences" : "He <span style='color:red;'>thoroughly</span> confused the issue."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/thoroughly",
+     "youglish_url" : "https://youglish.com/pronounce/thoroughly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/thoroughly"},
+
+     {"word" : "ultimately",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "finally, at last, in the end, eventually",
+               "turkish_meaning" : "sonunda",
+               "sample_sentences" : "We don't know whether all those infected will <span style='color:red;'>ultimately</span> develop AIDS."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/ultimately",
+     "youglish_url" : "https://youglish.com/pronounce/ultimately/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/ultimately"},
+
+     {"word" : "unbelievably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "incredibly, extremely, extraordinarily",
+               "turkish_meaning" : "inanılmaz ölçüde, çok, olağanüstü ölçüde",
+               "sample_sentences" : "The program is <span style='color:red;'>unbelievably</span> successful at doing what it is designed to do."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unbelievably",
+     "youglish_url" : "https://youglish.com/pronounce/unbelievably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unbelievably"},
+
+     {"word" : "understandably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "justifiably",
+               "turkish_meaning" : "haklı olarak",
+               "sample_sentences" : "Parents are <span style='color:red;'>understandably</span> worried about the increasing levels of violence in schools."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/understandably",
+     "youglish_url" : "https://youglish.com/pronounce/understandably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/understandably"},
+
+     {"word" : "unmistakably",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "unquestionably, obviously, clearly, unambigiously",
+               "turkish_meaning" : "kuşku bırakmaz biçimde, açıkça",
+               "sample_sentences" : "Saddam Hussein was <span style='color:red;'>unmistakably</span> guilty of repeated monstrous crimes against humanity and his own people."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/unmistakably",
+     "youglish_url" : "https://youglish.com/pronounce/unmistakably/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/unmistakably"},
+
+     {"word" : "vastly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "greatly, immensely",
+               "turkish_meaning" : "büyük ölçüde",
+               "sample_sentences" : "The management of the factory could <span style='color:red;'>vastly</span> be improved by these innovative techniques."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/vastly",
+     "youglish_url" : "https://youglish.com/pronounce/vastly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/vastly"},
+
+     {"word" : "vigorously",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "energetically, forcefully, strongly",
+               "turkish_meaning" : "enerjik biçimde, güçlü biçimde",
+               "sample_sentences" : "Exercising <span style='color:red;'>vigorously</span> may pose a risk for some people, particularly old people."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/vigorously",
+     "youglish_url" : "https://youglish.com/pronounce/vigorously/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/vigorously"},
+
+     {"word" : "virtually",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "almost, practically",
+               "turkish_meaning" : "hemen hemen",
+               "sample_sentences" : "<span style='color:red;'>Virtually</span> every student in this school has access to the Internet."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/virtually",
+     "youglish_url" : "https://youglish.com/pronounce/virtually/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/virtually"},
+
+     {"word" : "voluntarily",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "willingly, of one's own accord",
+               "turkish_meaning" : "gönüllü olarak, kendi isteğiyle",
+               "sample_sentences" : "Melih <span style='color:red;'>voluntarily</span> offered to help me to paint my office."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/voluntarily",
+     "youglish_url" : "https://youglish.com/pronounce/voluntarily/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/voluntarily"},
+
+     {"word" : "willingly",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "keenly, eagerly, enthusiastically, voluntarily",
+               "turkish_meaning" : "istekle, hevesle",
+               "sample_sentences" : "He undertook the job <span style='color:red;'>willingly</span>."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/willingly",
+     "youglish_url" : "https://youglish.com/pronounce/willingly/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/willingly"},
+
+     {"word" : "wisely",
+     "synonyms_related_words" : [ 
+          {
+               "id": 1,
+               "synonym" : "cleverly, intelligently",
+               "turkish_meaning" : "akıllı bir biçimde",
+               "sample_sentences" : "She acted <span style='color:red;'>wisely</span> by not making a big issue out of her husband's neglectfulness."
+          }
+          ],
+     "macmillan_url" : "https://www.macmillandictionary.com/dictionary/british/wisely",
+     "youglish_url" : "https://youglish.com/pronounce/wisely/english?",
+     "reverso_url" : "https://context.reverso.net/translation/english-turkish/wisely"}
      ]
  }
