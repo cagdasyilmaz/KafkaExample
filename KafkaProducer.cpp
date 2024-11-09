@@ -59,7 +59,7 @@ int main(int argc, char* argv[])
             std::cerr << "Failed to send message" << std::endl;
             return -1;
         }
-        std::this_thread::sleep_for(std::chrono::seconds(2));
+        std::this_thread::sleep_for(std::chrono::seconds(1));
     }
 
     google::ShutdownGoogleLogging();
