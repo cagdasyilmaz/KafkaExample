@@ -26,11 +26,11 @@
 #include "../include/Logger.h"
 
 // Define ANSI color codes
-const char* RESET_COLOR = "\033[0m";
-const char* RED_COLOR = "\033[31m";    // Red for ERROR
-const char* BLUE_COLOR = "\033[34m";   // Blue for INFO
+const char* RESET_COLOR  = "\033[0m";
+const char* RED_COLOR    = "\033[31m"; // Red for ERROR
+const char* BLUE_COLOR   = "\033[34m"; // Blue for INFO
 const char* YELLOW_COLOR = "\033[33m"; // Yellow for WARNING
-const char* GREEN_COLOR = "\033[32m";  // Green for FATAL
+const char* GREEN_COLOR  = "\033[32m"; // Green for FATAL
 
 void initLogger(const std::string& name)
 {
@@ -53,56 +53,29 @@ void initLogger(const std::string& name)
     // Flush logs immediately after writing
     FLAGS_logbufsecs = 0;  // No buffer, immediate flush
 
-    // Disable default logging
-    FLAGS_logtostdout = false;
-    FLAGS_log_prefix = false;  // Disable default prefix since we're using a custom sink
+    FLAGS_logtostdout = false;   // Disable default logging
+    FLAGS_log_prefix = false;    // Disable default prefix since we're using a custom sink
+    FLAGS_log_utc_time = false;
+    FLAGS_timestamp_in_logfile_name = true;
+    FLAGS_log_prefix = true;
 
     // Add the custom log sink
     auto* customSink = new CustomLogSink();  // Allocating manually
-
-    //CustomLogSink* customSink = new CustomLogSink();
+    customSink->start();  // Start the monitoring thread after construction
     google::AddLogSink(customSink);
 }
 
-/*void CustomLogSink::send(google::LogSeverity severity, const char *full_filename, const char *base_filename, int line,
-                         const struct tm* tm_time, const char* message, size_t message_len) {
-    // Get current time with millisecond precision
-    auto now = std::chrono::system_clock::now();
-    auto milliseconds = std::chrono::duration_cast<std::chrono::milliseconds>(now.time_since_epoch()).count() % 1000;
+CustomLogSink::~CustomLogSink() {
+    running = false;
+    if (sizeMonitorThread.joinable()) sizeMonitorThread.join();
+}
 
-    // Format log with timestamp and milliseconds
-    char buffer[30];
-    strftime(buffer, 30, "%Y%m%d %H:%M:%S", tm_time);  // Format time up to seconds
-
-    // Determine log level and color
-    const char* color_code;
-    std::string log_level;
-    switch (severity) {
-        case google::INFO:
-            log_level = "I";
-            color_code = BLUE_COLOR;
-            break;
-        case google::WARNING:
-            log_level = "W";
-            color_code = YELLOW_COLOR;
-            break;
-        case google::ERROR:
-            log_level = "E";
-            color_code = RED_COLOR;
-            break;
-        case google::FATAL:
-            log_level = "F";
-            color_code = GREEN_COLOR;
-            break;
-        default:
-            color_code = RESET_COLOR;
-    }
-
-    // Print log message with colorized log level
-    std::cout << "[" << buffer << "." << std::setw(3) << std::setfill('0') << milliseconds << "] "
-              << color_code << "[" << log_level << "]" << RESET_COLOR << " "
-              << std::string(message, message_len) << std::endl;
-}*/
+void CustomLogSink::start() {
+    // Initialize the running flag here and start the thread
+    running = true;
+    sizeMonitorThread = std::thread(&CustomLogSink::checkAndCompressLog, this);
+    LOG(INFO) << "Logger closed" << std::endl;
+}
 
 void CustomLogSink::send(google::LogSeverity severity, const char* full_filename, const char* base_filename,
                          int line, const google::LogMessageTime& log_message_time, const char* message, size_t message_len)
@@ -143,4 +116,28 @@ void CustomLogSink::send(google::LogSeverity severity, const char* full_filename
     std::cout << "[" << buffer << "." << std::setw(6) << std::setfill('0') << microseconds << "] "
               << color_code << "[" << log_level << "]" << RESET_COLOR << " "
               << std::string(message, message_len) << std::endl;
+}
+
+void CustomLogSink::checkAndCompressLog() const {
+    while (running) {
+        std::this_thread::sleep_for(std::chrono::seconds(10));
+        for (const auto& entry : std::filesystem::directory_iterator(FLAGS_log_dir)) {
+            if (entry.path().extension() == ".txt" && std::filesystem::file_size(entry) >= FLAGS_max_log_size * 1024 * 1024) {
+                // Remove .txt extension from filename
+                std::filesystem::path renamedPath = entry.path();
+                renamedPath.replace_extension("");  // Remove the .txt extension
+
+                try {
+                    std::filesystem::rename(entry.path(), renamedPath);  // Rename to remove .txt
+                    std::string command = "bzip2 --force --best " + renamedPath.string();    // --best aliases are primarily for GNU gzip compatibility
+
+                    if (int result = std::system(command.c_str()); result != 0) {
+                        LOG(ERROR) << "Error: Compression of " << renamedPath << " failed with error code " << result;
+                    }
+                } catch (const std::filesystem::filesystem_error& e) {
+                    LOG(ERROR) << "Error renaming file " << entry.path() << ": " << e.what();
+                }
+            }
+        }
+    }
 }
