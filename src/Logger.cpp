@@ -65,7 +65,7 @@ void initLogger(const std::string& name)
     google::AddLogSink(customSink);
 }
 
-CustomLogSink::~CustomLogSink() {
+CustomLogSink::~CustomLogSink(){
     running = false;
     if (sizeMonitorThread.joinable()) sizeMonitorThread.join();
 }
