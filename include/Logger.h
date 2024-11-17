@@ -39,7 +39,8 @@ void initLogger(const std::string& name);
 
 class CustomLogSink : public google::LogSink {
 public:
-    ~CustomLogSink();
+    CustomLogSink(const std::string& udpAddress, unsigned short udpPort);
+    ~CustomLogSink() override;
 
     // Start the thread after the object is fully constructed
     void start();
