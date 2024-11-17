@@ -25,31 +25,36 @@
 
 #pragma once
 
+#include "UDPLogger.h"
+#include "ProtoLog.pb.h"
+
 #include <glog/logging.h>
 
 #include <chrono>
 #include <iomanip>
-#include <iostream>
 #include <filesystem>
 #include <fstream>
 #include <thread>
 #include <atomic>
 
-void initLogger(const std::string& name);
+void initLogger(const std::string& name, const unsigned int port);
 
 class CustomLogSink : public google::LogSink {
 public:
     CustomLogSink(const std::string& udpAddress, unsigned short udpPort);
     ~CustomLogSink() override;
 
-    // Start the thread after the object is fully constructed
-    void start();
+    void start(); // Start the thread after the object is fully constructed
 
     void send(google::LogSeverity severity, const char* full_filename, const char* base_filename, int line,
                          const google::LogMessageTime& log_message_time, const char* message, size_t message_len) override;
 
 private:
-    std::atomic<bool> running;
-    std::thread sizeMonitorThread;
-    void checkAndCompressLog() const;
+    std::atomic<bool> running;             // Flag to exit from program
+    std::thread sizeMonitorThread;         // Log file compression thread
+
+    std::unique_ptr<UDPLogger> udpLogger;  // UDP Logger mechanism to publish LOG via loopback
+    ProtoLog log;                          // UDP Logging mechanism will be handled via ProtoBuffer
+
+    void checkAndCompressLog() const;      // Private member function
 };
