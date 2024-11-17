@@ -26,22 +26,26 @@
 #include "include/KafkaProducerWrapper.h"
 #include "include/JSONDatabaseVocabulary.h"
 #include "include/Logger.h"
+#include "include/UDPServer.h"
 
 void stopRunning(int sig) {
-    if (sig != SIGINT) return;
-
-    if (running) {
-        running = false;
-    } else {
-        // Restore the signal handler, to avoid being stuck with this handler
-        signal(SIGINT, SIG_IGN); // NOLINT
+    if (sig == SIGINT || sig == SIGTSTP || sig == SIGTERM) {
+        running = false; // Signal the application to stop
     }
 }
 
 int main(int argc, char* argv[])
 {
+    // Signal handling
+    signal(SIGINT, stopRunning);  // Handle Ctrl-C
+    signal(SIGTSTP, stopRunning); // Handle Ctrl-Z
+
     //initLogger("KafkaProducer");
-    initLogger("KafkaProducer");
+    initLogger("KafkaProducer", 55555);
+
+    // Start the UDP server
+    auto udpServer = std::make_unique<UDPServer>("127.0.0.1", 55555);
+    std::thread serverThread([&udpServer]() { udpServer->start(); });
 
     initialize_JSON_Vocabulary_Classes();
 
