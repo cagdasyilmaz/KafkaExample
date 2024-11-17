@@ -25,45 +25,41 @@
 
 #include "../include/Logger.h"
 
-// Define ANSI color codes
-const char* RESET_COLOR  = "\033[0m";
-const char* RED_COLOR    = "\033[31m"; // Red for ERROR
-const char* BLUE_COLOR   = "\033[34m"; // Blue for INFO
-const char* YELLOW_COLOR = "\033[33m"; // Yellow for WARNING
-const char* GREEN_COLOR  = "\033[32m"; // Green for FATAL
-
-void initLogger(const std::string& name)
+void initLogger(const std::string& name, const unsigned int port)
 {
     google::InitGoogleLogging(name.c_str());
 
     // Define log directory path based on the program name
     std::string logDir = "../KafkaLogs/" + name;
 
+    // Set log directory
+    FLAGS_log_dir = logDir;
+
     // Check if directory exists, if not, create it
     if (!std::filesystem::exists(logDir)) {
         std::filesystem::create_directories(logDir);  // Recursively create directories
     }
 
-    // Set log directory
-    FLAGS_log_dir = logDir;
-
-    // Rotate log file after reaching 10MB
+    // Rotate log file after reaching 1MB
     FLAGS_max_log_size = 1;  // Log file size limit in MB
 
     // Flush logs immediately after writing
-    FLAGS_logbufsecs = 0;  // No buffer, immediate flush
+    FLAGS_logbufsecs = 0;    // No buffer, immediate flush
 
     FLAGS_logtostdout = false;   // Disable default logging
     FLAGS_log_prefix = false;    // Disable default prefix since we're using a custom sink
-    FLAGS_log_utc_time = false;
-    FLAGS_timestamp_in_logfile_name = true;
-    FLAGS_log_prefix = true;
+    FLAGS_log_utc_time = false;  // Disable UTC time in the log file
+    FLAGS_timestamp_in_logfile_name = true;  // Enable timestamp in the log file name
+    FLAGS_log_prefix = true;                 // Enable log prefix
 
     // Add the custom log sink
-    auto* customSink = new CustomLogSink();  // Allocating manually
+    auto* customSink = new CustomLogSink("127.0.0.1", port);
     customSink->start();  // Start the monitoring thread after construction
     google::AddLogSink(customSink);
 }
+
+CustomLogSink::CustomLogSink(const std::string& udpAddress, unsigned short udpPort)
+    : running(false), udpLogger(std::make_unique<UDPLogger>(udpAddress, udpPort)) {}
 
 CustomLogSink::~CustomLogSink(){
     running = false;
@@ -71,10 +67,9 @@ CustomLogSink::~CustomLogSink(){
 }
 
 void CustomLogSink::start() {
-    // Initialize the running flag here and start the thread
-    running = true;
+    running = true;   // Initialize the running flag here and start the thread
     sizeMonitorThread = std::thread(&CustomLogSink::checkAndCompressLog, this);
-    LOG(INFO) << "Logger closed" << std::endl;
+    LOG(INFO) << "Logger started!" << std::endl;
 }
 
 void CustomLogSink::send(google::LogSeverity severity, const char* full_filename, const char* base_filename,
@@ -82,45 +77,61 @@ void CustomLogSink::send(google::LogSeverity severity, const char* full_filename
 {
     // Extract the timestamp information from LogMessageTime
     const std::tm& tm_time = log_message_time.tm();
-    int32_t microseconds = log_message_time.usec();  // Get the microseconds part
+    const long microseconds = log_message_time.usec();  // Get the microseconds part
 
     // Format the log timestamp including microseconds
     char buffer[30];
     strftime(buffer, 30, "%Y/%m/%d %H:%M:%S", &tm_time);  // Format time up to seconds
 
-    // Determine log level and color
-    const char* color_code;
+    // Determine log level
     std::string log_level;
     switch (severity) {
         case google::INFO:
             log_level = "I";
-        color_code = BLUE_COLOR;
-        break;
+            break;
         case google::WARNING:
             log_level = "W";
-        color_code = YELLOW_COLOR;
-        break;
+            break;
         case google::ERROR:
             log_level = "E";
-        color_code = RED_COLOR;
-        break;
+            break;
         case google::FATAL:
             log_level = "F";
-        color_code = GREEN_COLOR;
-        break;
+            break;
         default:
-            color_code = RESET_COLOR;
+            break;
+    }
+
+    std::ostringstream logDate, logSeverity;
+    logDate << "[" << buffer << "." << std::setw(6) << std::setfill('0') << microseconds << "]";
+    logSeverity << log_level;
+
+    log.Clear();
+    log.set_log_date(logDate.str());
+    log.set_log_severity(logSeverity.str());
+    log.set_log_message(std::string(message, message_len));
+
+    // Serialize the Protobuf log message to a string
+    std::string serializedLog;
+    if (!log.SerializeToString(&serializedLog)) {
+        LOG(ERROR) << "Failed to serialize log message" << std::endl;
+        return;
+    }
+
+    // Send log to UDP if it is enabled
+    if (udpLogger) {
+        udpLogger->sendLog(serializedLog);
     }
 
     // Print log message with colorized log level and microsecond precision
-    std::cout << "[" << buffer << "." << std::setw(6) << std::setfill('0') << microseconds << "] "
+    /*std::cout << "[" << buffer << "." << std::setw(6) << std::setfill('0') << microseconds << "] "
               << color_code << "[" << log_level << "]" << RESET_COLOR << " "
-              << std::string(message, message_len) << std::endl;
+              << std::string(message, message_len) << std::endl;*/
 }
 
 void CustomLogSink::checkAndCompressLog() const {
     while (running) {
-        std::this_thread::sleep_for(std::chrono::seconds(10));
+        std::this_thread::sleep_for(std::chrono::seconds(30));
         for (const auto& entry : std::filesystem::directory_iterator(FLAGS_log_dir)) {
             if (entry.path().extension() == ".txt" && std::filesystem::file_size(entry) >= FLAGS_max_log_size * 1024 * 1024) {
                 // Remove .txt extension from filename
