@@ -33,8 +33,8 @@ using namespace kafka::clients::consumer;
 
 inline void property_settings(Properties& props)
 {
-    const std::string brokers = "127.0.0.1:9092";    // NOLINT
-    //const std::string brokers = "192.168.1.43:9092";    // NOLINT
+    const std::string brokers = "127.0.0.1:9092";
+    //const std::string brokers = "192.168.1.43:9092";
 
     props.put("bootstrap.servers", brokers);
     props.put("group.id", "1");
