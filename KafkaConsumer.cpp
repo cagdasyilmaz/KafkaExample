@@ -25,26 +25,23 @@
 
 #include "include/KafkaConsumerWrapper.h"
 #include "include/Logger.h"
+#include "include/UDPServer.h"
 
 std::atomic_bool running = {true};
 
 void stopRunning(int sig) {
-    if (sig != SIGINT) return;
-
-    if (running) {
-        running = false;
-    } else {
-        // Restore the signal handler, to avoid being stuck with this handler
-        signal(SIGINT, SIG_IGN); // NOLINT
+    if (sig == SIGINT || sig == SIGTSTP || sig == SIGTERM) {
+        running = false; // Signal the application to stop
     }
 }
 
 int main(int argc, char* argv[]) {
 
-    initLogger("KafkaConsumer");
+    initLogger("KafkaConsumer", 55556);
 
-    // Use Ctrl-C to terminate the program
-    signal(SIGINT, stopRunning); // NOLINT
+    // Start the UDP server
+    auto udpServer = std::make_unique<UDPServer>("127.0.0.1", 55556);
+    std::thread serverThread([&udpServer]() { udpServer->start(); });
 
     // Kafka topic and properties
     const Topic topic = "test"; // NOLINT
@@ -53,6 +50,10 @@ int main(int argc, char* argv[]) {
 
     // Create a KafkaConsumerWrapper instance
     KafkaConsumerWrapper consumerWrapper(topic, props);
+
+    // Signal handling
+    signal(SIGINT, stopRunning);  // Handle Ctrl-C
+    signal(SIGTSTP, stopRunning); // Handle Ctrl-Z
 
     // Start the consumer in a polling loop
     consumerWrapper.start();
