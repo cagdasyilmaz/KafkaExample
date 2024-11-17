@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message ProtoLog {
+  string log_date = 1;
+  string log_severity = 2;
+  string log_message = 3;
+}
