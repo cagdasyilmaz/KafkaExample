@@ -24,23 +24,29 @@ pkg_check_modules(RDKAFKA REQUIRED IMPORTED_TARGET rdkafka)
 
 find_package(protobuf CONFIG REQUIRED)
 find_package(Threads REQUIRED)
-
 find_package(glog 0.7.1 REQUIRED)
+find_package(Boost REQUIRED COMPONENTS system)
 
 include_directories(/include)
 
 add_executable(KafkaProducer KafkaProducer.cpp
                              src/Logger.cpp
+                             src/UDPLogger.cpp
+                             src/UDPServer.cpp
                              src/Vocabulary.pb.cc
+                             src/ProtoLog.pb.cc
                              src/JSONDatabaseVocabulary.cpp
                              src/KafkaProducerWrapper.cpp)
-target_link_libraries(KafkaProducer PRIVATE Threads::Threads PkgConfig::RDKAFKA protobuf::libprotobuf glog::glog)
+target_link_libraries(KafkaProducer PRIVATE Threads::Threads PkgConfig::RDKAFKA protobuf::libprotobuf glog::glog Boost::system)
 
 add_executable(KafkaConsumer KafkaConsumer.cpp
                              src/Logger.cpp
+                             src/UDPLogger.cpp
+                             src/UDPServer.cpp
                              src/KafkaConsumerWrapper.cpp
-                             src/Vocabulary.pb.cc)
-target_link_libraries(KafkaConsumer PRIVATE Threads::Threads PkgConfig::RDKAFKA protobuf::libprotobuf glog::glog)
+                             src/Vocabulary.pb.cc
+                             src/ProtoLog.pb.cc)
+target_link_libraries(KafkaConsumer PRIVATE Threads::Threads PkgConfig::RDKAFKA protobuf::libprotobuf glog::glog Boost::system)
 
 add_executable(KafkaAdminClient KafkaAdminClient.cpp)
 target_link_libraries(KafkaAdminClient PRIVATE Threads::Threads PkgConfig::RDKAFKA protobuf::libprotobuf)
